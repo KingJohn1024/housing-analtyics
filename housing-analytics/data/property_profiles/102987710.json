@@ -1,0 +1,3523 @@
+{
+  "abbreviatedAddress": "531-535 E 3rd St APT 535-2",
+  "address": {
+    "city": "South Boston",
+    "community": null,
+    "neighborhood": null,
+    "state": "MA",
+    "streetAddress": "531-535 E 3rd St APT 535-2",
+    "subdivision": null,
+    "zipcode": "02127"
+  },
+  "apartmentsForRentInZipcodeSearchUrl": {
+    "path": "/boston-ma-02127/apartments/"
+  },
+  "attributionInfo": {
+    "agentEmail": null,
+    "agentLicenseNumber": null,
+    "agentName": null,
+    "agentPhoneNumber": null,
+    "attributionTitle": null,
+    "brokerName": null,
+    "brokerPhoneNumber": null,
+    "buyerAgentMemberStateLicense": null,
+    "buyerAgentName": null,
+    "buyerBrokerageName": null,
+    "coAgentLicenseNumber": null,
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString10": null,
+    "infoString16": null,
+    "infoString3": null,
+    "infoString5": null,
+    "lastChecked": null,
+    "lastUpdated": null,
+    "listingAgentAttributionContact": null,
+    "listingAgents": [],
+    "listingAgreement": null,
+    "listingAttributionContact": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": null
+      }
+    ],
+    "mlsDisclaimer": null,
+    "mlsId": null,
+    "mlsName": null,
+    "providerLogo": null,
+    "trueStatus": null
+  },
+  "bathrooms": 1,
+  "bedrooms": 2,
+  "boroughId": null,
+  "boroughSearchUrl": null,
+  "brokerId": null,
+  "brokerIdDimension": "Unknown Listed By",
+  "brokerageName": null,
+  "building": null,
+  "buildingId": "2193151730",
+  "buyAbilityData": {
+    "chipLabel": null,
+    "isEligibleProperty": true
+  },
+  "city": "South Boston",
+  "cityId": 44269,
+  "citySearchUrl": {
+    "path": "/boston-ma/",
+    "text": "Homes in Boston"
+  },
+  "collections": {
+    "modules": [
+      {
+        "name": "Similar homes",
+        "placement": "NEIGHBORHOOD",
+        "propertyDetails": [
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "73 G St #2",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "The Sarkis Team",
+              "agentPhoneNumber": null,
+              "brokerName": "Douglas Elliman Real Estate - The Sarkis Team",
+              "brokerPhoneNumber": null,
+              "mlsId": "73424187",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "73 G Condominium"
+                },
+                {
+                  "fullValue": "73 G St #2"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/73-G-St-2-South-Boston-MA-02127/81854674_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.333595,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 817,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 817,
+            "longitude": -71.0444,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 817,
+            "lotSize": 817,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/2fb9ccb7ef734f506479b4344cbfac23-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 699000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 81854674
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "309-311 Emerson St #8",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "O'Connor & Highland",
+              "agentPhoneNumber": null,
+              "brokerName": "Keller Williams Realty Boston-Metro | Back Bay",
+              "brokerPhoneNumber": null,
+              "mlsId": "73426123",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "309-311 Emerson St #8"
+                },
+                {
+                  "fullValue": "Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/309-311-Emerson-St-8-Boston-MA-02127/456434644_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.334377,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 707,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 707,
+            "longitude": -71.03408,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 707,
+            "lotSize": 707,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/4d3825c1c2db0b89e94a6a10c8947071-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 649000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 456434644
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "633 E 7th St #3",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Zack Harwood Real Estate Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Berkshire Hathaway HomeServices Warren Residential",
+              "brokerPhoneNumber": null,
+              "mlsId": "73431654",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "633 E 7th St #3"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/633-E-7th-St-3-South-Boston-MA-02127/87793726_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.332153,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 980,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 980,
+            "longitude": -71.034874,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/1ebe515b9817342dd9fad239db8214d1-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 800000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 87793726
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "13 Telegraph St #2",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "John Doherty",
+              "agentPhoneNumber": null,
+              "brokerName": "Olde Towne Real Estate Co.",
+              "brokerPhoneNumber": null,
+              "mlsId": "73431435",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "13 Telegraph St #2"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/13-Telegraph-St-2-South-Boston-MA-02127/59148604_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.332806,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1135,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1135,
+            "longitude": -71.05028,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/609e6373810a44371bd460b223e401cc-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 749900,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59148604
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "1306 Columbia Rd APT 1C",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Mark Johnson",
+              "agentPhoneNumber": null,
+              "brokerName": "Coldwell Banker Realty - Westwood",
+              "brokerPhoneNumber": null,
+              "mlsId": "73432291",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "Harborview"
+                },
+                {
+                  "fullValue": "1306 Columbia Rd APT 1C"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/1306-Columbia-Rd-APT-1C-South-Boston-MA-02127/60112327_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33062,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1162,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1162,
+            "longitude": -71.047035,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/927bfea8f8b1436e104cd65be9c61c78-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 794000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 60112327
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "12 I St #1",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Le Cao",
+              "agentPhoneNumber": null,
+              "brokerName": "BA Property & Lifestyle Advisors",
+              "brokerPhoneNumber": null,
+              "mlsId": "73402594",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "12 I St #1"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/12-I-St-1-South-Boston-MA-02127/71333104_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.337658,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 848,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 848,
+            "longitude": -71.03977,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 848,
+            "lotSize": 848,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/d820dd2b11be779697c161042f5734c0-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 719900,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 71333104
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "309 Emerson St UNIT 8",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "O'Connor &  Highland",
+              "agentPhoneNumber": null,
+              "brokerName": "Keller Williams Back Bay",
+              "brokerPhoneNumber": null,
+              "mlsId": "240463",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "309 Emerson St UNIT 8"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/309-Emerson-St-UNIT-8-South-Boston-MA-02127/59152107_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.3344,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 707,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 707,
+            "longitude": -71.03414,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/7eb74b7fd7e0339313d1f5efbd7bbdb9-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 649000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59152107
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "375 Dorchester St #3",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Timothy Scalisi",
+              "agentPhoneNumber": null,
+              "brokerName": "CJL Rentals & Property Management Co., Inc.",
+              "brokerPhoneNumber": null,
+              "mlsId": "73366526",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "375 Dorchester St #3"
+                },
+                {
+                  "fullValue": "Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/375-Dorchester-St-3-Boston-MA-02127/2093337746_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33038,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 748,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 748,
+            "longitude": -71.05589,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1000,
+            "lotSize": 1000,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/bfdb1cc8b8c66fc41e47b9c0954b8470-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 615000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2093337746
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "352 W 3rd St APT 9",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Leslie MacKinnon",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73417173",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "47-51 Dorchester Street Condominiums"
+                },
+                {
+                  "fullValue": "352 W 3rd St APT 9"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/352-W-3rd-St-APT-9-South-Boston-MA-02127/2146973390_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.336323,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 848,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 848,
+            "longitude": -71.0447,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/ea38116bee337922ea1fd708cbd08b65-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 715000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2146973390
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "59 Story St #3",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Ashley Murray",
+              "agentPhoneNumber": null,
+              "brokerName": "Conway - Dorchester",
+              "brokerPhoneNumber": null,
+              "mlsId": "73404659",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "59 Story St #3"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/59-Story-St-3-South-Boston-MA-02127/117686291_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.333317,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 779,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 779,
+            "longitude": -71.0421,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 779,
+            "lotSize": 779,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/4b0e37bff8f6eca1feeac2fc74d6a1a6-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 739000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 117686291
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "15 I St #3",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "The Gaines Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73428918",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "15 I St Condominium Association Trust"
+                },
+                {
+                  "fullValue": "15 I St #3"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/15-I-St-3-South-Boston-MA-02127/71333630_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33756,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 671,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 671,
+            "longitude": -71.04016,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/9af116f29ad13939166721a456cfc04d-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 589000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 71333630
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "150 Dorchester Ave APT 103",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Nadia Di Carlo",
+              "agentPhoneNumber": null,
+              "brokerName": "Bonum Real Estate LLC",
+              "brokerPhoneNumber": null,
+              "mlsId": "73401320",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "Alelle"
+                },
+                {
+                  "fullValue": "150 Dorchester Ave APT 103"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/150-Dorchester-Ave-APT-103-South-Boston-MA-02127/90136369_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.341827,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1020,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1020,
+            "longitude": -71.05694,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/9dbb51fe8082be3fc5f9af07e3d53061-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 606853,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 90136369
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "658 E 6th St APT 3",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Iliyan Padinkov",
+              "agentPhoneNumber": null,
+              "brokerName": "Coldwell Banker Realty - Boston",
+              "brokerPhoneNumber": null,
+              "mlsId": "73350546",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "658 E 6th St APT 3"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/658-E-6th-St-APT-3-South-Boston-MA-02127/102988120_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.333305,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 889,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 889,
+            "longitude": -71.034134,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/9425d9b7e02f179b14e2d13d0aa1938a-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 725000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 102988120
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "375 Dorchester St #2",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Timothy Scalisi",
+              "agentPhoneNumber": null,
+              "brokerName": "CJL Rentals & Property Management Co., Inc.",
+              "brokerPhoneNumber": null,
+              "mlsId": "73366525",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "375 Dorchester St #2"
+                },
+                {
+                  "fullValue": "Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/375-Dorchester-St-2-Boston-MA-02127/2093337741_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33038,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 674,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 674,
+            "longitude": -71.05589,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1000,
+            "lotSize": 1000,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/ded1fc6c56c4e2089791198b4b87a60e-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 595000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2093337741
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "161 H St #3",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Beth Dailey",
+              "agentPhoneNumber": null,
+              "brokerName": "Boston Realty Sales & Services",
+              "brokerPhoneNumber": null,
+              "mlsId": "73417235",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "161 H St #3"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/161-H-St-3-South-Boston-MA-02127/102987488_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.332348,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 710,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 710,
+            "longitude": -71.04164,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 0,
+            "lotSize": 0,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/57486eb012443e5e7514c3ad07eefc62-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 739000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 102987488
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "111 W 8th St APT C",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "O'Connor &  Highland",
+              "agentPhoneNumber": null,
+              "brokerName": "Keller Williams Back Bay",
+              "brokerPhoneNumber": null,
+              "mlsId": "239218",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "111 W 8th St APT C"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/111-W-8th-St-APT-C-South-Boston-MA-02127/59211454_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33512,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 885,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 885,
+            "longitude": -71.05425,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/f5e6e54ed8763a203c0cb44c2f2ac3b8-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 719000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59211454
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "375 Dorchester St #1",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Timothy Scalisi",
+              "agentPhoneNumber": null,
+              "brokerName": "CJL Rentals & Property Management Co., Inc.",
+              "brokerPhoneNumber": null,
+              "mlsId": "73366524",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "375 Dorchester St #1"
+                },
+                {
+                  "fullValue": "Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/375-Dorchester-St-1-Boston-MA-02127/2093337744_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33038,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 646,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 646,
+            "longitude": -71.05589,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1000,
+            "lotSize": 1000,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/bfdb1cc8b8c66fc41e47b9c0954b8470-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 565000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2093337744
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "37 Old Harbor St APT 1",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Joseph Barka",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73416193",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 1,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "37 Old Harbor St APT 1"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/37-Old-Harbor-St-APT-1-South-Boston-MA-02127/117686154_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33353,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 980,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 980,
+            "longitude": -71.04767,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/4ea6ecac8a284543c285f26fbf9767d4-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 725000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 117686154
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "170 W Broadway #303",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Benjamin Virga",
+              "agentPhoneNumber": null,
+              "brokerName": "Bridgestone Properties, LLC",
+              "brokerPhoneNumber": null,
+              "mlsId": "73413295",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "170 W Broadway #303"
+                },
+                {
+                  "fullValue": "Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/170-W-Broadway-303-Boston-MA-02127/2089574583_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.340504,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 688,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 688,
+            "longitude": -71.05286,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/6e9295efcd09ac9c0271fa11ad20b1ee-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 625000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2089574583
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "170 W Broadway #203",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "The Broadway Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Engel & Volkers Boston",
+              "brokerPhoneNumber": null,
+              "mlsId": "73417332",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "170 W Broadway #203"
+                },
+                {
+                  "fullValue": "Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/170-W-Broadway-203-Boston-MA-02127/2094176195_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.340504,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 710,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 710,
+            "longitude": -71.05286,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/0db9502f794ba48a9a35d34798834efd-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 665000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2094176195
+          }
+        ]
+      }
+    ],
+    "trackingTags": [
+      {
+        "value": "92ba8901c4ce063b529c2312102b193a"
+      }
+    ]
+  },
+  "comingSoonOnMarketDate": null,
+  "communityUrl": null,
+  "contingentListingType": null,
+  "country": "USA",
+  "county": "Suffolk County",
+  "countyFIPS": "25025",
+  "countyId": 2045,
+  "countySearchUrl": {
+    "path": "/suffolk-county-ma/",
+    "text": "Homes in Suffolk County"
+  },
+  "currency": "USD",
+  "datePostedString": "",
+  "daysOnZillow": 201,
+  "description": "1 of 5 gorgeous, new construction condos on the Eastside! High end finishes throughout including maple hardwoods, a designer kitchen compete with solid surface coutertops, Jennaire appliances and cherry cabinets, and a spa-like bathroom with porcelain tile and cherry cabinets. Both bedrooms are complete with large, built-in closet organization systems. Units have monitored alarm systems and sprinkler systems. This unit is complete with deeded storage, large patio and one deeded parking spot!",
+  "desktopWebHdpImageLink": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-p_h.jpg",
+  "downPaymentAssistance": {
+    "eligibility": {
+      "dpa": false
+    }
+  },
+  "editPropertyHistorylink": null,
+  "favoriteCount": 0,
+  "featuredListingTypeDimension": "organic",
+  "foreclosingBank": null,
+  "foreclosureAmount": null,
+  "foreclosureAuctionCity": null,
+  "foreclosureAuctionDescription": null,
+  "foreclosureAuctionFilingDate": null,
+  "foreclosureAuctionLocation": null,
+  "foreclosureAuctionTime": null,
+  "foreclosureBalanceReportingDate": null,
+  "foreclosureDate": null,
+  "foreclosureDefaultDescription": null,
+  "foreclosureDefaultFilingDate": null,
+  "foreclosureJudicialType": "Non-Judicial",
+  "foreclosureLoanAmount": null,
+  "foreclosureLoanDate": null,
+  "foreclosureLoanOriginator": null,
+  "foreclosureMoreInfo": null,
+  "foreclosurePastDueBalance": null,
+  "foreclosurePriorSaleAmount": null,
+  "foreclosurePriorSaleDate": null,
+  "foreclosureTypes": {
+    "isAnyForeclosure": false,
+    "isBankOwned": false,
+    "isForeclosedNFS": false,
+    "isPreforeclosure": false,
+    "wasDefault": null,
+    "wasForeclosed": false,
+    "wasNonRetailAuction": false,
+    "wasREO": null
+  },
+  "foreclosureUnpaidBalance": null,
+  "formattedChip": {
+    "location": [
+      {
+        "fullValue": "531-535 E 3rd St APT 535-2"
+      },
+      {
+        "fullValue": "South Boston, MA 02127"
+      }
+    ]
+  },
+  "hasApprovedThirdPartyVirtualTourUrl": false,
+  "hasBadGeocode": false,
+  "hasPublicVideo": false,
+  "hdpTypeDimension": "RecentlySold",
+  "hdpUrl": "/homedetails/531-535-E-3rd-St-APT-535-2-South-Boston-MA-02127/102987710_zpid/",
+  "hiResImageLink": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-p_f.jpg",
+  "homeInsights": null,
+  "homeStatus": "RECENTLY_SOLD",
+  "homeType": "CONDO",
+  "homeValues": null,
+  "housesForRentInZipcodeSearchUrl": {
+    "path": "/boston-ma-02127/rent-houses/"
+  },
+  "interactiveFloorPlanUrl": "",
+  "isCurrentSignedInAgentResponsible": false,
+  "isCurrentSignedInUserVerifiedOwner": false,
+  "isFeatured": false,
+  "isHousingConnector": false,
+  "isIncomeRestricted": null,
+  "isListingClaimedByCurrentSignedInUser": false,
+  "isNonOwnerOccupied": false,
+  "isPaidMultiFamilyBrokerId": false,
+  "isPreforeclosureAuction": false,
+  "isPremierBuilder": false,
+  "isRecentStatusChange": false,
+  "isRentalListingOffMarket": false,
+  "isRentalsLeadCapMet": false,
+  "isShowcaseListing": false,
+  "isUndisclosedAddress": false,
+  "isZillowOwned": false,
+  "keystoneHomeStatus": "RecentlySold",
+  "lastSoldPrice": 645000,
+  "latitude": 42.33626,
+  "listPriceLow": null,
+  "listedBy": [],
+  "listingAccount": null,
+  "listingAccountUserId": null,
+  "listingDataSource": "Legacy",
+  "listingFeedID": null,
+  "listingMetadata": {
+    "FlexibleLayoutAA": true,
+    "FlexibleLayoutAB": true,
+    "FlexibleLayoutB": true,
+    "FlexibleLayoutC": true,
+    "FlexibleLayoutD": true,
+    "FlexibleLayoutE": true,
+    "FlexibleLayoutF": false,
+    "FlexibleLayoutG": false,
+    "FlexibleLayoutH": true,
+    "FlexibleLayoutI": true,
+    "FlexibleLayoutJ": false,
+    "FlexibleLayoutK": false,
+    "FlexibleLayoutL": false,
+    "FlexibleLayoutM": true,
+    "FlexibleLayoutN": true,
+    "FlexibleLayoutO": true,
+    "FlexibleLayoutP": false,
+    "FlexibleLayoutQ": false,
+    "FlexibleLayoutR": false,
+    "FlexibleLayoutS": false,
+    "FlexibleLayoutT": false,
+    "FlexibleLayoutU": false,
+    "FlexibleLayoutV": false,
+    "FlexibleLayoutW": false,
+    "FlexibleLayoutX": false,
+    "FlexibleLayoutY": false,
+    "FlexibleLayoutZ": false,
+    "canCommingleComparables": true,
+    "canShowAutomatedValuationDisplay": true,
+    "canShowComparables": true,
+    "canShowCroppedPhotos": true,
+    "canShowNonIDXMedia": true,
+    "canShowOnMap": true,
+    "canShowPrequalifiedLinkInChip": true,
+    "canShowPriceHistory": true,
+    "canShowTaxHistory": true,
+    "canShowUserGeneratedContent": true,
+    "canShowZillowLogoInHeader": true,
+    "comminglingCategory": true,
+    "comminglingCategoryIsRulesApplicable": false,
+    "hidePriceAdjustmentFlexField": false,
+    "isAdsRestricted": false,
+    "isSuperTrafficOptimized": false,
+    "mustAttributeOfficeNameBeforeAgentName": false,
+    "mustDisplayAttributionAboveLocalFacts": false,
+    "mustDisplayAttributionListAgentEmail": false,
+    "mustDisplayAttributionListAgentPhone": false,
+    "mustDisplayAttributionListingOfficePhone": false,
+    "mustDisplayAuctionStatusAsSold": false,
+    "mustDisplayDisclaimerBelowAttribution": false,
+    "mustDisplayFeedLogoInContactBox": false,
+    "mustHighlightAgentName": null,
+    "mustHighlightListOfficeName": false,
+    "mustHighlightMarketingType": false,
+    "mustHighlightMlsId": null,
+    "mustHighlightMlsStatus": false,
+    "mustMakeListingAgentContactable": false,
+    "mustPreferMlsPhotos": false,
+    "passwordRequiredForZestimateMarketAnalysis": false
+  },
+  "listingProvider": {
+    "agentLicenseNumber": null,
+    "agentName": null,
+    "disclaimerText": null,
+    "enhancedDescriptionText": null,
+    "enhancedVideoURL": null,
+    "isZRMSourceText": null,
+    "logos": [],
+    "postingGroupName": null,
+    "postingWebsiteLinkText": "See listing website",
+    "postingWebsiteURL": null,
+    "showLogos": null,
+    "showNoContactInfoMessage": false,
+    "sourceText": null,
+    "title": "Listing Provided by"
+  },
+  "listingSubType": {
+    "isBankOwned": false,
+    "isComingSoon": false,
+    "isFSBA": false,
+    "isFSBO": false,
+    "isForAuction": false,
+    "isForeclosure": false,
+    "isNewHome": false,
+    "isOpenHouse": false,
+    "isPending": false
+  },
+  "listingTypeDimension": "Unknown Listed By",
+  "listing_agent": null,
+  "listing_sub_type": {
+    "is_FSBA": false,
+    "is_FSBO": false,
+    "is_bankOwned": false,
+    "is_comingSoon": false,
+    "is_forAuction": false,
+    "is_foreclosure": false,
+    "is_newHome": false,
+    "is_pending": false
+  },
+  "livingArea": 876,
+  "livingAreaUnits": "Square Feet",
+  "livingAreaUnitsShort": "sqft",
+  "livingAreaValue": 876,
+  "longitude": -71.03858,
+  "lotAreaUnits": "Square Feet",
+  "lotAreaValue": 871,
+  "lotPremium": null,
+  "lotSize": 871,
+  "marketingName": null,
+  "mlsid": null,
+  "monthlyHoaFee": null,
+  "mortgageZHLRates": {
+    "arm5Bucket": {
+      "lastUpdated": 1758226018626,
+      "rate": 7.011,
+      "rateSource": "ZGMI"
+    },
+    "fifteenYearFixedBucket": {
+      "lastUpdated": 1758226018626,
+      "rate": 5.48,
+      "rateSource": "ZGMI"
+    },
+    "thirtyYearFixedBucket": {
+      "lastUpdated": 1758226018626,
+      "rate": 6.272,
+      "rateSource": "ZGMI"
+    }
+  },
+  "moveHomeMapLocationLink": null,
+  "nearbyCities": [
+    {
+      "body": null,
+      "name": "Boston",
+      "regionUrl": {
+        "path": "/boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Chelsea",
+      "regionUrl": {
+        "path": "/chelsea-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Revere",
+      "regionUrl": {
+        "path": "/revere-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Winthrop",
+      "regionUrl": {
+        "path": "/winthrop-ma/"
+      }
+    }
+  ],
+  "nearbyHomes": [
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "531-535 E 3rd St APT 535-3",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "531-535 E 3rd St APT 535-3"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/531-535-E-3rd-St-APT-535-3-South-Boston-MA-02127/102987413_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33626,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 1004,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 1004,
+      "longitude": -71.03858,
+      "lotAreaUnits": "Square Feet",
+      "lotAreaValue": 871,
+      "lotSize": 871,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/1de31aa9bdd9b78dfbbf5c2ec63cef7f-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 735500,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 102987413
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "531-535 E 3rd St #535-1",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "531-535 E 3rd St #535-1"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/531-535-E-3rd-St-535-1-South-Boston-MA-02127/102987471_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33626,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 942,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 942,
+      "longitude": -71.03858,
+      "lotAreaUnits": "Square Feet",
+      "lotAreaValue": 871,
+      "lotSize": 871,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 741400,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 102987471
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "531-535 E 3rd St #PS6",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": null,
+      "bedrooms": null,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "531-535 E 3rd St #PS6"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/531-535-E-3rd-St-PS6-South-Boston-MA-02127/102987647_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "SINGLE_FAMILY",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33626,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "livingAreaValue": null,
+      "longitude": -71.03858,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=531-535+E+3rd+St%2C+South+Boston%2C+MA+02127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yzLVNbcUs61kG_7hFW8qbzL-UBQ="
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 630200,
+      "propertyTypeDimension": "Single Family",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 102987647
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "531-535 E 3rd St #PS5",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": null,
+      "bedrooms": null,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "531-535 E 3rd St #PS5"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/531-535-E-3rd-St-PS5-South-Boston-MA-02127/102987659_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "SINGLE_FAMILY",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33626,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "livingAreaValue": null,
+      "longitude": -71.03858,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=531-535+E+3rd+St%2C+South+Boston%2C+MA+02127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yzLVNbcUs61kG_7hFW8qbzL-UBQ="
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 525300,
+      "propertyTypeDimension": "Single Family",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 102987659
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "531-535 E 3rd St APT 531-2",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1.5,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "531-535 E 3rd St APT 531-2"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/531-535-E-3rd-St-APT-531-2-South-Boston-MA-02127/102987796_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33626,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 1667,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 1667,
+      "longitude": -71.03858,
+      "lotAreaUnits": "Square Feet",
+      "lotAreaValue": 1742,
+      "lotSize": 1742,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=42.33626174926758,-71.03858184814453&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TIdpTHX_zmFmI8eUAD4BJDXuM-I="
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 1068400,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 102987796
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "531-535 E 3rd St #531-1",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "531-535 E 3rd St #531-1"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/531-535-E-3rd-St-531-1-South-Boston-MA-02127/102987889_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "APARTMENT",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33626,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 942,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 942,
+      "longitude": -71.03858,
+      "lotAreaUnits": "Square Feet",
+      "lotAreaValue": 871,
+      "lotSize": 871,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4759562af5227a60e936d0826ac22299-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 744600,
+      "propertyTypeDimension": "Apartment",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 102987889
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "531-535 E 3rd St #PS1",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "531-535 E 3rd St #PS1"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/531-535-E-3rd-St-PS1-South-Boston-MA-02127/102987985_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "SINGLE_FAMILY",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33626,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "livingAreaValue": null,
+      "longitude": -71.03858,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=531-535+E+3rd+St%2C+South+Boston%2C+MA+02127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yzLVNbcUs61kG_7hFW8qbzL-UBQ="
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 500700,
+      "propertyTypeDimension": "Single Family",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 102987985
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "531-535 E 3rd St #PS3",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": null,
+      "bedrooms": null,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "531-535 E 3rd St #PS3"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/531-535-E-3rd-St-PS3-South-Boston-MA-02127/102988005_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "SINGLE_FAMILY",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33626,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "livingAreaValue": null,
+      "longitude": -71.03858,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=531-535+E+3rd+St%2C+South+Boston%2C+MA+02127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=yzLVNbcUs61kG_7hFW8qbzL-UBQ="
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 525300,
+      "propertyTypeDimension": "Single Family",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 102988005
+    }
+  ],
+  "nearbyNeighborhoods": [
+    {
+      "body": null,
+      "name": "Brighton",
+      "regionUrl": {
+        "path": "/brighton-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "East Boston",
+      "regionUrl": {
+        "path": "/east-boston-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Hyde Park",
+      "regionUrl": {
+        "path": "/hyde-park-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Jamaica Plain",
+      "regionUrl": {
+        "path": "/jamaica-plain-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Roslindale",
+      "regionUrl": {
+        "path": "/roslindale-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Roxbury",
+      "regionUrl": {
+        "path": "/roxbury-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South Boston",
+      "regionUrl": {
+        "path": "/south-boston-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South Dorchester",
+      "regionUrl": {
+        "path": "/south-dorchester-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South End",
+      "regionUrl": {
+        "path": "/south-end-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "West Roxbury",
+      "regionUrl": {
+        "path": "/west-roxbury-boston-ma/"
+      }
+    }
+  ],
+  "nearbyZipcodes": [
+    {
+      "body": null,
+      "name": "02115",
+      "regionUrl": {
+        "path": "/boston-ma-02115/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02121",
+      "regionUrl": {
+        "path": "/boston-ma-02121/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02124",
+      "regionUrl": {
+        "path": "/boston-ma-02124/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02125",
+      "regionUrl": {
+        "path": "/boston-ma-02125/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02127",
+      "regionUrl": {
+        "path": "/boston-ma-02127/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02128",
+      "regionUrl": {
+        "path": "/boston-ma-02128/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02130",
+      "regionUrl": {
+        "path": "/boston-ma-02130/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02131",
+      "regionUrl": {
+        "path": "/boston-ma-02131/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02135",
+      "regionUrl": {
+        "path": "/boston-ma-02135/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02136",
+      "regionUrl": {
+        "path": "/boston-ma-02136/"
+      }
+    }
+  ],
+  "neighborhoodId": 155633,
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-p_c.jpg"
+    }
+  ],
+  "neighborhoodRegion": {
+    "name": "South Boston"
+  },
+  "neighborhoodSearchUrl": {
+    "path": "/south-boston-boston-ma/"
+  },
+  "newConstructionType": null,
+  "openHouseSchedule": [],
+  "originalPhotos": [
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    }
+  ],
+  "ouid": null,
+  "pageUrlFragment": "RecentlySold",
+  "pageViewCount": 2,
+  "pals": [],
+  "parcelId": "SBOSW06P03223S008",
+  "parentRegion": {
+    "name": "South Boston",
+    "regionId": 155633
+  },
+  "photoCount": 1,
+  "postingProductType": "Standard",
+  "postingUrl": null,
+  "price": 645000,
+  "priceChange": null,
+  "priceChangeDate": null,
+  "priceChangeDateString": null,
+  "priceHistory": [
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Public Record",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2025-02-28",
+      "event": "Sold",
+      "postingIsRental": false,
+      "price": 645000,
+      "priceChangeRate": 0.6125,
+      "pricePerSquareFoot": 736,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Public Record",
+      "time": 1740700800000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Public Record",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2009-10-01",
+      "event": "Sold",
+      "postingIsRental": false,
+      "price": 400000,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 457,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Public Record",
+      "time": 1254355200000
+    }
+  ],
+  "primaryPublicVideo": null,
+  "propertyEventLogLink": null,
+  "propertyTaxRate": 0.67,
+  "propertyTypeDimension": "Condo",
+  "propertyUpdatePageLink": null,
+  "providerListingID": null,
+  "rentZestimate": 3815,
+  "rentalApplicationsAcceptedType": "REQUEST_TO_APPLY",
+  "resoFacts": {
+    "aboveGradeFinishedArea": null,
+    "accessibilityFeatures": null,
+    "additionalFeeInfo": null,
+    "additionalParcelsDescription": null,
+    "appliances": [],
+    "architecturalStyle": null,
+    "associationAmenities": null,
+    "associationFee": null,
+    "associationFee2": null,
+    "associationFeeIncludes": null,
+    "associationName": null,
+    "associationName2": null,
+    "associationPhone": null,
+    "associationPhone2": null,
+    "associations": [],
+    "atAGlanceFacts": [
+      {
+        "factLabel": "Type",
+        "factValue": "Condo"
+      },
+      {
+        "factLabel": "Year Built",
+        "factValue": "2009"
+      },
+      {
+        "factLabel": "Heating",
+        "factValue": "None, Other"
+      },
+      {
+        "factLabel": "Cooling",
+        "factValue": null
+      },
+      {
+        "factLabel": "Parking",
+        "factValue": "No Data"
+      },
+      {
+        "factLabel": "Offer Review Date",
+        "factValue": null
+      }
+    ],
+    "attic": null,
+    "availabilityDate": null,
+    "basement": null,
+    "basementYN": null,
+    "bathrooms": 1,
+    "bathroomsFloat": 1,
+    "bathroomsFull": null,
+    "bathroomsHalf": null,
+    "bathroomsOneQuarter": null,
+    "bathroomsPartial": null,
+    "bathroomsThreeQuarter": null,
+    "bedrooms": 2,
+    "belowGradeFinishedArea": null,
+    "bodyType": null,
+    "builderModel": null,
+    "builderName": null,
+    "buildingArea": null,
+    "buildingAreaSource": null,
+    "buildingFeatures": null,
+    "buildingName": null,
+    "canRaiseHorses": false,
+    "carportParkingCapacity": null,
+    "cityRegion": "South Boston",
+    "commonWalls": null,
+    "communityFeatures": [],
+    "compensationBasedOn": null,
+    "constructionMaterials": [],
+    "contingency": null,
+    "cooling": [],
+    "coveredParkingCapacity": null,
+    "cropsIncludedYN": null,
+    "cumulativeDaysOnMarket": null,
+    "developmentStatus": null,
+    "doorFeatures": null,
+    "electric": null,
+    "elementarySchool": null,
+    "elementarySchoolDistrict": null,
+    "elevation": null,
+    "elevationUnits": null,
+    "entryLevel": null,
+    "entryLocation": null,
+    "exclusions": null,
+    "exteriorFeatures": [
+      "Wood"
+    ],
+    "feesAndDues": [],
+    "fencing": null,
+    "fireplaceFeatures": null,
+    "fireplaces": null,
+    "flooring": [],
+    "foundationArea": null,
+    "foundationDetails": [],
+    "frontageLength": null,
+    "frontageType": null,
+    "furnished": false,
+    "garageParkingCapacity": null,
+    "gas": null,
+    "greenBuildingVerificationType": null,
+    "greenEnergyEfficient": null,
+    "greenEnergyGeneration": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "greenWaterConservation": null,
+    "hasAdditionalParcels": false,
+    "hasAssociation": null,
+    "hasAttachedGarage": null,
+    "hasAttachedProperty": false,
+    "hasCarport": null,
+    "hasCooling": false,
+    "hasElectricOnProperty": null,
+    "hasFireplace": null,
+    "hasGarage": false,
+    "hasHeating": true,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "hasOpenParking": null,
+    "hasPetsAllowed": null,
+    "hasPrivatePool": null,
+    "hasRentControl": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasWaterfrontView": null,
+    "heating": [
+      "None",
+      "Other"
+    ],
+    "highSchool": null,
+    "highSchoolDistrict": null,
+    "hoaFee": null,
+    "hoaFeeTotal": null,
+    "homeType": "Condo",
+    "horseAmenities": null,
+    "horseYN": null,
+    "inclusions": null,
+    "incomeIncludes": null,
+    "interiorFeatures": null,
+    "irrigationWaterRightsAcres": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "isSeniorCommunity": null,
+    "landLeaseAmount": null,
+    "landLeaseExpirationDate": null,
+    "laundryFeatures": null,
+    "leaseTerm": null,
+    "levels": null,
+    "listAOR": null,
+    "listingId": null,
+    "listingTerms": null,
+    "livingArea": "876 sqft",
+    "livingAreaRange": null,
+    "livingAreaRangeUnits": null,
+    "livingQuarters": [],
+    "lotFeatures": null,
+    "lotSize": "871 sqft",
+    "lotSizeDimensions": null,
+    "mainLevelBathrooms": null,
+    "mainLevelBedrooms": null,
+    "marketingType": null,
+    "media": [],
+    "middleOrJuniorSchool": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "municipality": null,
+    "numberOfUnitsInCommunity": null,
+    "numberOfUnitsVacant": null,
+    "offerReviewDate": null,
+    "onMarketDate": null,
+    "openParkingCapacity": null,
+    "otherEquipment": null,
+    "otherFacts": [],
+    "otherParking": null,
+    "otherStructures": null,
+    "ownership": null,
+    "ownershipType": null,
+    "parcelNumber": "SBOSW06P03223S008",
+    "parkName": null,
+    "parkingCapacity": 0,
+    "parkingFeatures": [],
+    "patioAndPorchFeatures": null,
+    "petsMaxWeight": null,
+    "poolFeatures": null,
+    "pricePerSquareFoot": 736,
+    "propertyCondition": null,
+    "propertySubType": null,
+    "roadSurfaceType": null,
+    "roofType": "Other",
+    "roomTypes": null,
+    "rooms": [],
+    "securityFeatures": null,
+    "sewer": null,
+    "spaFeatures": null,
+    "specialListingConditions": null,
+    "stories": null,
+    "storiesDecimal": null,
+    "storiesTotal": null,
+    "structureType": "Other",
+    "subdivisionName": null,
+    "taxAnnualAmount": 7029,
+    "taxAssessedValue": 644900,
+    "tenantPays": null,
+    "topography": null,
+    "totalActualRent": null,
+    "utilities": null,
+    "vegetation": null,
+    "view": [],
+    "virtualTour": null,
+    "waterBodyName": null,
+    "waterSource": null,
+    "waterView": "",
+    "waterViewYN": null,
+    "waterfrontFeatures": null,
+    "windowFeatures": null,
+    "woodedArea": null,
+    "yearBuilt": 2009,
+    "yearBuiltEffective": null,
+    "zoning": null,
+    "zoningDescription": null
+  },
+  "responsivePhotos": [
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-p_d.jpg"
+    }
+  ],
+  "responsivePhotosOriginalRatio": [
+    {
+      "caption": "",
+      "key": "372193d371b0b1796eee84793e3a8050",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    }
+  ],
+  "restimateHighPercent": "6",
+  "restimateLowPercent": "6",
+  "richMedia": null,
+  "richMediaVideos": null,
+  "schools": [
+    {
+      "assigned": null,
+      "distance": 0.1,
+      "grades": "PK-6",
+      "isAssigned": null,
+      "level": "Primary",
+      "link": "https://www.greatschools.org/massachusetts/boston/284-Tynan-Elementary-School/",
+      "name": "Joseph P. Tynan Elementary School",
+      "rating": 3,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    },
+    {
+      "assigned": null,
+      "distance": 0.7,
+      "grades": "PK-8",
+      "isAssigned": null,
+      "level": "Primary",
+      "link": "https://www.greatschools.org/massachusetts/boston/267-James-Condon-Elementary-School/",
+      "name": "James F. Condon School",
+      "rating": 3,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    },
+    {
+      "assigned": null,
+      "distance": 0.4,
+      "grades": "9-12",
+      "isAssigned": null,
+      "level": "High",
+      "link": "https://www.greatschools.org/massachusetts/boston/2998-Excel-High-School/",
+      "name": "Excel High School",
+      "rating": 1,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    }
+  ],
+  "sellingSoon": [],
+  "ssid": null,
+  "state": "MA",
+  "stateId": 26,
+  "stateSearchUrl": {
+    "path": "/ma/"
+  },
+  "staticMap": {
+    "sources": [
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33626,-71.03858&zoom=13&size=192x144&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=k6oG9Prm3igolOReKCT5tNhpEsw=",
+        "width": 192
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33626,-71.03858&zoom=15&size=192x144&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=8Xxo6829j8ISAe5v9neaOPv64s0=",
+        "width": 192
+      },
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33626,-71.03858&zoom=14&size=384x288&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=kPGmXoHC32-eQtpd5jfxG-x9GUw=",
+        "width": 384
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33626,-71.03858&zoom=15&size=384x288&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=GscKH_pDOfJopoO5BOLt4x9ZbfU=",
+        "width": 384
+      },
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33626,-71.03858&zoom=15&size=768x576&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=JuUdIfTuligOiTi6vD3Mj_eUCyc=",
+        "width": 768
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33626,-71.03858&zoom=15&size=768x576&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=hQ8awPV8VqwomHN5p6MnNIQtxtI=",
+        "width": 768
+      }
+    ]
+  },
+  "streetAddress": "531-535 E 3rd St APT 535-2",
+  "streetViewMetadataUrlMapLightboxAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=531-535+E+3rd+St%2C+South+Boston%2C+MA+02127&key=AIzaSyBV4lXhV-qzQOegyA3m0_AvGy9F21HIyOQ&source=outdoor&signature=jLRiYAsaSybs5zVrlkSYap5ObrI=",
+  "streetViewMetadataUrlMediaWallAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=531-535+E+3rd+St%2C+South+Boston%2C+MA+02127&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=yd3BX73mPMk5pgzTpzawMRNGVps=",
+  "streetViewMetadataUrlMediaWallLatLong": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.336260,-71.038580&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=PvSEmpidszSxSrqXj6AfSsDbU-0=",
+  "streetViewServiceUrl": "https://street-view-url.prod.zgk-partner.zillowapi.com?zpid=102987710&address=531-535%20E%203rd%20St%2C%20South%20Boston%2C%20MA%2002127&width=512&height=234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&maxdistance=44&lat=42.33626&lon=-71.03858&ttloverrides=%7B%22yesAddressSeconds%22:604800%7D&signature=C2epcXNa6RzIN1Dlmml13CVxp34=",
+  "streetViewTileImageUrlMediumAddress": "https://maps.googleapis.com/maps/api/streetview?location=531-535+E+3rd+St%2C+South+Boston%2C+MA+02127&size=400x250&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=7UYa7sxJ1NBASAFVsnPherhaSNM=",
+  "streetViewTileImageUrlMediumLatLong": "https://maps.googleapis.com/maps/api/streetview?location=42.336260,-71.038580&size=400x250&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=gTyRasBUAeNcBvCJM4tBrm48qQY=",
+  "submitFlow": [
+    {
+      "__typename": "PropertyLeadSubmitForm",
+      "buttonText": "Contact agent",
+      "checkboxes": [
+        {
+          "financingType": "ZGMI",
+          "initialClickstreamMetadata": {
+            "onPageView": {
+              "clickstream_trigger": {
+                "trigger_source_nm": "contact_form_with_zgmi",
+                "trigger_type_nm": "impression"
+              },
+              "envelope": {
+                "event_template_id": "374",
+                "event_template_version_id": "1",
+                "event_type_id": "5860",
+                "event_type_version_id": "7"
+              },
+              "semantic": {
+                "semantic_event_nm": "view_content",
+                "topic_tag_txt": []
+              }
+            }
+          },
+          "isCheckedInitialState": true,
+          "label": "I want financing information",
+          "leadFieldName": "wantsFinancing"
+        }
+      ],
+      "clickstreamMetadata": {
+        "onPageView": null
+      },
+      "componentPositionOrder": [
+        "InputFields",
+        "CTA",
+        "Checkboxes",
+        "TCPADisclosure"
+      ],
+      "cta": {
+        "action": null,
+        "clickstreamMetadata": {
+          "onClick": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_agent_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6152",
+              "event_type_version_id": "3"
+            },
+            "semantic": {
+              "semantic_event_nm": "request_contact_start",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          },
+          "onError": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6466",
+              "event_type_version_id": "3"
+            },
+            "semantic": {
+              "semantic_event_nm": "contact_request_error",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          },
+          "onSuccess": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "397",
+              "event_type_version_id": "6"
+            },
+            "semantic": {
+              "semantic_event_nm": "request_contact_complete",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          }
+        },
+        "helpText": null,
+        "isSticky": false,
+        "label": "Contact agent"
+      },
+      "disclosure": null,
+      "error": null,
+      "financingCheckbox": {
+        "financingType": "ZGMI",
+        "initialClickstreamMetadata": {
+          "onPageView": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "contact_form_with_zgmi",
+              "trigger_type_nm": "impression"
+            },
+            "envelope": {
+              "event_template_id": "374",
+              "event_template_version_id": "1",
+              "event_type_id": "5860",
+              "event_type_version_id": "7"
+            },
+            "semantic": {
+              "semantic_event_nm": "view_content",
+              "topic_tag_txt": []
+            }
+          }
+        },
+        "isCheckedInitialState": true,
+        "label": "I want financing information",
+        "leadFieldName": "wantsFinancing"
+      },
+      "heading": null,
+      "headingIcon": null,
+      "inputFields": [
+        {
+          "clientSideValidationErrorMessage": "Enter your name",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "name",
+          "inputType": "NAME",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Name",
+          "maxCharacters": null,
+          "placeholder": null,
+          "validationRegex": null,
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": "Enter a valid US or Canadian phone number",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "phoneNumber",
+          "inputType": "PHONE_NUMBER",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Phone",
+          "maxCharacters": null,
+          "placeholder": null,
+          "validationRegex": "/^\\(?([2-9][0-8][0-9])\\)?[\\-. ]?([2-9][0-9]{2})[\\-. ]?([0-9]{4})(?: x(\\d{1,4}))?$/",
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": "Enter a valid email address",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "emailAddress",
+          "inputType": "EMAIL",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Email",
+          "maxCharacters": 320,
+          "placeholder": null,
+          "validationRegex": "/^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-zA-Z]{2,63}$/i",
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": null,
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "message",
+          "inputType": "MESSAGE",
+          "isRequired": false,
+          "isUserInputDisabled": false,
+          "label": "Message",
+          "maxCharacters": null,
+          "placeholder": "Add details or questions about what you\u2019re looking for",
+          "validationRegex": null,
+          "value": "I would like advice about selling a home similar to 531-535 E 3rd St APT 535-2, South Boston, MA 02127."
+        }
+      ],
+      "subheading": null,
+      "tcpa": {
+        "clickstreamMetadata": {
+          "onPageView": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "scroll_contact_screen_disclaimer",
+              "trigger_type_nm": "impression"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6465",
+              "event_type_version_id": "4"
+            },
+            "semantic": {
+              "semantic_event_nm": "view_content",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          }
+        },
+        "telephoneConsumerProtectionActDisclaimer": {
+          "text": "By pressing Contact agent, you agree that Zillow Group and its affiliates, and real estate professionals may call/text you about your inquiry, which may involve use of automated means and prerecorded/artificial voices. You don\u2019t need to consent as a condition of buying any property, goods or services. Message/data rates may apply. You also agree to our Terms of Use. Zillow does not endorse any real estate professionals. We may share information about your recent and future site activity with your agent to help them understand what you\u2019re looking for in a home.",
+          "textAttributes": [
+            {
+              "__typename": "TourViewModuleTextTooltipAttribute",
+              "tokenEndIndex": 104,
+              "tokenStartIndex": 79,
+              "tooltipText": "\u201cReal estate professionals\u201d includes the real estate agents and brokers, mortgage lenders and loan officers, property managers, and other professionals you interact with through Zillow. Zillow Premier Agent is an advertising program that helps connect customers to local real estate professionals. Zillow Premier Agent partners are paid advertisers and are not affiliated with Zillow, Inc. brokerage or any of its affiliates."
+            },
+            {
+              "__typename": "TourViewModuleTextLinkAttribute",
+              "tokenEndIndex": 367,
+              "tokenStartIndex": 355,
+              "url": "https://www.zillow.com/z/corp/terms/"
+            }
+          ]
+        }
+      },
+      "telephoneConsumerProtectionActDisclaimer": {
+        "text": "By pressing Contact agent, you agree that Zillow Group and its affiliates, and real estate professionals may call/text you about your inquiry, which may involve use of automated means and prerecorded/artificial voices. You don\u2019t need to consent as a condition of buying any property, goods or services. Message/data rates may apply. You also agree to our Terms of Use. Zillow does not endorse any real estate professionals. We may share information about your recent and future site activity with your agent to help them understand what you\u2019re looking for in a home.",
+        "textAttributes": [
+          {
+            "__typename": "TourViewModuleTextTooltipAttribute",
+            "tokenEndIndex": 104,
+            "tokenStartIndex": 79,
+            "tooltipText": "\u201cReal estate professionals\u201d includes the real estate agents and brokers, mortgage lenders and loan officers, property managers, and other professionals you interact with through Zillow. Zillow Premier Agent is an advertising program that helps connect customers to local real estate professionals. Zillow Premier Agent partners are paid advertisers and are not affiliated with Zillow, Inc. brokerage or any of its affiliates."
+          },
+          {
+            "__typename": "TourViewModuleTextLinkAttribute",
+            "tokenEndIndex": 367,
+            "tokenStartIndex": 355,
+            "url": "https://www.zillow.com/z/corp/terms/"
+          }
+        ]
+      },
+      "title": "Contact agent"
+    },
+    {
+      "__typename": "AuthOTP",
+      "authStyle": "EMBEDDED",
+      "isInZIBSMarket": false
+    },
+    {
+      "__typename": "FormQuestionnaire"
+    }
+  ],
+  "taxHistory": [
+    {
+      "taxIncreaseRate": 0.035809018,
+      "taxPaid": 7029,
+      "time": 1726690018611,
+      "value": 644900,
+      "valueIncreaseRate": 0.020734409
+    },
+    {
+      "taxIncreaseRate": 0.026781661,
+      "taxPaid": 6786,
+      "time": 1695067618611,
+      "value": 631800,
+      "valueIncreaseRate": 0.04017122
+    },
+    {
+      "taxIncreaseRate": 0.0401322,
+      "taxPaid": 6609,
+      "time": 1663531618611,
+      "value": 607400,
+      "valueIncreaseRate": 0.019983208
+    },
+    {
+      "taxIncreaseRate": 0.029988652,
+      "taxPaid": 6354,
+      "time": 1631995618611,
+      "value": 595500,
+      "valueIncreaseRate": 0.01934269
+    },
+    {
+      "taxIncreaseRate": 0.071565054,
+      "taxPaid": 6169,
+      "time": 1600459618611,
+      "value": 584200,
+      "valueIncreaseRate": 0.069571584
+    },
+    {
+      "taxIncreaseRate": 0.056330275,
+      "taxPaid": 5757,
+      "time": 1568837218611,
+      "value": 546200,
+      "valueIncreaseRate": 0.050384615
+    },
+    {
+      "taxIncreaseRate": 6.0709434,
+      "taxPaid": 5450,
+      "time": 1537301218611,
+      "value": 520000,
+      "valueIncreaseRate": 0.06973874
+    },
+    {
+      "taxIncreaseRate": -0.84722304,
+      "taxPaid": 770.76,
+      "time": 1505765218611,
+      "value": 486100,
+      "valueIncreaseRate": 0.05996511
+    },
+    {
+      "taxIncreaseRate": -0.015609756,
+      "taxPaid": 5045,
+      "time": 1474229218611,
+      "value": 458600,
+      "valueIncreaseRate": 0.08364839
+    },
+    {
+      "taxIncreaseRate": 0.12538427,
+      "taxPaid": 5125,
+      "time": 1442606818611,
+      "value": 423200,
+      "valueIncreaseRate": 0.22100404
+    },
+    {
+      "taxIncreaseRate": 0.104803495,
+      "taxPaid": 4554,
+      "time": 1379534818611,
+      "value": 346600,
+      "valueIncreaseRate": 0.09648845
+    },
+    {
+      "taxIncreaseRate": 0.024353877,
+      "taxPaid": 4122,
+      "time": 1347998818611,
+      "value": 316100,
+      "valueIncreaseRate": 0.0047679595
+    },
+    {
+      "taxIncreaseRate": 0,
+      "taxPaid": 4024,
+      "time": 1316376418611,
+      "value": 314600,
+      "valueIncreaseRate": 0
+    }
+  ],
+  "thirdPartyVirtualTour": {
+    "approved": false,
+    "externalUrl": null,
+    "lightboxUrl": null,
+    "providerKey": null,
+    "staticUrl": null
+  },
+  "thumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/372193d371b0b1796eee84793e3a8050-p_a.jpg"
+    }
+  ],
+  "timeOnZillow": "201 days",
+  "timeZone": "America/New_York",
+  "tourEligibility": {
+    "isPropertyTourEligible": false,
+    "propertyTourOptions": {
+      "isFinal": true,
+      "tourAvailability": [],
+      "tourType": "NONE"
+    }
+  },
+  "tourViewCount": 0,
+  "virtualTourUrl": null,
+  "whatILove": null,
+  "yearBuilt": 2009,
+  "zestimate": 647000,
+  "zestimateHighPercent": "9",
+  "zestimateLowPercent": "8",
+  "zipcode": "02127",
+  "zipcodeId": 58641,
+  "zipcodeSearchUrl": {
+    "path": "/boston-ma-02127/"
+  },
+  "zpid": 102987710
+}

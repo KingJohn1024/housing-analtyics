@@ -1,0 +1,5415 @@
+{
+  "abbreviatedAddress": "17 M St",
+  "address": {
+    "city": "South Boston",
+    "community": null,
+    "neighborhood": null,
+    "state": "MA",
+    "streetAddress": "17 M St",
+    "subdivision": null,
+    "zipcode": "02127"
+  },
+  "apartmentsForRentInZipcodeSearchUrl": {
+    "path": "/boston-ma-02127/apartments/"
+  },
+  "attributionInfo": {
+    "agentEmail": null,
+    "agentLicenseNumber": null,
+    "agentName": "Ryan Foley",
+    "agentPhoneNumber": "781-389-0253",
+    "attributionTitle": null,
+    "brokerName": "Greater Metropolitan R. E.",
+    "brokerPhoneNumber": "617-523-2505",
+    "buyerAgentMemberStateLicense": null,
+    "buyerAgentName": null,
+    "buyerBrokerageName": null,
+    "coAgentLicenseNumber": null,
+    "coAgentName": "Ryan  Bartlett",
+    "coAgentNumber": "781-223-4234",
+    "infoString10": "The property listing data and information set forth herein were provided to MLS Property Information Network, Inc. from third party sources, including sellers, lessors and public records, and were compiled by MLS Property Information Network, Inc. The property listing data and information are for the personal, non commercial use of consumers having a good faith interest in purchasing or leasing listed properties of the type displayed to them and may not be used for any purpose other than to identify prospective properties which such consumers may have a good faith interest in purchasing or leasing. MLS Property Information Network, Inc. and its subscribers disclaim any and all representations and warranties as to the accuracy of the property listing data and information set forth herein.\n\nThe MLS listing information displayed is deemed reliable, but is not guaranteed accurate by the MLS.\n\n",
+    "infoString16": null,
+    "infoString3": null,
+    "infoString5": "781-389-0253",
+    "lastChecked": "2025-09-18 12:36:44",
+    "lastUpdated": "2025-09-03 00:28:14",
+    "listingAgentAttributionContact": null,
+    "listingAgents": [
+      {
+        "associatedAgentType": "listAgent",
+        "memberFullName": "Ryan Foley",
+        "memberStateLicense": null
+      },
+      {
+        "associatedAgentType": "coListAgent",
+        "memberFullName": "Ryan  Bartlett",
+        "memberStateLicense": null
+      }
+    ],
+    "listingAgreement": null,
+    "listingAttributionContact": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "Greater Metropolitan R. E."
+      }
+    ],
+    "mlsDisclaimer": "The property listing data and information set forth herein were provided to MLS Property Information Network, Inc. from third party sources, including sellers, lessors and public records, and were compiled by MLS Property Information Network, Inc. The property listing data and information are for the personal, non commercial use of consumers having a good faith interest in purchasing or leasing listed properties of the type displayed to them and may not be used for any purpose other than to identify prospective properties which such consumers may have a good faith interest in purchasing or leasing. MLS Property Information Network, Inc. and its subscribers disclaim any and all representations and warranties as to the accuracy of the property listing data and information set forth herein.\n\nThe MLS listing information displayed is deemed reliable, but is not guaranteed accurate by the MLS.\n\n",
+    "mlsId": "73406661",
+    "mlsName": "MLS PIN",
+    "providerLogo": null,
+    "trueStatus": null
+  },
+  "bathrooms": 4,
+  "bedrooms": 12,
+  "boroughId": null,
+  "boroughSearchUrl": null,
+  "brokerId": null,
+  "brokerIdDimension": "For Sale by Agent",
+  "brokerageName": "Greater Metropolitan R. E.",
+  "building": null,
+  "buildingId": "2744882568",
+  "buyAbilityData": {
+    "chipLabel": null,
+    "isEligibleProperty": true
+  },
+  "city": "South Boston",
+  "cityId": 44269,
+  "citySearchUrl": {
+    "path": "/boston-ma/",
+    "text": "Homes in Boston"
+  },
+  "collections": {
+    "modules": [
+      {
+        "name": "Similar homes",
+        "placement": "NEIGHBORHOOD",
+        "propertyDetails": [
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "733 E 3rd St",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Aranson Maguire Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73427643",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 9,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "733 E 3rd St"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/733-E-3rd-St-South-Boston-MA-02127/59152029_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.336426,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 4146,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 4146,
+            "longitude": -71.03006,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 3375,
+            "lotSize": 3375,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/9aced6f186152dfe1de3379591e02edb-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 2400000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59152029
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "179 Massachusetts Ave #2&3",
+              "zipcode": "02115"
+            },
+            "attributionInfo": {
+              "agentName": "Tsz Mui Kwan",
+              "agentPhoneNumber": null,
+              "brokerName": "Kwan Realty Inc.",
+              "brokerPhoneNumber": null,
+              "mlsId": "73386393",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 4,
+            "bedrooms": 9,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "179 Massachusetts Ave #2&3"
+                },
+                {
+                  "fullValue": "Boston, MA 02115"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/179-Massachusetts-Ave-23-Boston-MA-02115/2073775222_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.345715,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 3421,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 3421,
+            "longitude": -71.087326,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 10018,
+            "lotSize": 10018,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/a9cd091c6e8444e76f7a8250104f6bb5-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Fenway"
+            },
+            "price": 3100000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2073775222
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "820-824 Huntington Ave",
+              "zipcode": "02115"
+            },
+            "attributionInfo": {
+              "agentName": "Kirsten  McEleney",
+              "agentPhoneNumber": null,
+              "brokerName": "KM Real Estate Group",
+              "brokerPhoneNumber": null,
+              "mlsId": "73413517",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 10,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "820-824 Huntington Ave"
+                },
+                {
+                  "fullValue": "Boston, MA 02115"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/820-824-Huntington-Ave-Boston-MA-02115/448932137_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.3331,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 4740,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 4740,
+            "longitude": -71.1089,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1794,
+            "lotSize": 1794,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/b9c8249cffb2d0169a3668811ab6a953-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Mission Hill"
+            },
+            "price": 3195000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 448932137
+          },
+          {
+            "address": {
+              "city": "Dorchester",
+              "state": "MA",
+              "streetAddress": "378-380 Neponset Ave",
+              "zipcode": "02122"
+            },
+            "attributionInfo": {
+              "agentName": "Joyce Lebedew",
+              "agentPhoneNumber": null,
+              "brokerName": "Joyce Lebedew Real Estate",
+              "brokerPhoneNumber": null,
+              "mlsId": "73309673",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 5,
+            "bedrooms": 11,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "378-380 Neponset Ave"
+                },
+                {
+                  "fullValue": "Dorchester, MA 02122"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/378-380-Neponset-Ave-Dorchester-MA-02122/2062061246_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.286983,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 4732,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 4732,
+            "longitude": -71.04476,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 0.4931129476584022,
+            "lotSize": 21480,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/7317f368034ed6d7e91ad4d44557d9c7-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Dorchester"
+            },
+            "price": 3199000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2062061246
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "9 Noyes Pl",
+              "zipcode": "02113"
+            },
+            "attributionInfo": {
+              "agentName": "Ryan Foley",
+              "agentPhoneNumber": null,
+              "brokerName": "Greater Metropolitan R. E.",
+              "brokerPhoneNumber": null,
+              "mlsId": "73398507",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 4,
+            "bedrooms": 11,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "9 Noyes Pl"
+                },
+                {
+                  "fullValue": "Boston, MA 02113"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/9-Noyes-Pl-Boston-MA-02113/59180977_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.364975,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 3024,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 3024,
+            "longitude": -71.05593,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 815,
+            "lotSize": 815,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/67fde246d0b93eb38587b9d96a39427f-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "North End"
+            },
+            "price": 2525000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59180977
+          },
+          {
+            "address": {
+              "city": "Dorchester",
+              "state": "MA",
+              "streetAddress": "79 Sydney St",
+              "zipcode": "02125"
+            },
+            "attributionInfo": {
+              "agentName": "Tayler Barbella",
+              "agentPhoneNumber": null,
+              "brokerName": "Boston Realty Advisors",
+              "brokerPhoneNumber": null,
+              "mlsId": "73423892",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 12,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "79 Sydney St"
+                },
+                {
+                  "fullValue": "Dorchester, MA 02125"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/79-Sydney-St-Dorchester-MA-02125/59104465_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.314217,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 3882,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 3882,
+            "longitude": -71.052505,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 3066,
+            "lotSize": 3066,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/e334f6ff0e023d939a7271dcc3f90cc6-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "North Dorchester"
+            },
+            "price": 2199000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59104465
+          },
+          {
+            "address": {
+              "city": "East Boston",
+              "state": "MA",
+              "streetAddress": "30 Monmouth St",
+              "zipcode": "02128"
+            },
+            "attributionInfo": {
+              "agentName": "Ryan Taylor",
+              "agentPhoneNumber": null,
+              "brokerName": "Fortune RE",
+              "brokerPhoneNumber": null,
+              "mlsId": "73430624",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 9,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "30 Monmouth St"
+                },
+                {
+                  "fullValue": "East Boston, MA 02128"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/30-Monmouth-St-East-Boston-MA-02128/59124457_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.37999,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 3381,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 3381,
+            "longitude": -71.03808,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1875,
+            "lotSize": 1875,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/2828a399f84a18d84c227873885b7764-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "East Boston"
+            },
+            "price": 1595000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59124457
+          },
+          {
+            "address": {
+              "city": "East Boston",
+              "state": "MA",
+              "streetAddress": "220 Bremen St",
+              "zipcode": "02128"
+            },
+            "attributionInfo": {
+              "agentName": "Mike Preston",
+              "agentPhoneNumber": null,
+              "brokerName": "Aura Realty Advisors",
+              "brokerPhoneNumber": null,
+              "mlsId": "73426386",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 12,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "220 Bremen St"
+                },
+                {
+                  "fullValue": "East Boston, MA 02128"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/220-Bremen-St-East-Boston-MA-02128/59123032_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.373936,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 2943,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 2943,
+            "longitude": -71.033295,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 2000,
+            "lotSize": 2000,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/fa82cb393f80a2e552b7599ebe76846e-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "East Boston"
+            },
+            "price": 2050000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59123032
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "410-412 Harrison Ave",
+              "zipcode": "02118"
+            },
+            "attributionInfo": {
+              "agentName": "Michael Kwan",
+              "agentPhoneNumber": null,
+              "brokerName": "Denkar Realty Group",
+              "brokerPhoneNumber": null,
+              "mlsId": "73347094",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 4,
+            "bedrooms": 11,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "410-412 Harrison Ave"
+                },
+                {
+                  "fullValue": "Boston, MA 02118"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/410-412-Harrison-Ave-Boston-MA-02118/2069193964_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.34326,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 3496,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 3496,
+            "longitude": -71.064354,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1086,
+            "lotSize": 1086,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/6fbe4895dd1d2d33a7457580badbc6a8-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South End"
+            },
+            "price": 2599000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2069193964
+          },
+          {
+            "address": {
+              "city": "Brighton",
+              "state": "MA",
+              "streetAddress": "14 Atkins St",
+              "zipcode": "02135"
+            },
+            "attributionInfo": {
+              "agentName": "Vena Priestly",
+              "agentPhoneNumber": null,
+              "brokerName": "Rise Signature Homes",
+              "brokerPhoneNumber": null,
+              "mlsId": "73427814",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 12,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "14 Atkins St"
+                },
+                {
+                  "fullValue": "Brighton, MA 02135"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/14-Atkins-St-Brighton-MA-02135/59096616_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.352448,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 3852,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 3852,
+            "longitude": -71.17057,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 7728,
+            "lotSize": 7728,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/c17695f23470eab1ebc770795f994b35-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Brighton"
+            },
+            "price": 2500000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59096616
+          },
+          {
+            "address": {
+              "city": "Dorchester",
+              "state": "MA",
+              "streetAddress": "33-35 Howell St",
+              "zipcode": "02125"
+            },
+            "attributionInfo": {
+              "agentName": "Mizner + Montero",
+              "agentPhoneNumber": null,
+              "brokerName": "Gibson Sotheby's International Realty",
+              "brokerPhoneNumber": null,
+              "mlsId": "73422543",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 11,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "33-35 Howell St"
+                },
+                {
+                  "fullValue": "Dorchester, MA 02125"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/33-35-Howell-St-Dorchester-MA-02125/456261461_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.325386,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 3870,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 3870,
+            "longitude": -71.05842,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 2471,
+            "lotSize": 2471,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/f69df06bb97e25cbeaf203984688ca72-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "North Dorchester"
+            },
+            "price": 1845000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 456261461
+          },
+          {
+            "address": {
+              "city": "Roxbury",
+              "state": "MA",
+              "streetAddress": "39-39 W Walnut Park #41",
+              "zipcode": "02119"
+            },
+            "attributionInfo": {
+              "agentName": "Guy Contaldi",
+              "agentPhoneNumber": null,
+              "brokerName": "Advisors Living - Boston",
+              "brokerPhoneNumber": null,
+              "mlsId": "73419082",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 14,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "39-39 W Walnut Park #41"
+                },
+                {
+                  "fullValue": "Roxbury, MA 02119"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/39-39-W-Walnut-Park-41-Roxbury-MA-02119/2056836987_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.317493,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 4300,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 4300,
+            "longitude": -71.098885,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 2500,
+            "lotSize": 2500,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/2e4e00f062234e182f8efd28a308a0b8-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Jamaica Plain"
+            },
+            "price": 2700000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2056836987
+          },
+          {
+            "address": {
+              "city": "Allston",
+              "state": "MA",
+              "streetAddress": "602-604 Cambridge St",
+              "zipcode": "02134"
+            },
+            "attributionInfo": {
+              "agentName": "Carl Christie",
+              "agentPhoneNumber": null,
+              "brokerName": "Carl Christie",
+              "brokerPhoneNumber": null,
+              "mlsId": "73417207",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 13,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "602-604 Cambridge St"
+                },
+                {
+                  "fullValue": "Allston, MA 02134"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/602-604-Cambridge-St-Allston-MA-02134/2078324158_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.35164,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 4693,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 4693,
+            "longitude": -71.142044,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 6102,
+            "lotSize": 6102,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/6fdca9644813ef81593d273b91138416-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Allston"
+            },
+            "price": 2600000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2078324158
+          },
+          {
+            "address": {
+              "city": "Roxbury",
+              "state": "MA",
+              "streetAddress": "10 Linwood St",
+              "zipcode": "02119"
+            },
+            "attributionInfo": {
+              "agentName": "Antonio J. Lopes",
+              "agentPhoneNumber": null,
+              "brokerName": "M7 Real Estate Group",
+              "brokerPhoneNumber": null,
+              "mlsId": "73427821",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 5,
+            "bedrooms": 10,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "10 Linwood St"
+                },
+                {
+                  "fullValue": "Roxbury, MA 02119"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/10-Linwood-St-Roxbury-MA-02119/2105551856_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.327774,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 4708,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 4708,
+            "longitude": -71.09293,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 5337,
+            "lotSize": 5337,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/b6765890470d4e4b5eb124a815cfb1f4-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Roxbury"
+            },
+            "price": 2750000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2105551856
+          },
+          {
+            "address": {
+              "city": "Dorchester",
+              "state": "MA",
+              "streetAddress": "16 Hallam St",
+              "zipcode": "02125"
+            },
+            "attributionInfo": {
+              "agentName": "Kopman Adler Team",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73424387",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 9,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "16 Hallam St"
+                },
+                {
+                  "fullValue": "Dorchester, MA 02125"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/16-Hallam-St-Dorchester-MA-02125/59110345_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.314404,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 3510,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 3510,
+            "longitude": -71.055824,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 2380,
+            "lotSize": 2380,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/1edb2d3aac0edf0f2c1172bb81b9ce7f-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "North Dorchester"
+            },
+            "price": 1989000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59110345
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "12 Grove St",
+              "zipcode": "02114"
+            },
+            "attributionInfo": {
+              "agentName": "Eliott Levine",
+              "agentPhoneNumber": null,
+              "brokerName": "Olde Forge Realty",
+              "brokerPhoneNumber": null,
+              "mlsId": "73429756",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 11,
+            "bedrooms": 11,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "12 Grove St"
+                },
+                {
+                  "fullValue": "Boston, MA 02114"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/12-Grove-St-Boston-MA-02114/456652120_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.36059,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 4211,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 4211,
+            "longitude": -71.06831,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1017,
+            "lotSize": 1017,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/947956dacbec649edbe62bf429ba6c27-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Beacon Hill"
+            },
+            "price": 4700000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 456652120
+          },
+          {
+            "address": {
+              "city": "Allston",
+              "state": "MA",
+              "streetAddress": "581 Cambridge St",
+              "zipcode": "02134"
+            },
+            "attributionInfo": {
+              "agentName": "Jeremy Basso",
+              "agentPhoneNumber": null,
+              "brokerName": "Boardwalk Properties",
+              "brokerPhoneNumber": null,
+              "mlsId": "73417594",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 9,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "581 Cambridge St"
+                },
+                {
+                  "fullValue": "Allston, MA 02134"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/581-Cambridge-St-Allston-MA-02134/59088639_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.352512,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 4162,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 4162,
+            "longitude": -71.14135,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 10551,
+            "lotSize": 10551,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/c900bf63c43d34f097b4a23b44d40906-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Allston"
+            },
+            "price": 2649000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59088639
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "34 Averton St",
+              "zipcode": "02131"
+            },
+            "attributionInfo": {
+              "agentName": "Jay McHugh",
+              "agentPhoneNumber": null,
+              "brokerName": "LAER Realty Partners",
+              "brokerPhoneNumber": null,
+              "mlsId": "73431939",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 9,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "34 Averton St"
+                },
+                {
+                  "fullValue": "Boston, MA 02131"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/34-Averton-St-Boston-MA-02131/59144475_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.28151,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 4393,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 4393,
+            "longitude": -71.13592,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 0.30303030303030304,
+            "lotSize": 13200,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/eff422259921aaa7d10efab1f7a3bee3-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Roslindale"
+            },
+            "price": 2175000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59144475
+          },
+          {
+            "address": {
+              "city": "Cambridge",
+              "state": "MA",
+              "streetAddress": "28 Berkshire St",
+              "zipcode": "02141"
+            },
+            "attributionInfo": {
+              "agentName": "Kopman Adler Team",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73424390",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 9,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "28 Berkshire St"
+                },
+                {
+                  "fullValue": "Cambridge, MA 02141"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/28-Berkshire-St-Cambridge-MA-02141/339505777_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.368973,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 4672,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 4672,
+            "longitude": -71.091415,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 2676,
+            "lotSize": 2676,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/1da6bac57ed05d1d184905e9b4acaf7b-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Wellington-Harrington"
+            },
+            "price": 3400000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 339505777
+          },
+          {
+            "address": {
+              "city": "Jamaica Plain",
+              "state": "MA",
+              "streetAddress": "10 Bynner St",
+              "zipcode": "02130"
+            },
+            "attributionInfo": {
+              "agentName": "Liling Lin",
+              "agentPhoneNumber": null,
+              "brokerName": "PWK Realty LLC",
+              "brokerPhoneNumber": null,
+              "mlsId": "73429440",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 4,
+            "bedrooms": 10,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "10 Bynner St"
+                },
+                {
+                  "fullValue": "Jamaica Plain, MA 02130"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/10-Bynner-St-Jamaica-Plain-MA-02130/2107351958_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.323128,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 4600,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 4600,
+            "longitude": -71.10881,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 2355,
+            "lotSize": 2355,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/5c13790f9d6b66eb0ac43dd6a2c29733-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Jamaica Plain"
+            },
+            "price": 1899000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2107351958
+          }
+        ]
+      }
+    ],
+    "trackingTags": [
+      {
+        "value": "9b1271b1d81242c8be805084fd47dffb"
+      }
+    ]
+  },
+  "comingSoonOnMarketDate": null,
+  "communityUrl": null,
+  "contingentListingType": null,
+  "country": "USA",
+  "county": "Suffolk County",
+  "countyFIPS": "25025",
+  "countyId": 2045,
+  "countySearchUrl": {
+    "path": "/suffolk-county-ma/",
+    "text": "Homes in Suffolk County"
+  },
+  "currency": "USD",
+  "datePostedString": "2025-07-18",
+  "daysOnZillow": 62,
+  "description": "Beautiful East Side 4-Family abutting Medal Of Honor Park! Drenched in natural sunlight, with approximately 3300 square feet of living space, this asset offers (2) 3-bedroom apartments, a 4-bedroom apartment, and a 2-bedroom penthouse. Completely renovated 4-unit at a very affordable price. Situated right off of the beaten path, you can walk to the beach, shops, restaurants and everything else South Boston has to offer. Current rents significantly below market value. Owner willing to subsidize please ask broker for details. Please give a 48-hour notice to show.",
+  "desktopWebHdpImageLink": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-p_h.jpg",
+  "downPaymentAssistance": {
+    "eligibility": {
+      "dpa": true
+    }
+  },
+  "editPropertyHistorylink": null,
+  "favoriteCount": 8,
+  "featuredListingTypeDimension": "organic",
+  "foreclosingBank": null,
+  "foreclosureAmount": null,
+  "foreclosureAuctionCity": null,
+  "foreclosureAuctionDescription": null,
+  "foreclosureAuctionFilingDate": null,
+  "foreclosureAuctionLocation": null,
+  "foreclosureAuctionTime": null,
+  "foreclosureBalanceReportingDate": null,
+  "foreclosureDate": null,
+  "foreclosureDefaultDescription": null,
+  "foreclosureDefaultFilingDate": null,
+  "foreclosureJudicialType": "Non-Judicial",
+  "foreclosureLoanAmount": null,
+  "foreclosureLoanDate": null,
+  "foreclosureLoanOriginator": null,
+  "foreclosureMoreInfo": null,
+  "foreclosurePastDueBalance": null,
+  "foreclosurePriorSaleAmount": null,
+  "foreclosurePriorSaleDate": null,
+  "foreclosureTypes": {
+    "isAnyForeclosure": false,
+    "isBankOwned": false,
+    "isForeclosedNFS": false,
+    "isPreforeclosure": false,
+    "wasDefault": null,
+    "wasForeclosed": false,
+    "wasNonRetailAuction": false,
+    "wasREO": null
+  },
+  "foreclosureUnpaidBalance": null,
+  "formattedChip": {
+    "location": [
+      {
+        "fullValue": "17 M St"
+      },
+      {
+        "fullValue": "South Boston, MA 02127"
+      }
+    ]
+  },
+  "hasApprovedThirdPartyVirtualTourUrl": false,
+  "hasBadGeocode": false,
+  "hasPublicVideo": false,
+  "hdpTypeDimension": "ForSale",
+  "hdpUrl": "/homedetails/17-M-St-South-Boston-MA-02127/448630511_zpid/",
+  "hiResImageLink": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-p_f.jpg",
+  "homeInsights": [
+    {
+      "insights": [
+        {
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Drenched in natural sunlight"
+          ],
+          "treatmentId": "model_0"
+        },
+        {
+          "modelId": "z-nrt-pdc-llm-tags",
+          "phrases": [
+            "Drenched in natural sunlight"
+          ],
+          "treatmentId": "model_1"
+        }
+      ]
+    }
+  ],
+  "homeStatus": "FOR_SALE",
+  "homeType": "MULTI_FAMILY",
+  "homeValues": null,
+  "housesForRentInZipcodeSearchUrl": {
+    "path": "/boston-ma-02127/rent-houses/"
+  },
+  "interactiveFloorPlanUrl": "",
+  "isCurrentSignedInAgentResponsible": false,
+  "isCurrentSignedInUserVerifiedOwner": false,
+  "isFeatured": false,
+  "isHousingConnector": false,
+  "isIncomeRestricted": null,
+  "isListingClaimedByCurrentSignedInUser": false,
+  "isNonOwnerOccupied": false,
+  "isPaidMultiFamilyBrokerId": false,
+  "isPreforeclosureAuction": false,
+  "isPremierBuilder": false,
+  "isRecentStatusChange": false,
+  "isRentalListingOffMarket": false,
+  "isRentalsLeadCapMet": false,
+  "isShowcaseListing": false,
+  "isUndisclosedAddress": false,
+  "isZillowOwned": false,
+  "keystoneHomeStatus": "ForSale",
+  "lastSoldPrice": 1900000,
+  "latitude": 42.337658,
+  "listPriceLow": null,
+  "listedBy": [
+    {
+      "elements": [
+        {
+          "action": null,
+          "id": "NAME",
+          "text": "Ryan Foley"
+        }
+      ],
+      "id": "LISTING_AGENT",
+      "textStyle": null
+    },
+    {
+      "elements": [
+        {
+          "action": null,
+          "id": "NAME",
+          "text": "Greater Metropolitan R. E."
+        }
+      ],
+      "id": "BROKER",
+      "textStyle": null
+    },
+    {
+      "elements": [
+        {
+          "action": null,
+          "id": "NAME",
+          "text": "Ryan  Bartlett"
+        }
+      ],
+      "id": "CO_LISTING_AGENT",
+      "textStyle": null
+    }
+  ],
+  "listingAccount": null,
+  "listingAccountUserId": "X1-ZUxqoextlld24p_2ghtg",
+  "listingDataSource": "Phoenix",
+  "listingFeedID": null,
+  "listingMetadata": {
+    "FlexibleLayoutAA": true,
+    "FlexibleLayoutAB": true,
+    "FlexibleLayoutB": true,
+    "FlexibleLayoutC": true,
+    "FlexibleLayoutD": true,
+    "FlexibleLayoutE": true,
+    "FlexibleLayoutF": false,
+    "FlexibleLayoutG": false,
+    "FlexibleLayoutH": true,
+    "FlexibleLayoutI": true,
+    "FlexibleLayoutJ": false,
+    "FlexibleLayoutK": false,
+    "FlexibleLayoutL": false,
+    "FlexibleLayoutM": true,
+    "FlexibleLayoutN": true,
+    "FlexibleLayoutO": true,
+    "FlexibleLayoutP": true,
+    "FlexibleLayoutQ": false,
+    "FlexibleLayoutR": false,
+    "FlexibleLayoutS": false,
+    "FlexibleLayoutT": false,
+    "FlexibleLayoutU": false,
+    "FlexibleLayoutV": false,
+    "FlexibleLayoutW": false,
+    "FlexibleLayoutX": false,
+    "FlexibleLayoutY": false,
+    "FlexibleLayoutZ": false,
+    "canCommingleComparables": true,
+    "canShowAutomatedValuationDisplay": true,
+    "canShowComparables": true,
+    "canShowCroppedPhotos": true,
+    "canShowNonIDXMedia": true,
+    "canShowOnMap": true,
+    "canShowPrequalifiedLinkInChip": true,
+    "canShowPriceHistory": true,
+    "canShowTaxHistory": true,
+    "canShowUserGeneratedContent": true,
+    "canShowZillowLogoInHeader": true,
+    "comminglingCategory": true,
+    "comminglingCategoryIsRulesApplicable": true,
+    "hidePriceAdjustmentFlexField": false,
+    "isAdsRestricted": false,
+    "isSuperTrafficOptimized": false,
+    "mustAttributeOfficeNameBeforeAgentName": false,
+    "mustDisplayAttributionAboveLocalFacts": false,
+    "mustDisplayAttributionListAgentEmail": false,
+    "mustDisplayAttributionListAgentPhone": false,
+    "mustDisplayAttributionListingOfficePhone": false,
+    "mustDisplayAuctionStatusAsSold": false,
+    "mustDisplayDisclaimerBelowAttribution": false,
+    "mustDisplayFeedLogoInContactBox": false,
+    "mustHighlightAgentName": null,
+    "mustHighlightListOfficeName": false,
+    "mustHighlightMarketingType": false,
+    "mustHighlightMlsId": null,
+    "mustHighlightMlsStatus": false,
+    "mustMakeListingAgentContactable": false,
+    "mustPreferMlsPhotos": false,
+    "passwordRequiredForZestimateMarketAnalysis": false
+  },
+  "listingProvider": null,
+  "listingSubType": {
+    "isBankOwned": false,
+    "isComingSoon": false,
+    "isFSBA": true,
+    "isFSBO": false,
+    "isForAuction": false,
+    "isForeclosure": false,
+    "isNewHome": false,
+    "isOpenHouse": false,
+    "isPending": false
+  },
+  "listingTypeDimension": "For Sale by Agent",
+  "listing_agent": {
+    "agent_reason": 3,
+    "badge_type": "Listing Agent",
+    "business_name": "Greater Metropolitan R. E.",
+    "display_name": "Ryan Foley",
+    "encoded_zuid": "X1-ZUxqoextlld24p_2ghtg",
+    "first_name": "Ryan",
+    "image_data": {
+      "height": 60,
+      "url": "https://www.zillowstatic.com/static/images/nophoto_h_n.png",
+      "width": 60
+    },
+    "phone": {
+      "areacode": "781",
+      "number": "0253",
+      "prefix": "389"
+    },
+    "profile_url": "/profile/Ryan-Foley9/",
+    "rating_average": 0,
+    "recent_sales": 0,
+    "review_count": 0,
+    "reviews_url": "/profile/Ryan-Foley9/#reviews",
+    "services_offered": [],
+    "username": "Ryan-Foley9",
+    "write_review_url": "/reviews/write/?s=X1-ZUxqoextlld24p_2ghtg",
+    "zpro": false
+  },
+  "listing_sub_type": {
+    "is_FSBA": true,
+    "is_FSBO": false,
+    "is_bankOwned": false,
+    "is_comingSoon": false,
+    "is_forAuction": false,
+    "is_foreclosure": false,
+    "is_newHome": false,
+    "is_pending": false
+  },
+  "livingArea": 3297,
+  "livingAreaUnits": "Square Feet",
+  "livingAreaUnitsShort": "sqft",
+  "livingAreaValue": 3297,
+  "longitude": -71.03359,
+  "lotAreaUnits": "Square Feet",
+  "lotAreaValue": 1600,
+  "lotPremium": null,
+  "lotSize": 1600,
+  "marketingName": null,
+  "mlsid": "73406661",
+  "monthlyHoaFee": null,
+  "mortgageZHLRates": {
+    "arm5Bucket": {
+      "lastUpdated": 1758225951183,
+      "rate": 6.908,
+      "rateSource": "ZGMI"
+    },
+    "fifteenYearFixedBucket": {
+      "lastUpdated": 1758225951183,
+      "rate": 6.416,
+      "rateSource": "ZGMI"
+    },
+    "thirtyYearFixedBucket": {
+      "lastUpdated": 1758225951183,
+      "rate": 6.5,
+      "rateSource": "ZGMI"
+    }
+  },
+  "moveHomeMapLocationLink": null,
+  "nearbyCities": [
+    {
+      "body": null,
+      "name": "Boston",
+      "regionUrl": {
+        "path": "/boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Chelsea",
+      "regionUrl": {
+        "path": "/chelsea-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Revere",
+      "regionUrl": {
+        "path": "/revere-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Winthrop",
+      "regionUrl": {
+        "path": "/winthrop-ma/"
+      }
+    }
+  ],
+  "nearbyHomes": [
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "17 M St #4",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "17 M St #4"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "NoZestimate",
+      "hdpUrl": "/homedetails/17-M-St-4-Boston-MA-02127/448624848_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "APARTMENT",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.337654,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 650,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 650,
+      "longitude": -71.033615,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e017180705d22562d3688d93cde03708-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 0,
+      "propertyTypeDimension": "Apartment",
+      "providerListingID": "24bmfb9p9z87",
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 448624848
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "17 M St APT B",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 3,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "17 M St APT B"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "NoZestimate",
+      "hdpUrl": "/homedetails/17-M-St-APT-B-Boston-MA-02127/2088367602_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "APARTMENT",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.337654,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "livingAreaValue": null,
+      "longitude": -71.033615,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/af56c99f237e8a5e23bedf9e7c2caedd-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 0,
+      "propertyTypeDimension": "Apartment",
+      "providerListingID": "3tztfe4ue3w4r",
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 2088367602
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "17 M St APT 2",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "17 M St APT 2"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "NoZestimate",
+      "hdpUrl": "/homedetails/17-M-St-APT-2-Boston-MA-02127/2104171157_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "APARTMENT",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.337654,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 595,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 595,
+      "longitude": -71.033615,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/39382a4e3148c39f0280f5d0faaff7e2-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 0,
+      "propertyTypeDimension": "Apartment",
+      "providerListingID": "457cndvfnzwfp",
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 2104171157
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "17 M St APT 1",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "17 M St APT 1"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "NoZestimate",
+      "hdpUrl": "/homedetails/17-M-St-APT-1-Boston-MA-02127/2112773707_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "APARTMENT",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.337654,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 965,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 965,
+      "longitude": -71.033615,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/fd0a1f7c19676eb3000da8173f836bc5-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 0,
+      "propertyTypeDimension": "Apartment",
+      "providerListingID": "2ygzucgtrw79f",
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 2112773707
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "17 M St APT 3",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 4,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "17 M St APT 3"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "ForRent",
+      "hdpUrl": "/homedetails/17-M-St-APT-3-South-Boston-MA-02127/2113644025_zpid/",
+      "homeStatus": "FOR_RENT",
+      "homeType": "APARTMENT",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.337654,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "For Rent",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 940,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 940,
+      "longitude": -71.033615,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/e02e127be7cf39e2264c9c05492c6ffe-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 5400,
+      "propertyTypeDimension": "Apartment",
+      "providerListingID": "3m240vjwt7u38",
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 2113644025
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "17 M St #G",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 3,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "17 M St #G"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "NoZestimate",
+      "hdpUrl": "/homedetails/17-M-St-G-Boston-MA-02127/448626915_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "APARTMENT",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.337677,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 650,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 650,
+      "longitude": -71.033585,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/c428fa68cfe2d5b98eda0d0acf370134-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 0,
+      "propertyTypeDimension": "Apartment",
+      "providerListingID": "4sje2my1u74qj",
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 448626915
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "17 M St #3A",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "17 M St #3A"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "NoZestimate",
+      "hdpUrl": "/homedetails/17-M-St-3A-Boston-MA-02127/442822606_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "APARTMENT",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33767,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 600,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 600,
+      "longitude": -71.033615,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/05f441c65188841c9c924f1b623c5349-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 0,
+      "propertyTypeDimension": "Apartment",
+      "providerListingID": "1tf21bt2m7gdp",
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 442822606
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "15 M St",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 2.5,
+      "bedrooms": 3,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "15 M St"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/15-M-St-South-Boston-MA-02127/59152333_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33772,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 1710,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 1710,
+      "longitude": -71.033615,
+      "lotAreaUnits": "Square Feet",
+      "lotAreaValue": 1742,
+      "lotSize": 1742,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/6bdf5c8491690bc7404f45c37ef1a510-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 974200,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 59152333
+    }
+  ],
+  "nearbyNeighborhoods": [
+    {
+      "body": null,
+      "name": "Brighton",
+      "regionUrl": {
+        "path": "/brighton-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "East Boston",
+      "regionUrl": {
+        "path": "/east-boston-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Hyde Park",
+      "regionUrl": {
+        "path": "/hyde-park-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Jamaica Plain",
+      "regionUrl": {
+        "path": "/jamaica-plain-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Roslindale",
+      "regionUrl": {
+        "path": "/roslindale-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Roxbury",
+      "regionUrl": {
+        "path": "/roxbury-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South Boston",
+      "regionUrl": {
+        "path": "/south-boston-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South Dorchester",
+      "regionUrl": {
+        "path": "/south-dorchester-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South End",
+      "regionUrl": {
+        "path": "/south-end-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "West Roxbury",
+      "regionUrl": {
+        "path": "/west-roxbury-boston-ma/"
+      }
+    }
+  ],
+  "nearbyZipcodes": [
+    {
+      "body": null,
+      "name": "02115",
+      "regionUrl": {
+        "path": "/boston-ma-02115/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02121",
+      "regionUrl": {
+        "path": "/boston-ma-02121/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02124",
+      "regionUrl": {
+        "path": "/boston-ma-02124/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02125",
+      "regionUrl": {
+        "path": "/boston-ma-02125/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02127",
+      "regionUrl": {
+        "path": "/boston-ma-02127/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02128",
+      "regionUrl": {
+        "path": "/boston-ma-02128/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02130",
+      "regionUrl": {
+        "path": "/boston-ma-02130/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02131",
+      "regionUrl": {
+        "path": "/boston-ma-02131/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02135",
+      "regionUrl": {
+        "path": "/boston-ma-02135/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02136",
+      "regionUrl": {
+        "path": "/boston-ma-02136/"
+      }
+    }
+  ],
+  "neighborhoodId": 155633,
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-p_c.jpg"
+    }
+  ],
+  "neighborhoodRegion": {
+    "name": "South Boston"
+  },
+  "neighborhoodSearchUrl": {
+    "path": "/south-boston-boston-ma/"
+  },
+  "newConstructionType": null,
+  "openHouseSchedule": [],
+  "originalPhotos": [
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    }
+  ],
+  "ouid": "M00000306",
+  "pageUrlFragment": "ForSale",
+  "pageViewCount": 231,
+  "pals": [],
+  "parcelId": "SBOSW06P03619S000",
+  "parentRegion": {
+    "name": "South Boston",
+    "regionId": 155633
+  },
+  "photoCount": 10,
+  "postingProductType": "Standard",
+  "postingUrl": null,
+  "price": 3149000,
+  "priceChange": null,
+  "priceChangeDate": null,
+  "priceChangeDateString": null,
+  "priceHistory": [
+    {
+      "attributeSource": {
+        "infoString1": "73406661",
+        "infoString2": "MLS PIN",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2025-07-18",
+      "event": "Listed for sale",
+      "postingIsRental": false,
+      "price": 3149000,
+      "priceChangeRate": 0.6573684210526316,
+      "pricePerSquareFoot": 955,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "MLS PIN",
+      "time": 1752796800000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2025-04-04",
+      "event": "Listing removed",
+      "postingIsRental": true,
+      "price": 3200,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 1,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1743724800000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2025-03-25",
+      "event": "Listed for rent",
+      "postingIsRental": true,
+      "price": 3200,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 1,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1742860800000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "73186929",
+        "infoString2": "MLS PIN",
+        "infoString3": null
+      },
+      "buyerAgent": {
+        "name": "Ryan Bartlett",
+        "photo": null,
+        "profileUrl": "/profile/rbartlett917/"
+      },
+      "date": "2024-05-30",
+      "event": "Sold",
+      "postingIsRental": false,
+      "price": 1900000,
+      "priceChangeRate": -0.047619047619047616,
+      "pricePerSquareFoot": 576,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "MLS PIN",
+      "time": 1717027200000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "73186929",
+        "infoString2": "MLS PIN",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-03-26",
+      "event": "Contingent",
+      "postingIsRental": false,
+      "price": 1995000,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 605,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "MLS PIN",
+      "time": 1711411200000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "73186929",
+        "infoString2": "MLS PIN",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-03-11",
+      "event": "Price change",
+      "postingIsRental": false,
+      "price": 1995000,
+      "priceChangeRate": -0.05,
+      "pricePerSquareFoot": 605,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "MLS PIN",
+      "time": 1710115200000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "73186929",
+        "infoString2": "MLS PIN",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-02-12",
+      "event": "Price change",
+      "postingIsRental": false,
+      "price": 2100000,
+      "priceChangeRate": -0.045454545454545456,
+      "pricePerSquareFoot": 637,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "MLS PIN",
+      "time": 1707696000000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "73186929",
+        "infoString2": "MLS PIN",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2023-12-12",
+      "event": "Listed for sale",
+      "postingIsRental": false,
+      "price": 2200000,
+      "priceChangeRate": 4.945945945945946,
+      "pricePerSquareFoot": 667,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "MLS PIN",
+      "time": 1702339200000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "24083",
+        "infoString2": "LINK",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2001-12-03",
+      "event": "Sold",
+      "postingIsRental": false,
+      "price": 370000,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 112,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "LINK",
+      "time": 1007337600000
+    }
+  ],
+  "primaryPublicVideo": null,
+  "propertyEventLogLink": null,
+  "propertyTaxRate": 0.67,
+  "propertyTypeDimension": "Multi Family",
+  "propertyUpdatePageLink": null,
+  "providerListingID": null,
+  "rentZestimate": null,
+  "rentalApplicationsAcceptedType": "REQUEST_TO_APPLY",
+  "resoFacts": {
+    "aboveGradeFinishedArea": "3,297",
+    "accessibilityFeatures": null,
+    "additionalFeeInfo": null,
+    "additionalParcelsDescription": null,
+    "appliances": null,
+    "architecturalStyle": null,
+    "associationAmenities": null,
+    "associationFee": null,
+    "associationFee2": null,
+    "associationFeeIncludes": null,
+    "associationName": null,
+    "associationName2": null,
+    "associationPhone": null,
+    "associationPhone2": null,
+    "associations": [],
+    "atAGlanceFacts": [
+      {
+        "factLabel": "Type",
+        "factValue": "4 Family - 4 Units Up/Down"
+      },
+      {
+        "factLabel": "Year Built",
+        "factValue": "1905"
+      },
+      {
+        "factLabel": "Heating",
+        "factValue": null
+      },
+      {
+        "factLabel": "Cooling",
+        "factValue": null
+      },
+      {
+        "factLabel": "Parking",
+        "factValue": "0 spaces"
+      },
+      {
+        "factLabel": "Days on Zillow",
+        "factValue": "62 Days"
+      },
+      {
+        "factLabel": "Price/sqft",
+        "factValue": "$955"
+      },
+      {
+        "factLabel": "Offer Review Date",
+        "factValue": null
+      }
+    ],
+    "attic": null,
+    "availabilityDate": null,
+    "basement": "Full,Finished",
+    "basementYN": true,
+    "bathrooms": 4,
+    "bathroomsFloat": 4,
+    "bathroomsFull": 4,
+    "bathroomsHalf": 0,
+    "bathroomsOneQuarter": null,
+    "bathroomsPartial": null,
+    "bathroomsThreeQuarter": null,
+    "bedrooms": 12,
+    "belowGradeFinishedArea": null,
+    "bodyType": null,
+    "builderModel": null,
+    "builderName": null,
+    "buildingArea": "3,297",
+    "buildingAreaSource": null,
+    "buildingFeatures": null,
+    "buildingName": null,
+    "canRaiseHorses": false,
+    "carportParkingCapacity": null,
+    "cityRegion": "South Boston",
+    "commonWalls": null,
+    "communityFeatures": null,
+    "compensationBasedOn": null,
+    "constructionMaterials": [
+      "Frame"
+    ],
+    "contingency": null,
+    "cooling": null,
+    "coveredParkingCapacity": 0,
+    "cropsIncludedYN": null,
+    "cumulativeDaysOnMarket": null,
+    "developmentStatus": null,
+    "doorFeatures": null,
+    "electric": null,
+    "elementarySchool": null,
+    "elementarySchoolDistrict": null,
+    "elevation": null,
+    "elevationUnits": null,
+    "entryLevel": null,
+    "entryLocation": null,
+    "exclusions": null,
+    "exteriorFeatures": [],
+    "feesAndDues": [],
+    "fencing": null,
+    "fireplaceFeatures": null,
+    "fireplaces": 0,
+    "flooring": null,
+    "foundationArea": null,
+    "foundationDetails": [
+      "Block"
+    ],
+    "frontageLength": null,
+    "frontageType": null,
+    "furnished": false,
+    "garageParkingCapacity": 0,
+    "gas": null,
+    "greenBuildingVerificationType": null,
+    "greenEnergyEfficient": null,
+    "greenEnergyGeneration": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "greenWaterConservation": null,
+    "hasAdditionalParcels": false,
+    "hasAssociation": null,
+    "hasAttachedGarage": null,
+    "hasAttachedProperty": false,
+    "hasCarport": null,
+    "hasCooling": null,
+    "hasElectricOnProperty": null,
+    "hasFireplace": false,
+    "hasGarage": false,
+    "hasHeating": null,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "hasOpenParking": null,
+    "hasPetsAllowed": null,
+    "hasPrivatePool": null,
+    "hasRentControl": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasWaterfrontView": null,
+    "heating": null,
+    "highSchool": null,
+    "highSchoolDistrict": null,
+    "hoaFee": null,
+    "hoaFeeTotal": null,
+    "homeType": "MultiFamily",
+    "horseAmenities": null,
+    "horseYN": null,
+    "inclusions": null,
+    "incomeIncludes": null,
+    "interiorFeatures": null,
+    "irrigationWaterRightsAcres": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "isSeniorCommunity": null,
+    "landLeaseAmount": null,
+    "landLeaseExpirationDate": null,
+    "laundryFeatures": null,
+    "leaseTerm": null,
+    "levels": null,
+    "listAOR": null,
+    "listingId": null,
+    "listingTerms": null,
+    "livingArea": "3,297 sqft",
+    "livingAreaRange": null,
+    "livingAreaRangeUnits": null,
+    "livingQuarters": [],
+    "lotFeatures": [
+      "Cleared"
+    ],
+    "lotSize": "1,600 sqft",
+    "lotSizeDimensions": null,
+    "mainLevelBathrooms": null,
+    "mainLevelBedrooms": null,
+    "marketingType": null,
+    "media": [],
+    "middleOrJuniorSchool": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "municipality": null,
+    "numberOfUnitsInCommunity": null,
+    "numberOfUnitsVacant": null,
+    "offerReviewDate": null,
+    "onMarketDate": 1752796800000,
+    "openParkingCapacity": null,
+    "otherEquipment": null,
+    "otherFacts": [],
+    "otherParking": null,
+    "otherStructures": null,
+    "ownership": null,
+    "ownershipType": null,
+    "parcelNumber": "W:06 P:03619 S:000,1414169",
+    "parkName": null,
+    "parkingCapacity": 0,
+    "parkingFeatures": [],
+    "patioAndPorchFeatures": null,
+    "petsMaxWeight": null,
+    "poolFeatures": null,
+    "pricePerSquareFoot": 955,
+    "propertyCondition": null,
+    "propertySubType": [
+      "4 Family - 4 Units Up/Down"
+    ],
+    "roadSurfaceType": null,
+    "roofType": "Rubber",
+    "roomTypes": null,
+    "rooms": [],
+    "securityFeatures": null,
+    "sewer": [
+      "Public Sewer"
+    ],
+    "spaFeatures": null,
+    "specialListingConditions": null,
+    "stories": null,
+    "storiesDecimal": null,
+    "storiesTotal": 4,
+    "structureType": null,
+    "subdivisionName": null,
+    "taxAnnualAmount": 14077,
+    "taxAssessedValue": 1215600,
+    "tenantPays": null,
+    "topography": null,
+    "totalActualRent": 17300,
+    "utilities": null,
+    "vegetation": null,
+    "view": [],
+    "virtualTour": null,
+    "waterBodyName": null,
+    "waterSource": [
+      "Public"
+    ],
+    "waterView": null,
+    "waterViewYN": null,
+    "waterfrontFeatures": [
+      "3/10 to 1/2 Mile To Beach"
+    ],
+    "windowFeatures": null,
+    "woodedArea": null,
+    "yearBuilt": 1905,
+    "yearBuiltEffective": null,
+    "zoning": "R4",
+    "zoningDescription": null
+  },
+  "responsivePhotos": [
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-p_d.jpg"
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-p_d.jpg"
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-p_d.jpg"
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-p_d.jpg"
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-p_d.jpg"
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-p_d.jpg"
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-p_d.jpg"
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-p_d.jpg"
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-p_d.jpg"
+    },
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-p_d.jpg"
+    }
+  ],
+  "responsivePhotosOriginalRatio": [
+    {
+      "caption": "",
+      "key": "cdd4abaf42555261bbddb5ac82477b8d",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "key": "1a2ef0486a39137aa1b4f99e1496a019",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1a2ef0486a39137aa1b4f99e1496a019-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "key": "3f19331a06746b3bb54b4307b5a6d30f",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3f19331a06746b3bb54b4307b5a6d30f-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "key": "6231cc92eef82b404fea18e23cbfc78f",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/6231cc92eef82b404fea18e23cbfc78f-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "key": "3a39e1565a98ec3323898d6bddf8ed66",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/3a39e1565a98ec3323898d6bddf8ed66-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "key": "fc207ffa399059f5acf84dfe26050b0a",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/fc207ffa399059f5acf84dfe26050b0a-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "key": "337ee63cb41e1546302b3bb6a0b945fd",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/337ee63cb41e1546302b3bb6a0b945fd-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "key": "a9fd38a6e10d4cbf81dcaf11c2208c24",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/a9fd38a6e10d4cbf81dcaf11c2208c24-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "key": "9d7fd98d6864586c873a550584962486",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/9d7fd98d6864586c873a550584962486-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    },
+    {
+      "caption": "",
+      "key": "1853c39fe4bed27fa12a8e63ed2e528f",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/1853c39fe4bed27fa12a8e63ed2e528f-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    }
+  ],
+  "restimateHighPercent": null,
+  "restimateLowPercent": null,
+  "richMedia": null,
+  "richMediaVideos": null,
+  "schools": [
+    {
+      "assigned": null,
+      "distance": 0.4,
+      "grades": "PK-6",
+      "isAssigned": null,
+      "level": "Primary",
+      "link": "https://www.greatschools.org/massachusetts/boston/284-Tynan-Elementary-School/",
+      "name": "Joseph P. Tynan Elementary School",
+      "rating": 3,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    },
+    {
+      "assigned": null,
+      "distance": 1,
+      "grades": "PK-8",
+      "isAssigned": null,
+      "level": "Primary",
+      "link": "https://www.greatschools.org/massachusetts/boston/267-James-Condon-Elementary-School/",
+      "name": "James F. Condon School",
+      "rating": 3,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    },
+    {
+      "assigned": null,
+      "distance": 0.7,
+      "grades": "9-12",
+      "isAssigned": null,
+      "level": "High",
+      "link": "https://www.greatschools.org/massachusetts/boston/2998-Excel-High-School/",
+      "name": "Excel High School",
+      "rating": 1,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    }
+  ],
+  "sellingSoon": [
+    {
+      "modelId": "v0",
+      "percentile": 0.13,
+      "treatmentId": "model_0"
+    },
+    {
+      "modelId": "v2",
+      "percentile": 0.26061058,
+      "treatmentId": "model_v2"
+    }
+  ],
+  "ssid": 12,
+  "state": "MA",
+  "stateId": 26,
+  "stateSearchUrl": {
+    "path": "/ma/"
+  },
+  "staticMap": {
+    "sources": [
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.337658,-71.03359&zoom=13&size=192x144&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=tTqHbKsehnW3917QhShMh1XE-jQ=",
+        "width": 192
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.337658,-71.03359&zoom=15&size=192x144&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=Djx1qNGuDlLeOZFaGPemTGbUOm4=",
+        "width": 192
+      },
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.337658,-71.03359&zoom=14&size=384x288&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=xF3JeBTDJcYz0nUZMZ2eSq4UxsE=",
+        "width": 384
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.337658,-71.03359&zoom=15&size=384x288&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=m02U8Oqi-P6JDQT4RaFYppDmFmY=",
+        "width": 384
+      },
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.337658,-71.03359&zoom=15&size=768x576&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=PdRX6qlfY5ymV-sN4p3_x46NsT0=",
+        "width": 768
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.337658,-71.03359&zoom=15&size=768x576&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=elpwv1_O1Kbg-pVHsZ7Fad0f1Qg=",
+        "width": 768
+      }
+    ]
+  },
+  "streetAddress": "17 M St",
+  "streetViewMetadataUrlMapLightboxAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=17+M+St%2C+South+Boston%2C+MA+02127&key=AIzaSyBV4lXhV-qzQOegyA3m0_AvGy9F21HIyOQ&source=outdoor&signature=VvESnrxjCJEZQhwDGcaGBVwAJzk=",
+  "streetViewMetadataUrlMediaWallAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=17+M+St%2C+South+Boston%2C+MA+02127&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=EyJ1E5apa6HcIjH4VUaFjqCSKmY=",
+  "streetViewMetadataUrlMediaWallLatLong": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.337658,-71.033590&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=OhsQZevym7-GANwk4u9hGcPjkeo=",
+  "streetViewServiceUrl": "https://street-view-url.prod.zgk-partner.zillowapi.com?zpid=448630511&address=17%20M%20St%2C%20South%20Boston%2C%20MA%2002127&width=512&height=234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&maxdistance=60&lat=42.337658&lon=-71.03359&signature=PCXA3u_alxmK6sEPvganMNHlT40=",
+  "streetViewTileImageUrlMediumAddress": "https://maps.googleapis.com/maps/api/streetview?location=17+M+St%2C+South+Boston%2C+MA+02127&size=400x250&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=dHKsbQZSdDu_hEaXCKfTCc43trk=",
+  "streetViewTileImageUrlMediumLatLong": "https://maps.googleapis.com/maps/api/streetview?location=42.337658,-71.033590&size=400x250&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=MT4gokmJC8u_uavGbyPdH6JjvSw=",
+  "submitFlow": [
+    {
+      "__typename": "PropertyLeadSubmitForm",
+      "buttonText": "Next",
+      "checkboxes": [
+        {
+          "financingType": "ZGMI",
+          "initialClickstreamMetadata": {
+            "onPageView": {
+              "clickstream_trigger": {
+                "trigger_source_nm": "contact_form_with_zgmi",
+                "trigger_type_nm": "impression"
+              },
+              "envelope": {
+                "event_template_id": "374",
+                "event_template_version_id": "1",
+                "event_type_id": "5860",
+                "event_type_version_id": "7"
+              },
+              "semantic": {
+                "semantic_event_nm": "view_content",
+                "topic_tag_txt": []
+              }
+            }
+          },
+          "isCheckedInitialState": true,
+          "label": "I want financing information",
+          "leadFieldName": "wantsFinancing"
+        }
+      ],
+      "clickstreamMetadata": {
+        "onPageView": null
+      },
+      "componentPositionOrder": [
+        "InputFields",
+        "CTA",
+        "Checkboxes",
+        "TCPADisclosure"
+      ],
+      "cta": {
+        "action": null,
+        "clickstreamMetadata": {
+          "onClick": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_agent_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6152",
+              "event_type_version_id": "3"
+            },
+            "semantic": {
+              "semantic_event_nm": "request_contact_start",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          },
+          "onError": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6466",
+              "event_type_version_id": "3"
+            },
+            "semantic": {
+              "semantic_event_nm": "contact_request_error",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          },
+          "onSuccess": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "397",
+              "event_type_version_id": "6"
+            },
+            "semantic": {
+              "semantic_event_nm": "request_contact_complete",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          }
+        },
+        "helpText": null,
+        "isSticky": false,
+        "label": "Next"
+      },
+      "disclosure": null,
+      "error": null,
+      "financingCheckbox": {
+        "financingType": "ZGMI",
+        "initialClickstreamMetadata": {
+          "onPageView": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "contact_form_with_zgmi",
+              "trigger_type_nm": "impression"
+            },
+            "envelope": {
+              "event_template_id": "374",
+              "event_template_version_id": "1",
+              "event_type_id": "5860",
+              "event_type_version_id": "7"
+            },
+            "semantic": {
+              "semantic_event_nm": "view_content",
+              "topic_tag_txt": []
+            }
+          }
+        },
+        "isCheckedInitialState": true,
+        "label": "I want financing information",
+        "leadFieldName": "wantsFinancing"
+      },
+      "heading": null,
+      "headingIcon": null,
+      "inputFields": [
+        {
+          "clientSideValidationErrorMessage": "Enter your name",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "name",
+          "inputType": "NAME",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Name",
+          "maxCharacters": null,
+          "placeholder": null,
+          "validationRegex": null,
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": "Enter a valid US or Canadian phone number",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "phoneNumber",
+          "inputType": "PHONE_NUMBER",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Phone",
+          "maxCharacters": null,
+          "placeholder": null,
+          "validationRegex": "/^\\(?([2-9][0-8][0-9])\\)?[\\-. ]?([2-9][0-9]{2})[\\-. ]?([0-9]{4})(?: x(\\d{1,4}))?$/",
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": "Enter a valid email address",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "emailAddress",
+          "inputType": "EMAIL",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Email",
+          "maxCharacters": 320,
+          "placeholder": null,
+          "validationRegex": "/^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-zA-Z]{2,63}$/i",
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": null,
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "message",
+          "inputType": "MESSAGE",
+          "isRequired": false,
+          "isUserInputDisabled": false,
+          "label": "Message",
+          "maxCharacters": null,
+          "placeholder": "Add details or questions about what you\u2019re looking for",
+          "validationRegex": null,
+          "value": "I am interested in 17 M St, South Boston, MA 02127."
+        }
+      ],
+      "subheading": null,
+      "tcpa": {
+        "clickstreamMetadata": {
+          "onPageView": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "scroll_contact_screen_disclaimer",
+              "trigger_type_nm": "impression"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6465",
+              "event_type_version_id": "4"
+            },
+            "semantic": {
+              "semantic_event_nm": "view_content",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          }
+        },
+        "telephoneConsumerProtectionActDisclaimer": {
+          "text": "By pressing Next, you agree that Zillow Group and its affiliates, and real estate professionals may call/text you about your inquiry, which may involve use of automated means and prerecorded/artificial voices. You don\u2019t need to consent as a condition of buying any property, goods or services. Message/data rates may apply. You also agree to our Terms of Use. Zillow does not endorse any real estate professionals. We may share information about your recent and future site activity with your agent to help them understand what you\u2019re looking for in a home.",
+          "textAttributes": [
+            {
+              "__typename": "TourViewModuleTextTooltipAttribute",
+              "tokenEndIndex": 95,
+              "tokenStartIndex": 70,
+              "tooltipText": "\u201cReal estate professionals\u201d includes the real estate agents and brokers, mortgage lenders and loan officers, property managers, and other professionals you interact with through Zillow. Zillow Premier Agent is an advertising program that helps connect customers to local real estate professionals. Zillow Premier Agent partners are paid advertisers and are not affiliated with Zillow, Inc. brokerage or any of its affiliates."
+            },
+            {
+              "__typename": "TourViewModuleTextLinkAttribute",
+              "tokenEndIndex": 358,
+              "tokenStartIndex": 346,
+              "url": "https://www.zillow.com/z/corp/terms/"
+            }
+          ]
+        }
+      },
+      "telephoneConsumerProtectionActDisclaimer": {
+        "text": "By pressing Next, you agree that Zillow Group and its affiliates, and real estate professionals may call/text you about your inquiry, which may involve use of automated means and prerecorded/artificial voices. You don\u2019t need to consent as a condition of buying any property, goods or services. Message/data rates may apply. You also agree to our Terms of Use. Zillow does not endorse any real estate professionals. We may share information about your recent and future site activity with your agent to help them understand what you\u2019re looking for in a home.",
+        "textAttributes": [
+          {
+            "__typename": "TourViewModuleTextTooltipAttribute",
+            "tokenEndIndex": 95,
+            "tokenStartIndex": 70,
+            "tooltipText": "\u201cReal estate professionals\u201d includes the real estate agents and brokers, mortgage lenders and loan officers, property managers, and other professionals you interact with through Zillow. Zillow Premier Agent is an advertising program that helps connect customers to local real estate professionals. Zillow Premier Agent partners are paid advertisers and are not affiliated with Zillow, Inc. brokerage or any of its affiliates."
+          },
+          {
+            "__typename": "TourViewModuleTextLinkAttribute",
+            "tokenEndIndex": 358,
+            "tokenStartIndex": 346,
+            "url": "https://www.zillow.com/z/corp/terms/"
+          }
+        ]
+      },
+      "title": "Contact agent"
+    },
+    {
+      "__typename": "AuthOTP",
+      "authStyle": "EMBEDDED",
+      "isInZIBSMarket": false
+    },
+    {
+      "__typename": "FormQuestionnaire"
+    }
+  ],
+  "taxHistory": [
+    {
+      "taxIncreaseRate": -0.009942974,
+      "taxPaid": 13542,
+      "time": 1726689951169,
+      "value": 1242400,
+      "valueIncreaseRate": -0.024497487
+    },
+    {
+      "taxIncreaseRate": 0.03912482,
+      "taxPaid": 13678,
+      "time": 1695067551169,
+      "value": 1273600,
+      "valueIncreaseRate": 0.052735988
+    },
+    {
+      "taxIncreaseRate": 0.0238799,
+      "taxPaid": 13163,
+      "time": 1663531551169,
+      "value": 1209800,
+      "valueIncreaseRate": 0.0040667276
+    },
+    {
+      "taxIncreaseRate": 0.031450577,
+      "taxPaid": 12856,
+      "time": 1631995551169,
+      "value": 1204900,
+      "valueIncreaseRate": 0.02084216
+    },
+    {
+      "taxIncreaseRate": 0.035473954,
+      "taxPaid": 12464,
+      "time": 1600459551169,
+      "value": 1180300,
+      "valueIncreaseRate": 0.033537652
+    },
+    {
+      "taxIncreaseRate": 0.05661868,
+      "taxPaid": 12037,
+      "time": 1568837151169,
+      "value": 1142000,
+      "valueIncreaseRate": 0.050597977
+    },
+    {
+      "taxIncreaseRate": 3.7424579,
+      "taxPaid": 11392,
+      "time": 1537301151169,
+      "value": 1087000,
+      "valueIncreaseRate": 0.050749153
+    },
+    {
+      "taxIncreaseRate": -0.7500125,
+      "taxPaid": 2402.13,
+      "time": 1505765151169,
+      "value": 1034500,
+      "valueIncreaseRate": 0.18431596
+    },
+    {
+      "taxIncreaseRate": 0.053041097,
+      "taxPaid": 9609,
+      "time": 1474229151169,
+      "value": 873500,
+      "valueIncreaseRate": 0.1592568
+    },
+    {
+      "taxIncreaseRate": 0.076696165,
+      "taxPaid": 9125,
+      "time": 1442606751169,
+      "value": 753500,
+      "valueIncreaseRate": 0.16821705
+    },
+    {
+      "taxIncreaseRate": 0.10437842,
+      "taxPaid": 8475,
+      "time": 1379534751169,
+      "value": 645000,
+      "valueIncreaseRate": 0.096006796
+    },
+    {
+      "taxIncreaseRate": 0.06479811,
+      "taxPaid": 7674,
+      "time": 1347998751169,
+      "value": 588500,
+      "valueIncreaseRate": 0.044365574
+    },
+    {
+      "taxIncreaseRate": 0.065178834,
+      "taxPaid": 7207,
+      "time": 1316376351169,
+      "value": 563500,
+      "valueIncreaseRate": -0.010535558
+    },
+    {
+      "taxIncreaseRate": 0.06972332,
+      "taxPaid": 6766,
+      "time": 1284840351169,
+      "value": 569500,
+      "valueIncreaseRate": -0.042857144
+    },
+    {
+      "taxIncreaseRate": -0.16863827,
+      "taxPaid": 6325,
+      "time": 1253304351169,
+      "value": 595000,
+      "valueIncreaseRate": -0.14203316
+    },
+    {
+      "taxIncreaseRate": 0.0098221395,
+      "taxPaid": 7608,
+      "time": 1221768351169,
+      "value": 693500,
+      "valueIncreaseRate": 0.011670314
+    },
+    {
+      "taxIncreaseRate": 0,
+      "taxPaid": 7534,
+      "time": 1190145951169,
+      "value": 685500,
+      "valueIncreaseRate": 0
+    }
+  ],
+  "thirdPartyVirtualTour": {
+    "approved": false,
+    "externalUrl": null,
+    "lightboxUrl": null,
+    "providerKey": null,
+    "staticUrl": null
+  },
+  "thumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/cdd4abaf42555261bbddb5ac82477b8d-p_a.jpg"
+    }
+  ],
+  "timeOnZillow": "62 days",
+  "timeZone": "America/New_York",
+  "tourEligibility": {
+    "isPropertyTourEligible": true,
+    "propertyTourOptions": {
+      "isFinal": true,
+      "tourAvailability": [
+        {
+          "date": "2025-09-18",
+          "status": "AVAILABLE",
+          "times": [
+            "19:00:00"
+          ]
+        },
+        {
+          "date": "2025-09-19",
+          "status": "AVAILABLE",
+          "times": [
+            "09:00:00",
+            "09:30:00",
+            "10:00:00",
+            "10:30:00",
+            "11:00:00",
+            "11:30:00",
+            "12:00:00",
+            "12:30:00",
+            "13:00:00",
+            "13:30:00",
+            "14:00:00",
+            "14:30:00",
+            "15:00:00",
+            "15:30:00",
+            "16:00:00",
+            "16:30:00",
+            "17:00:00",
+            "17:30:00",
+            "18:00:00",
+            "18:30:00",
+            "19:00:00"
+          ]
+        },
+        {
+          "date": "2025-09-20",
+          "status": "AVAILABLE",
+          "times": [
+            "09:00:00",
+            "09:30:00",
+            "10:00:00",
+            "10:30:00",
+            "11:00:00",
+            "11:30:00",
+            "12:00:00",
+            "12:30:00",
+            "13:00:00",
+            "13:30:00",
+            "14:00:00",
+            "14:30:00",
+            "15:00:00",
+            "15:30:00",
+            "16:00:00",
+            "16:30:00",
+            "17:00:00",
+            "17:30:00",
+            "18:00:00",
+            "18:30:00",
+            "19:00:00"
+          ]
+        },
+        {
+          "date": "2025-09-21",
+          "status": "AVAILABLE",
+          "times": [
+            "09:00:00",
+            "09:30:00",
+            "10:00:00",
+            "10:30:00",
+            "11:00:00",
+            "11:30:00",
+            "12:00:00",
+            "12:30:00",
+            "13:00:00",
+            "13:30:00",
+            "14:00:00",
+            "14:30:00",
+            "15:00:00",
+            "15:30:00",
+            "16:00:00",
+            "16:30:00",
+            "17:00:00",
+            "17:30:00",
+            "18:00:00",
+            "18:30:00",
+            "19:00:00"
+          ]
+        },
+        {
+          "date": "2025-09-22",
+          "status": "AVAILABLE",
+          "times": [
+            "09:00:00",
+            "09:30:00",
+            "10:00:00",
+            "10:30:00",
+            "11:00:00",
+            "11:30:00",
+            "12:00:00",
+            "12:30:00",
+            "13:00:00",
+            "13:30:00",
+            "14:00:00",
+            "14:30:00",
+            "15:00:00",
+            "15:30:00",
+            "16:00:00",
+            "16:30:00",
+            "17:00:00",
+            "17:30:00",
+            "18:00:00",
+            "18:30:00",
+            "19:00:00"
+          ]
+        },
+        {
+          "date": "2025-09-23",
+          "status": "AVAILABLE",
+          "times": [
+            "09:00:00",
+            "09:30:00",
+            "10:00:00",
+            "10:30:00",
+            "11:00:00",
+            "11:30:00",
+            "12:00:00",
+            "12:30:00",
+            "13:00:00",
+            "13:30:00",
+            "14:00:00",
+            "14:30:00",
+            "15:00:00",
+            "15:30:00",
+            "16:00:00",
+            "16:30:00",
+            "17:00:00",
+            "17:30:00",
+            "18:00:00",
+            "18:30:00",
+            "19:00:00"
+          ]
+        },
+        {
+          "date": "2025-09-24",
+          "status": "AVAILABLE",
+          "times": [
+            "09:00:00",
+            "09:30:00",
+            "10:00:00",
+            "10:30:00",
+            "11:00:00",
+            "11:30:00",
+            "12:00:00",
+            "12:30:00",
+            "13:00:00",
+            "13:30:00",
+            "14:00:00",
+            "14:30:00",
+            "15:00:00",
+            "15:30:00",
+            "16:00:00",
+            "16:30:00",
+            "17:00:00",
+            "17:30:00",
+            "18:00:00",
+            "18:30:00",
+            "19:00:00"
+          ]
+        },
+        {
+          "date": "2025-09-25",
+          "status": "AVAILABLE",
+          "times": [
+            "09:00:00",
+            "09:30:00",
+            "10:00:00",
+            "10:30:00",
+            "11:00:00",
+            "11:30:00",
+            "12:00:00",
+            "12:30:00",
+            "13:00:00",
+            "13:30:00",
+            "14:00:00",
+            "14:30:00",
+            "15:00:00",
+            "15:30:00",
+            "16:00:00",
+            "16:30:00",
+            "17:00:00",
+            "17:30:00",
+            "18:00:00",
+            "18:30:00",
+            "19:00:00"
+          ]
+        },
+        {
+          "date": "2025-09-26",
+          "status": "AVAILABLE",
+          "times": [
+            "09:00:00",
+            "09:30:00",
+            "10:00:00",
+            "10:30:00",
+            "11:00:00",
+            "11:30:00",
+            "12:00:00",
+            "12:30:00",
+            "13:00:00",
+            "13:30:00",
+            "14:00:00",
+            "14:30:00",
+            "15:00:00",
+            "15:30:00",
+            "16:00:00",
+            "16:30:00",
+            "17:00:00",
+            "17:30:00",
+            "18:00:00",
+            "18:30:00",
+            "19:00:00"
+          ]
+        }
+      ],
+      "tourType": "STANDARD"
+    }
+  },
+  "tourViewCount": 0,
+  "virtualTourUrl": null,
+  "whatILove": null,
+  "yearBuilt": 1905,
+  "zestimate": 2996200,
+  "zestimateHighPercent": "5",
+  "zestimateLowPercent": "5",
+  "zipcode": "02127",
+  "zipcodeId": 58641,
+  "zipcodeSearchUrl": {
+    "path": "/boston-ma-02127/"
+  },
+  "zpid": 448630511
+}

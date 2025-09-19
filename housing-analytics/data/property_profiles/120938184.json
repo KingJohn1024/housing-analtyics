@@ -1,0 +1,3744 @@
+{
+  "abbreviatedAddress": "1794 Columbia Rd #3",
+  "address": {
+    "city": "South Boston",
+    "community": null,
+    "neighborhood": null,
+    "state": "MA",
+    "streetAddress": "1794 Columbia Rd #3",
+    "subdivision": null,
+    "zipcode": "02127"
+  },
+  "apartmentsForRentInZipcodeSearchUrl": {
+    "path": "/boston-ma-02127/apartments/"
+  },
+  "attributionInfo": {
+    "agentEmail": null,
+    "agentLicenseNumber": null,
+    "agentName": null,
+    "agentPhoneNumber": null,
+    "attributionTitle": null,
+    "brokerName": null,
+    "brokerPhoneNumber": null,
+    "buyerAgentMemberStateLicense": null,
+    "buyerAgentName": null,
+    "buyerBrokerageName": null,
+    "coAgentLicenseNumber": null,
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString10": null,
+    "infoString16": null,
+    "infoString3": null,
+    "infoString5": null,
+    "lastChecked": null,
+    "lastUpdated": null,
+    "listingAgentAttributionContact": null,
+    "listingAgents": [],
+    "listingAgreement": null,
+    "listingAttributionContact": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": null
+      }
+    ],
+    "mlsDisclaimer": null,
+    "mlsId": null,
+    "mlsName": null,
+    "providerLogo": null,
+    "trueStatus": null
+  },
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "boroughId": null,
+  "boroughSearchUrl": null,
+  "brokerId": null,
+  "brokerIdDimension": "Unknown Listed By",
+  "brokerageName": null,
+  "building": null,
+  "buildingId": "1150959145",
+  "buyAbilityData": {
+    "chipLabel": null,
+    "isEligibleProperty": true
+  },
+  "city": "South Boston",
+  "cityId": 44269,
+  "citySearchUrl": {
+    "path": "/boston-ma/",
+    "text": "Homes in Boston"
+  },
+  "collections": {
+    "modules": [
+      {
+        "name": "Similar homes",
+        "placement": "NEIGHBORHOOD",
+        "propertyDetails": [
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "110 I St",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Joyce Lebedew",
+              "agentPhoneNumber": null,
+              "brokerName": "Joyce Lebedew Real Estate",
+              "brokerPhoneNumber": null,
+              "mlsId": "73427919",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "110 I St"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/110-I-St-South-Boston-MA-02127/59150810_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.334232,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1272,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1272,
+            "longitude": -71.03978,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1146,
+            "lotSize": 1146,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/fd12d9ac2aa4f16329947bbe07598e54-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1099000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59150810
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "27 Mercer St #1",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Carlisle Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73430911",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 3,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "27 Mercer St #1"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/27-Mercer-St-1-South-Boston-MA-02127/295324801_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": true,
+            "latitude": 42.332573,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1461,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1461,
+            "longitude": -71.0492,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/ad7398a4269d55c78d0eb38c72bde765-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1199000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 295324801
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "479 E 6th St",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Team Galvin",
+              "agentPhoneNumber": null,
+              "brokerName": "The Galvin Group, LLC",
+              "brokerPhoneNumber": null,
+              "mlsId": "73414660",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 3,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "479 E 6th St"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/479-E-6th-St-South-Boston-MA-02127/59148948_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33288,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1352,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1352,
+            "longitude": -71.04162,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 693,
+            "lotSize": 693,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/1d90d43f6dec043f0ffc708f6f341e3c-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1100000,
+            "propertyTypeDimension": "Multi Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59148948
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "3 M St #3",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Jacob Carlin",
+              "agentPhoneNumber": null,
+              "brokerName": "JW Brokerage",
+              "brokerPhoneNumber": null,
+              "mlsId": "73427482",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "3 M St #3"
+                },
+                {
+                  "fullValue": "Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/3-M-St-3-Boston-MA-02127/456548522_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.338024,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1190,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1190,
+            "longitude": -71.033615,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1190,
+            "lotSize": 1190,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/64aa935099a07936c58dc0c9d2d95bf1-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1175000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 456548522
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "616 E 4th St UNIT 204",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Erin Russ",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73403108",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "616 East Fourth Street Condominium"
+                },
+                {
+                  "fullValue": "616 E 4th St UNIT 204"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/616-E-4th-St-UNIT-204-South-Boston-MA-02127/190073522_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33491,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1126,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1126,
+            "longitude": -71.040215,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1122,
+            "lotSize": 1122,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/c75850347e17d9f2e5327e4c40dad0bb-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1030000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 190073522
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "309 E St APT 36",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Aranson Maguire Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73429292",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "309 E St APT 36"
+                },
+                {
+                  "fullValue": "Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/309-E-St-APT-36-Boston-MA-02127/2076815984_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.337227,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1349,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1349,
+            "longitude": -71.04964,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/6308a708af0579b248e25090c1e913c5-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1100000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2076815984
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "89 Baxter St",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Gina Morda",
+              "agentPhoneNumber": null,
+              "brokerName": "Corcoran Property Advisors",
+              "brokerPhoneNumber": null,
+              "mlsId": "73428501",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 3,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "89 Baxter St"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/89-Baxter-St-South-Boston-MA-02127/59149339_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.335083,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1475,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1475,
+            "longitude": -71.05322,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1080,
+            "lotSize": 1080,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/a12bfb97e8b6d5eaa911d3baf928d500-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1125000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59149339
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "405 W 1st St UNIT 303",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Carlisle Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73430891",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "405 W 1st St UNIT 303"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/405-W-1st-St-UNIT-303-South-Boston-MA-02127/239893183_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": true,
+            "latitude": 42.337944,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1513,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1513,
+            "longitude": -71.044716,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/5e23a6117fa4158cb5389ef043cff962-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1199000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 239893183
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "698 E 5th St",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "David Cahill",
+              "agentPhoneNumber": null,
+              "brokerName": "Century 21 Cityside",
+              "brokerPhoneNumber": null,
+              "mlsId": "73425727",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "698 E 5th St"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/698-E-5th-St-South-Boston-MA-02127/59152244_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33415,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1152,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1152,
+            "longitude": -71.032265,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 2117,
+            "lotSize": 2117,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/7970393afe637b614e17645b42ba3721-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 949000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59152244
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "615 E 6th St #1",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Aranson Maguire Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73427570",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 3,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "615 E 6th St #1"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/615-E-6th-St-1-South-Boston-MA-02127/123847147_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33296,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1856,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1856,
+            "longitude": -71.035774,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1856,
+            "lotSize": 1856,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/885b98f8138bc11221f17fa0f7e69586-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1299000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 123847147
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "633 E 7th St #3",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Zack Harwood Real Estate Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Berkshire Hathaway HomeServices Warren Residential",
+              "brokerPhoneNumber": null,
+              "mlsId": "73431654",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "633 E 7th St #3"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/633-E-7th-St-3-South-Boston-MA-02127/87793726_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.332153,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 980,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 980,
+            "longitude": -71.034874,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/1ebe515b9817342dd9fad239db8214d1-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 800000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 87793726
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "707 E 4th St #PENTHOUSE",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Paul Whaley/Charlie Ring Team",
+              "agentPhoneNumber": null,
+              "brokerName": "Coldwell Banker Realty - Boston",
+              "brokerPhoneNumber": null,
+              "mlsId": "73425627",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 3,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "707 E 4th St #PENTHOUSE"
+                },
+                {
+                  "fullValue": "Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/707-E-4th-St-PENTHOUSE-Boston-MA-02127/456396644_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33465,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1501,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1501,
+            "longitude": -71.036354,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/2b467daec7f153307563fd842b778ead-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1285000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 456396644
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "525 E 1st St UNIT 5",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Dom Lange",
+              "agentPhoneNumber": null,
+              "brokerName": "Gibson Sotheby's International Realty",
+              "brokerPhoneNumber": null,
+              "mlsId": "73428217",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "525 E 1st St UNIT 5"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/525-E-1st-St-UNIT-5-South-Boston-MA-02127/239893212_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33788,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1331,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1331,
+            "longitude": -71.038704,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/2ed262fee6c1aa0fa47f319960936ffa-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1149000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 239893212
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "607 E 2nd St",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Adam Burns",
+              "agentPhoneNumber": null,
+              "brokerName": "Burns Realty & Investments",
+              "brokerPhoneNumber": null,
+              "mlsId": "73430276",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "607 E 2nd St"
+                },
+                {
+                  "fullValue": "Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/607-E-2nd-St-Boston-MA-02127/2088481593_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.337147,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1202,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1202,
+            "longitude": -71.03902,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 989,
+            "lotSize": 989,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/95bab2b7335ae571915f616a2098ce0c-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1349000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2088481593
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "57 W 7th St APT 1",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Dom Lange",
+              "agentPhoneNumber": null,
+              "brokerName": "Gibson Sotheby's International Realty",
+              "brokerPhoneNumber": null,
+              "mlsId": "73431853",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "57 W 7th St APT 1"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/57-W-7th-St-APT-1-South-Boston-MA-02127/71332915_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33697,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1252,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1252,
+            "longitude": -71.05528,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/0b0b64925ce073a5c297892918f28380-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 899000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 71332915
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "225 Dorchester St #10",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Shaun Hannafin",
+              "agentPhoneNumber": null,
+              "brokerName": "Boston Real Estate Agency",
+              "brokerPhoneNumber": null,
+              "mlsId": "73432946",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "Residences At St. Augustine's"
+                },
+                {
+                  "fullValue": "225 Dorchester St #10"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/225-Dorchester-St-10-South-Boston-MA-02127/247149969_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33347,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1875,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1875,
+            "longitude": -71.051125,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/ca1db2e33b1dc91c99b5fef5f16989ac-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1250000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 247149969
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "340 W 2nd St #17E",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Herion Karbunara",
+              "agentPhoneNumber": null,
+              "brokerName": "Herion Karbunara",
+              "brokerPhoneNumber": null,
+              "mlsId": "73423852",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "340 West Second Street Condominiums"
+                },
+                {
+                  "fullValue": "340 W 2nd St #17E"
+                },
+                {
+                  "fullValue": "Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/340-W-2nd-St-17E-Boston-MA-02127/456339830_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33882,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1245,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1245,
+            "longitude": -71.04676,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 0.2813131313131313,
+            "lotSize": 12254,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/2953fd5167fc938481e301a9cd9d336f-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 949000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 456339830
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "55 I St APT 4",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Joseph Cirrone",
+              "agentPhoneNumber": null,
+              "brokerName": "Advisors Living - Boston",
+              "brokerPhoneNumber": null,
+              "mlsId": "73425520",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 3,
+            "bedrooms": 3,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "55 I St APT 4"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/55-I-St-APT-4-South-Boston-MA-02127/59211440_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.336292,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1754,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1754,
+            "longitude": -71.040115,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 0.04,
+            "lotSize": 0,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/89e1a23d8e312c4bd251b77c2e82a370-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1250000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59211440
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "3 Glover Ct #2",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "The Gaines Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73428205",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "3 Glover Court Condominium Trust"
+                },
+                {
+                  "fullValue": "3 Glover Ct #2"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/3-Glover-Ct-2-South-Boston-MA-02127/60112292_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33123,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1439,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1439,
+            "longitude": -71.05622,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/17ef9a520635d12cb60c89bcb16d6056-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 939000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 60112292
+          },
+          {
+            "address": {
+              "city": "South Boston",
+              "state": "MA",
+              "streetAddress": "1650 Columbia Rd #2",
+              "zipcode": "02127"
+            },
+            "attributionInfo": {
+              "agentName": "Frank Carroll Homes Team",
+              "agentPhoneNumber": null,
+              "brokerName": "Compass",
+              "brokerPhoneNumber": null,
+              "mlsId": "73389350",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 2,
+            "bedrooms": 3,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "1650 Columbia Rd #2"
+                },
+                {
+                  "fullValue": "South Boston, MA 02127"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/1650-Columbia-Rd-2-South-Boston-MA-02127/295324422_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.329723,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 1365,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 1365,
+            "longitude": -71.03583,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/c2a5fad2f39a44d5e2bb500d1f285c99-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "South Boston"
+            },
+            "price": 1225000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 295324422
+          }
+        ]
+      }
+    ],
+    "trackingTags": [
+      {
+        "value": "382bc38598e9784af441b12b5292ddc7"
+      }
+    ]
+  },
+  "comingSoonOnMarketDate": null,
+  "communityUrl": null,
+  "contingentListingType": null,
+  "country": "USA",
+  "county": "Suffolk County",
+  "countyFIPS": "25025",
+  "countyId": 2045,
+  "countySearchUrl": {
+    "path": "/suffolk-county-ma/",
+    "text": "Homes in Suffolk County"
+  },
+  "currency": "USD",
+  "datePostedString": "",
+  "daysOnZillow": 78,
+  "description": "Spectacular condo at the corner Columbia Road and O Street.  Directly across the street from the beach with amazing water views from every window in the unit including two private out door decks.  This unique 3 bedroom unit has many original features including, gorgeous hardwood floors throughout, pocket doors, classical architectural features and tremendous natural light. Renovated kitchen is great for entertaining.  Updated bathrooms and electrical  service, Central Air, plenty of storage, laundry room, garage parking with additional spot in the driveway.",
+  "desktopWebHdpImageLink": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=550x413&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2JvKq8X4EVJ3m7VcuDY_1XAfOUM=",
+  "downPaymentAssistance": {
+    "eligibility": {
+      "dpa": false
+    }
+  },
+  "editPropertyHistorylink": null,
+  "favoriteCount": 0,
+  "featuredListingTypeDimension": "organic",
+  "foreclosingBank": null,
+  "foreclosureAmount": null,
+  "foreclosureAuctionCity": null,
+  "foreclosureAuctionDescription": null,
+  "foreclosureAuctionFilingDate": null,
+  "foreclosureAuctionLocation": null,
+  "foreclosureAuctionTime": null,
+  "foreclosureBalanceReportingDate": null,
+  "foreclosureDate": null,
+  "foreclosureDefaultDescription": null,
+  "foreclosureDefaultFilingDate": null,
+  "foreclosureJudicialType": "Non-Judicial",
+  "foreclosureLoanAmount": null,
+  "foreclosureLoanDate": null,
+  "foreclosureLoanOriginator": null,
+  "foreclosureMoreInfo": null,
+  "foreclosurePastDueBalance": null,
+  "foreclosurePriorSaleAmount": null,
+  "foreclosurePriorSaleDate": null,
+  "foreclosureTypes": {
+    "isAnyForeclosure": false,
+    "isBankOwned": false,
+    "isForeclosedNFS": false,
+    "isPreforeclosure": false,
+    "wasDefault": null,
+    "wasForeclosed": false,
+    "wasNonRetailAuction": false,
+    "wasREO": null
+  },
+  "foreclosureUnpaidBalance": null,
+  "formattedChip": {
+    "location": [
+      {
+        "fullValue": "1794 Columbia Rd #3"
+      },
+      {
+        "fullValue": "South Boston, MA 02127"
+      }
+    ]
+  },
+  "hasApprovedThirdPartyVirtualTourUrl": false,
+  "hasBadGeocode": false,
+  "hasPublicVideo": false,
+  "hdpTypeDimension": "RecentlySold",
+  "hdpUrl": "/homedetails/1794-Columbia-Rd-3-South-Boston-MA-02127/120938184_zpid/",
+  "hiResImageLink": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1025x768&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=TRJa9lP9eF0Z0LmUb19uJonvkFo=",
+  "homeInsights": null,
+  "homeStatus": "RECENTLY_SOLD",
+  "homeType": "CONDO",
+  "homeValues": null,
+  "housesForRentInZipcodeSearchUrl": {
+    "path": "/boston-ma-02127/rent-houses/"
+  },
+  "interactiveFloorPlanUrl": "",
+  "isCurrentSignedInAgentResponsible": false,
+  "isCurrentSignedInUserVerifiedOwner": false,
+  "isFeatured": false,
+  "isHousingConnector": false,
+  "isIncomeRestricted": null,
+  "isListingClaimedByCurrentSignedInUser": false,
+  "isNonOwnerOccupied": false,
+  "isPaidMultiFamilyBrokerId": false,
+  "isPreforeclosureAuction": false,
+  "isPremierBuilder": false,
+  "isRecentStatusChange": false,
+  "isRentalListingOffMarket": false,
+  "isRentalsLeadCapMet": false,
+  "isShowcaseListing": false,
+  "isUndisclosedAddress": false,
+  "isZillowOwned": false,
+  "keystoneHomeStatus": "RecentlySold",
+  "lastSoldPrice": 1100000,
+  "latitude": 42.33202,
+  "listPriceLow": null,
+  "listedBy": [],
+  "listingAccount": null,
+  "listingAccountUserId": null,
+  "listingDataSource": "Legacy",
+  "listingFeedID": null,
+  "listingMetadata": {
+    "FlexibleLayoutAA": true,
+    "FlexibleLayoutAB": true,
+    "FlexibleLayoutB": true,
+    "FlexibleLayoutC": true,
+    "FlexibleLayoutD": true,
+    "FlexibleLayoutE": true,
+    "FlexibleLayoutF": false,
+    "FlexibleLayoutG": false,
+    "FlexibleLayoutH": true,
+    "FlexibleLayoutI": true,
+    "FlexibleLayoutJ": false,
+    "FlexibleLayoutK": false,
+    "FlexibleLayoutL": false,
+    "FlexibleLayoutM": true,
+    "FlexibleLayoutN": true,
+    "FlexibleLayoutO": true,
+    "FlexibleLayoutP": false,
+    "FlexibleLayoutQ": false,
+    "FlexibleLayoutR": false,
+    "FlexibleLayoutS": false,
+    "FlexibleLayoutT": false,
+    "FlexibleLayoutU": false,
+    "FlexibleLayoutV": false,
+    "FlexibleLayoutW": false,
+    "FlexibleLayoutX": false,
+    "FlexibleLayoutY": false,
+    "FlexibleLayoutZ": false,
+    "canCommingleComparables": true,
+    "canShowAutomatedValuationDisplay": true,
+    "canShowComparables": true,
+    "canShowCroppedPhotos": true,
+    "canShowNonIDXMedia": true,
+    "canShowOnMap": true,
+    "canShowPrequalifiedLinkInChip": true,
+    "canShowPriceHistory": true,
+    "canShowTaxHistory": true,
+    "canShowUserGeneratedContent": true,
+    "canShowZillowLogoInHeader": true,
+    "comminglingCategory": true,
+    "comminglingCategoryIsRulesApplicable": false,
+    "hidePriceAdjustmentFlexField": false,
+    "isAdsRestricted": false,
+    "isSuperTrafficOptimized": false,
+    "mustAttributeOfficeNameBeforeAgentName": false,
+    "mustDisplayAttributionAboveLocalFacts": false,
+    "mustDisplayAttributionListAgentEmail": false,
+    "mustDisplayAttributionListAgentPhone": false,
+    "mustDisplayAttributionListingOfficePhone": false,
+    "mustDisplayAuctionStatusAsSold": false,
+    "mustDisplayDisclaimerBelowAttribution": false,
+    "mustDisplayFeedLogoInContactBox": false,
+    "mustHighlightAgentName": null,
+    "mustHighlightListOfficeName": false,
+    "mustHighlightMarketingType": false,
+    "mustHighlightMlsId": null,
+    "mustHighlightMlsStatus": false,
+    "mustMakeListingAgentContactable": false,
+    "mustPreferMlsPhotos": false,
+    "passwordRequiredForZestimateMarketAnalysis": false
+  },
+  "listingProvider": {
+    "agentLicenseNumber": null,
+    "agentName": null,
+    "disclaimerText": null,
+    "enhancedDescriptionText": null,
+    "enhancedVideoURL": null,
+    "isZRMSourceText": null,
+    "logos": [],
+    "postingGroupName": null,
+    "postingWebsiteLinkText": "See listing website",
+    "postingWebsiteURL": null,
+    "showLogos": null,
+    "showNoContactInfoMessage": false,
+    "sourceText": null,
+    "title": "Listing Provided by"
+  },
+  "listingSubType": {
+    "isBankOwned": false,
+    "isComingSoon": false,
+    "isFSBA": false,
+    "isFSBO": false,
+    "isForAuction": false,
+    "isForeclosure": false,
+    "isNewHome": false,
+    "isOpenHouse": false,
+    "isPending": false
+  },
+  "listingTypeDimension": "Unknown Listed By",
+  "listing_agent": null,
+  "listing_sub_type": {
+    "is_FSBA": false,
+    "is_FSBO": false,
+    "is_bankOwned": false,
+    "is_comingSoon": false,
+    "is_forAuction": false,
+    "is_foreclosure": false,
+    "is_newHome": false,
+    "is_pending": false
+  },
+  "livingArea": 1267,
+  "livingAreaUnits": "Square Feet",
+  "livingAreaUnitsShort": "sqft",
+  "livingAreaValue": 1267,
+  "longitude": -71.029274,
+  "lotAreaUnits": "Square Feet",
+  "lotAreaValue": 1306,
+  "lotPremium": null,
+  "lotSize": 1306,
+  "marketingName": null,
+  "mlsid": null,
+  "monthlyHoaFee": 255,
+  "mortgageZHLRates": {
+    "arm5Bucket": {
+      "lastUpdated": 1758225581351,
+      "rate": 6.908,
+      "rateSource": "ZGMI"
+    },
+    "fifteenYearFixedBucket": {
+      "lastUpdated": 1758225581351,
+      "rate": 6.416,
+      "rateSource": "ZGMI"
+    },
+    "thirtyYearFixedBucket": {
+      "lastUpdated": 1758225581351,
+      "rate": 6.5,
+      "rateSource": "ZGMI"
+    }
+  },
+  "moveHomeMapLocationLink": null,
+  "nearbyCities": [
+    {
+      "body": null,
+      "name": "Boston",
+      "regionUrl": {
+        "path": "/boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Chelsea",
+      "regionUrl": {
+        "path": "/chelsea-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Revere",
+      "regionUrl": {
+        "path": "/revere-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Winthrop",
+      "regionUrl": {
+        "path": "/winthrop-ma/"
+      }
+    }
+  ],
+  "nearbyHomes": [
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "1794 Columbia Rd",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 3,
+      "bedrooms": 8,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1794 Columbia Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/1794-Columbia-Rd-South-Boston-MA-02127/59150152_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "SINGLE_FAMILY",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33202,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 4257,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 4257,
+      "longitude": -71.029274,
+      "lotAreaUnits": "Square Feet",
+      "lotAreaValue": 3484,
+      "lotSize": 3484,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1794+Columbia+Rd%2C+South+Boston%2C+MA+02127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0riEBD4y-HKmes5vAGGUAUhjMCs="
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 1862500,
+      "propertyTypeDimension": "Single Family",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 59150152
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "1794 Columbia Rd #1",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 3,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1794 Columbia Rd #1"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/1794-Columbia-Rd-1-South-Boston-MA-02127/120937029_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33202,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 1225,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 1225,
+      "longitude": -71.029274,
+      "lotAreaUnits": "Square Feet",
+      "lotAreaValue": 1306,
+      "lotSize": 1306,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=B2vyi7NQfoVh2yqyWARwlt8Q0zk="
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 877200,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 120937029
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "1794 Columbia Rd #2",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 3,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1794 Columbia Rd #2"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/1794-Columbia-Rd-2-South-Boston-MA-02127/120937413_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "APARTMENT",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33202,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 1250,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 1250,
+      "longitude": -71.029274,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/b15ff13a7b4470c37da658e07f2d579a-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 912800,
+      "propertyTypeDimension": "Apartment",
+      "providerListingID": "3dhr0qverx4gt",
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 120937413
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "1792 Columbia Rd",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 3,
+      "bedrooms": 8,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1792 Columbia Rd"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/1792-Columbia-Rd-South-Boston-MA-02127/59150153_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "MULTI_FAMILY",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33195,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 3729,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 3729,
+      "longitude": -71.02937,
+      "lotAreaUnits": "Square Feet",
+      "lotAreaValue": 3484,
+      "lotSize": 3484,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1792+Columbia+Rd%2C+South+Boston%2C+MA+02127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=7YUKXho6YUqdHpdTFkdwa7Ncpic="
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 2285500,
+      "propertyTypeDimension": "Multi Family",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 59150153
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "1792 Columbia Rd #1",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": null,
+      "bedrooms": null,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1792 Columbia Rd #1"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "NoZestimate",
+      "hdpUrl": "/homedetails/1792-Columbia-Rd-1-Boston-MA-02127/2119160158_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "APARTMENT",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33195,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": null,
+      "livingAreaUnits": null,
+      "livingAreaUnitsShort": null,
+      "livingAreaValue": null,
+      "longitude": -71.02937,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/streetview?location=1792+Columbia+Rd%2C+Boston%2C+MA+02127&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=CeIvyPnjYKu9uy3F3CXLA4hyxBs="
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 0,
+      "propertyTypeDimension": "Apartment",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 2119160158
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "1792 Columbia Rd #2",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1792 Columbia Rd #2"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "NoZestimate",
+      "hdpUrl": "/homedetails/1792-Columbia-Rd-2-Boston-MA-02127/2119178670_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "APARTMENT",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33195,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 1100,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 1100,
+      "longitude": -71.02937,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/758c49ec995d7ceb7e02c584c5403a00-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 0,
+      "propertyTypeDimension": "Apartment",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 2119178670
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "1790 Columbia Rd #2",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1790 Columbia Rd #2"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/1790-Columbia-Rd-2-Boston-MA-02127/2094328922_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.3319,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 934,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 934,
+      "longitude": -71.02947,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4fc4f9b2f51821a40c3794900617a252-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 918700,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 2094328922
+    },
+    {
+      "address": {
+        "city": "South Boston",
+        "state": "MA",
+        "streetAddress": "1790 Columbia Rd #A",
+        "zipcode": "02127"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": null,
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "1790 Columbia Rd #A"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "Zestimate",
+      "hdpUrl": "/homedetails/1790-Columbia-Rd-A-South-Boston-MA-02127/59150154_zpid/",
+      "homeStatus": "OTHER",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.33191,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 920,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 920,
+      "longitude": -71.029495,
+      "lotAreaUnits": "Square Feet",
+      "lotAreaValue": 871,
+      "lotSize": 871,
+      "miniCardPhotos": [
+        {
+          "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=42.3319091796875,-71.02949523925781&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=N_1fAz9uPbrNI9p-2DRgjos7PoA="
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 652000,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 59150154
+    }
+  ],
+  "nearbyNeighborhoods": [
+    {
+      "body": null,
+      "name": "Brighton",
+      "regionUrl": {
+        "path": "/brighton-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "East Boston",
+      "regionUrl": {
+        "path": "/east-boston-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Hyde Park",
+      "regionUrl": {
+        "path": "/hyde-park-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Jamaica Plain",
+      "regionUrl": {
+        "path": "/jamaica-plain-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Roslindale",
+      "regionUrl": {
+        "path": "/roslindale-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Roxbury",
+      "regionUrl": {
+        "path": "/roxbury-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South Boston",
+      "regionUrl": {
+        "path": "/south-boston-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South Dorchester",
+      "regionUrl": {
+        "path": "/south-dorchester-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South End",
+      "regionUrl": {
+        "path": "/south-end-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "West Roxbury",
+      "regionUrl": {
+        "path": "/west-roxbury-boston-ma/"
+      }
+    }
+  ],
+  "nearbyZipcodes": [
+    {
+      "body": null,
+      "name": "02115",
+      "regionUrl": {
+        "path": "/boston-ma-02115/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02121",
+      "regionUrl": {
+        "path": "/boston-ma-02121/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02124",
+      "regionUrl": {
+        "path": "/boston-ma-02124/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02125",
+      "regionUrl": {
+        "path": "/boston-ma-02125/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02127",
+      "regionUrl": {
+        "path": "/boston-ma-02127/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02128",
+      "regionUrl": {
+        "path": "/boston-ma-02128/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02130",
+      "regionUrl": {
+        "path": "/boston-ma-02130/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02131",
+      "regionUrl": {
+        "path": "/boston-ma-02131/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02135",
+      "regionUrl": {
+        "path": "/boston-ma-02135/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02136",
+      "regionUrl": {
+        "path": "/boston-ma-02136/"
+      }
+    }
+  ],
+  "neighborhoodId": 155633,
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=B2vyi7NQfoVh2yqyWARwlt8Q0zk="
+    }
+  ],
+  "neighborhoodRegion": {
+    "name": "South Boston"
+  },
+  "neighborhoodSearchUrl": {
+    "path": "/south-boston-boston-ma/"
+  },
+  "newConstructionType": null,
+  "openHouseSchedule": [],
+  "originalPhotos": [
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=D75EHDza0E9yHDVRIYeAUNvrHp0=",
+            "width": 800
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Bw4Y2HUbRHpYKw-ZZaHnED6WZbk=",
+            "width": 1024
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2aZDcLB6ZCAyEsqCuYP-NuGJHFw=",
+            "width": 1344
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ena-IoORJz_UIKPoTb8hz05Hu9w=",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=D75EHDza0E9yHDVRIYeAUNvrHp0=",
+            "width": 800
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Bw4Y2HUbRHpYKw-ZZaHnED6WZbk=",
+            "width": 1024
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2aZDcLB6ZCAyEsqCuYP-NuGJHFw=",
+            "width": 1344
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ena-IoORJz_UIKPoTb8hz05Hu9w=",
+            "width": 1536
+          }
+        ]
+      }
+    }
+  ],
+  "ouid": null,
+  "pageUrlFragment": "RecentlySold",
+  "pageViewCount": 16,
+  "pals": [],
+  "parcelId": "SBOSW07P02692S006",
+  "parentRegion": {
+    "name": "South Boston",
+    "regionId": 155633
+  },
+  "photoCount": 1,
+  "postingProductType": "Standard",
+  "postingUrl": null,
+  "price": 1100000,
+  "priceChange": null,
+  "priceChangeDate": null,
+  "priceChangeDateString": null,
+  "priceHistory": [
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Public Record",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2025-07-01",
+      "event": "Sold",
+      "postingIsRental": false,
+      "price": 1100000,
+      "priceChangeRate": 0.1853448275862069,
+      "pricePerSquareFoot": 868,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Public Record",
+      "time": 1751328000000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Public Record",
+        "infoString3": null
+      },
+      "buyerAgent": {
+        "name": "Robert Cohen Team",
+        "photo": null,
+        "profileUrl": "/profile/Robb-Cohen-Team/"
+      },
+      "date": "2019-07-01",
+      "event": "Sold",
+      "postingIsRental": false,
+      "price": 928000,
+      "priceChangeRate": -0.011714589989350373,
+      "pricePerSquareFoot": 732,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Public Record",
+      "time": 1561939200000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "72485849",
+        "infoString2": "Real Mont RE",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2019-05-04",
+      "event": "Pending sale",
+      "postingIsRental": false,
+      "price": 939000,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 741,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Real Mont RE",
+      "time": 1556928000000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "72485849",
+        "infoString2": "Real Mont RE",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2019-04-22",
+      "event": "Listed for sale",
+      "postingIsRental": false,
+      "price": 939000,
+      "priceChangeRate": 0.17521902377972465,
+      "pricePerSquareFoot": 741,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Real Mont RE",
+      "time": 1555891200000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "72058025",
+        "infoString2": "Joyce Lebedew Real Estate, LLC",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2016-10-07",
+      "event": "Listing removed",
+      "postingIsRental": false,
+      "price": 799000,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 631,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Joyce Lebedew Real Estate, LLC",
+      "time": 1475798400000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "72058025",
+        "infoString2": "Joyce Lebedew Real Estate, LLC",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2016-09-25",
+      "event": "Price change",
+      "postingIsRental": false,
+      "price": 799000,
+      "priceChangeRate": -0.09101251422070535,
+      "pricePerSquareFoot": 631,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Joyce Lebedew Real Estate, LLC",
+      "time": 1474761600000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "72058025",
+        "infoString2": "Joyce Lebedew Real Estate, LLC",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2016-08-25",
+      "event": "Listed for sale",
+      "postingIsRental": false,
+      "price": 879000,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 694,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Joyce Lebedew Real Estate, LLC",
+      "time": 1472083200000
+    }
+  ],
+  "primaryPublicVideo": null,
+  "propertyEventLogLink": null,
+  "propertyTaxRate": 0.67,
+  "propertyTypeDimension": "Condo",
+  "propertyUpdatePageLink": null,
+  "providerListingID": null,
+  "rentZestimate": 4825,
+  "rentalApplicationsAcceptedType": "REQUEST_TO_APPLY",
+  "resoFacts": {
+    "aboveGradeFinishedArea": null,
+    "accessibilityFeatures": null,
+    "additionalFeeInfo": null,
+    "additionalParcelsDescription": null,
+    "appliances": [],
+    "architecturalStyle": null,
+    "associationAmenities": null,
+    "associationFee": null,
+    "associationFee2": null,
+    "associationFeeIncludes": null,
+    "associationName": null,
+    "associationName2": null,
+    "associationPhone": null,
+    "associationPhone2": null,
+    "associations": [
+      {
+        "feeFrequency": "$255 monthly",
+        "name": null,
+        "phone": null
+      }
+    ],
+    "atAGlanceFacts": [
+      {
+        "factLabel": "Type",
+        "factValue": "Condo"
+      },
+      {
+        "factLabel": "Year Built",
+        "factValue": "1905"
+      },
+      {
+        "factLabel": "Heating",
+        "factValue": "Forced air"
+      },
+      {
+        "factLabel": "Cooling",
+        "factValue": "Central"
+      },
+      {
+        "factLabel": "Parking",
+        "factValue": "2 Parking spaces"
+      },
+      {
+        "factLabel": "HOA",
+        "factValue": "$255 monthly"
+      },
+      {
+        "factLabel": "Offer Review Date",
+        "factValue": null
+      }
+    ],
+    "attic": null,
+    "availabilityDate": null,
+    "basement": null,
+    "basementYN": null,
+    "bathrooms": 2,
+    "bathroomsFloat": 2,
+    "bathroomsFull": 1,
+    "bathroomsHalf": 1,
+    "bathroomsOneQuarter": 0,
+    "bathroomsPartial": null,
+    "bathroomsThreeQuarter": 0,
+    "bedrooms": 3,
+    "belowGradeFinishedArea": null,
+    "bodyType": null,
+    "builderModel": null,
+    "builderName": null,
+    "buildingArea": null,
+    "buildingAreaSource": null,
+    "buildingFeatures": null,
+    "buildingName": null,
+    "canRaiseHorses": false,
+    "carportParkingCapacity": null,
+    "cityRegion": "South Boston",
+    "commonWalls": null,
+    "communityFeatures": [],
+    "compensationBasedOn": null,
+    "constructionMaterials": [],
+    "contingency": null,
+    "cooling": [
+      "Central"
+    ],
+    "coveredParkingCapacity": null,
+    "cropsIncludedYN": null,
+    "cumulativeDaysOnMarket": null,
+    "developmentStatus": null,
+    "doorFeatures": null,
+    "electric": null,
+    "elementarySchool": null,
+    "elementarySchoolDistrict": null,
+    "elevation": null,
+    "elevationUnits": null,
+    "entryLevel": null,
+    "entryLocation": null,
+    "exclusions": null,
+    "exteriorFeatures": [
+      "Wood"
+    ],
+    "feesAndDues": [
+      {
+        "fee": "$255 monthly",
+        "name": null,
+        "phone": null,
+        "type": "HOA"
+      }
+    ],
+    "fencing": null,
+    "fireplaceFeatures": null,
+    "fireplaces": null,
+    "flooring": [
+      "Hardwood"
+    ],
+    "foundationArea": null,
+    "foundationDetails": [],
+    "frontageLength": null,
+    "frontageType": null,
+    "furnished": false,
+    "garageParkingCapacity": null,
+    "gas": null,
+    "greenBuildingVerificationType": null,
+    "greenEnergyEfficient": null,
+    "greenEnergyGeneration": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "greenWaterConservation": null,
+    "hasAdditionalParcels": false,
+    "hasAssociation": true,
+    "hasAttachedGarage": null,
+    "hasAttachedProperty": false,
+    "hasCarport": null,
+    "hasCooling": true,
+    "hasElectricOnProperty": null,
+    "hasFireplace": null,
+    "hasGarage": false,
+    "hasHeating": true,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "hasOpenParking": null,
+    "hasPetsAllowed": null,
+    "hasPrivatePool": null,
+    "hasRentControl": null,
+    "hasSpa": false,
+    "hasView": true,
+    "hasWaterfrontView": true,
+    "heating": [
+      "Forced air"
+    ],
+    "highSchool": null,
+    "highSchoolDistrict": null,
+    "hoaFee": "$255 monthly",
+    "hoaFeeTotal": "$255 monthly",
+    "homeType": "Condo",
+    "horseAmenities": null,
+    "horseYN": null,
+    "inclusions": null,
+    "incomeIncludes": null,
+    "interiorFeatures": [
+      "Cable Available"
+    ],
+    "irrigationWaterRightsAcres": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "isSeniorCommunity": null,
+    "landLeaseAmount": null,
+    "landLeaseExpirationDate": null,
+    "laundryFeatures": null,
+    "leaseTerm": null,
+    "levels": null,
+    "listAOR": null,
+    "listingId": null,
+    "listingTerms": null,
+    "livingArea": "1,267 sqft",
+    "livingAreaRange": null,
+    "livingAreaRangeUnits": null,
+    "livingQuarters": [],
+    "lotFeatures": null,
+    "lotSize": "1,306 sqft",
+    "lotSizeDimensions": null,
+    "mainLevelBathrooms": null,
+    "mainLevelBedrooms": null,
+    "marketingType": null,
+    "media": [],
+    "middleOrJuniorSchool": "Perry School",
+    "middleOrJuniorSchoolDistrict": null,
+    "municipality": null,
+    "numberOfUnitsInCommunity": null,
+    "numberOfUnitsVacant": null,
+    "offerReviewDate": null,
+    "onMarketDate": null,
+    "openParkingCapacity": null,
+    "otherEquipment": null,
+    "otherFacts": [
+      {
+        "name": "Appliances",
+        "value": "Range, Dishwasher, Refrigerator, Washer, Dryer, Microwave, Disposal"
+      },
+      {
+        "name": "Beach Description",
+        "value": "Ocean"
+      },
+      {
+        "name": "Beach Ownership",
+        "value": "Public"
+      },
+      {
+        "name": "Beachfront Flag",
+        "value": "Yes"
+      },
+      {
+        "name": "Cooling",
+        "value": "Central Air"
+      },
+      {
+        "name": "Flooring",
+        "value": "Wood"
+      },
+      {
+        "name": "Heating",
+        "value": "Central Heat"
+      },
+      {
+        "name": "Hot Water",
+        "value": "Natural Gas"
+      },
+      {
+        "name": "Pets Allowed",
+        "value": "Yes W/ Restrictions"
+      },
+      {
+        "name": "Unit Placement",
+        "value": "Upper"
+      },
+      {
+        "name": "Construction",
+        "value": "Stone/Concrete"
+      },
+      {
+        "name": "Interior Features",
+        "value": "Cable Available"
+      },
+      {
+        "name": "Roof Material",
+        "value": "Rubber"
+      },
+      {
+        "name": "Exterior",
+        "value": "Shingles"
+      },
+      {
+        "name": "Insulation Feature",
+        "value": "Full"
+      },
+      {
+        "name": "Energy Features",
+        "value": "Insulated Windows"
+      },
+      {
+        "name": "Beach Miles To",
+        "value": "0 To 1/10 Mile"
+      },
+      {
+        "name": "Exterior Unit Features",
+        "value": "Deck - Wood, Porch"
+      },
+      {
+        "name": "Utility Connections",
+        "value": "For Gas Range"
+      },
+      {
+        "name": "Electric Feature",
+        "value": "100 Amps"
+      },
+      {
+        "name": "Style",
+        "value": "2/3 Family"
+      }
+    ],
+    "otherParking": null,
+    "otherStructures": null,
+    "ownership": null,
+    "ownershipType": null,
+    "parcelNumber": "SBOSW07P02692S006",
+    "parkName": null,
+    "parkingCapacity": 2,
+    "parkingFeatures": [
+      "Garage - Detached",
+      "Off-street"
+    ],
+    "patioAndPorchFeatures": null,
+    "petsMaxWeight": null,
+    "poolFeatures": null,
+    "pricePerSquareFoot": 868,
+    "propertyCondition": null,
+    "propertySubType": null,
+    "roadSurfaceType": null,
+    "roofType": "Other",
+    "roomTypes": null,
+    "rooms": [
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "features": null,
+        "level": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": null,
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "DiningRoom",
+        "roomWidth": null
+      },
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "features": null,
+        "level": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": null,
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "FamilyRoom",
+        "roomWidth": null
+      }
+    ],
+    "securityFeatures": null,
+    "sewer": null,
+    "spaFeatures": null,
+    "specialListingConditions": null,
+    "stories": null,
+    "storiesDecimal": null,
+    "storiesTotal": null,
+    "structureType": "Other",
+    "subdivisionName": null,
+    "taxAnnualAmount": 9758,
+    "taxAssessedValue": 895200,
+    "tenantPays": null,
+    "topography": null,
+    "totalActualRent": null,
+    "utilities": null,
+    "vegetation": null,
+    "view": [
+      "Water"
+    ],
+    "virtualTour": null,
+    "waterBodyName": null,
+    "waterSource": null,
+    "waterView": "Water",
+    "waterViewYN": true,
+    "waterfrontFeatures": null,
+    "windowFeatures": null,
+    "woodedArea": null,
+    "yearBuilt": 1905,
+    "yearBuiltEffective": null,
+    "zoning": null,
+    "zoningDescription": null
+  },
+  "responsivePhotos": [
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lQ9z4x5hHm2OkXrvZ4sqArQAeBA=",
+            "width": 192
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gtuyQMIGs-AmNmPZBdHjcYw0btU=",
+            "width": 384
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fmFaj3QOhsb6LI-rmbMpYMCD8tQ=",
+            "width": 576
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bxq207mBGGYjOc0WGwuOndnWXrc=",
+            "width": 768
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XWpF4ZFmgtVNznJa4L5bI981Gao=",
+            "width": 960
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=zinmCikBudxm0YOjVvw4oADWm6g=",
+            "width": 1152
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2aZDcLB6ZCAyEsqCuYP-NuGJHFw=",
+            "width": 1344
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ena-IoORJz_UIKPoTb8hz05Hu9w=",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=192x144&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=lQ9z4x5hHm2OkXrvZ4sqArQAeBA=",
+            "width": 192
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=384x288&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=gtuyQMIGs-AmNmPZBdHjcYw0btU=",
+            "width": 384
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=576x432&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=fmFaj3QOhsb6LI-rmbMpYMCD8tQ=",
+            "width": 576
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=768x576&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=bxq207mBGGYjOc0WGwuOndnWXrc=",
+            "width": 768
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=960x720&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=XWpF4ZFmgtVNznJa4L5bI981Gao=",
+            "width": 960
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1152x864&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=zinmCikBudxm0YOjVvw4oADWm6g=",
+            "width": 1152
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2aZDcLB6ZCAyEsqCuYP-NuGJHFw=",
+            "width": 1344
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ena-IoORJz_UIKPoTb8hz05Hu9w=",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=400x300&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=reO-HnJzcHcKu2rzMXjPisxzJWw="
+    }
+  ],
+  "responsivePhotosOriginalRatio": [
+    {
+      "caption": "",
+      "key": null,
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=D75EHDza0E9yHDVRIYeAUNvrHp0=",
+            "width": 800
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Bw4Y2HUbRHpYKw-ZZaHnED6WZbk=",
+            "width": 1024
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2aZDcLB6ZCAyEsqCuYP-NuGJHFw=",
+            "width": 1344
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ena-IoORJz_UIKPoTb8hz05Hu9w=",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=800x600&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=D75EHDza0E9yHDVRIYeAUNvrHp0=",
+            "width": 800
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1024x768&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Bw4Y2HUbRHpYKw-ZZaHnED6WZbk=",
+            "width": 1024
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1344x1008&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=2aZDcLB6ZCAyEsqCuYP-NuGJHFw=",
+            "width": 1344
+          },
+          {
+            "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=1536x1152&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=Ena-IoORJz_UIKPoTb8hz05Hu9w=",
+            "width": 1536
+          }
+        ]
+      }
+    }
+  ],
+  "restimateHighPercent": "7",
+  "restimateLowPercent": "7",
+  "richMedia": null,
+  "richMediaVideos": null,
+  "schools": [
+    {
+      "assigned": null,
+      "distance": 0,
+      "grades": "PK-6",
+      "isAssigned": null,
+      "level": "Primary",
+      "link": "https://www.greatschools.org/massachusetts/boston/300-Perry-K-8-School/",
+      "name": "Perry Elementary School",
+      "rating": 7,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    },
+    {
+      "assigned": null,
+      "distance": 1.2,
+      "grades": "6-8",
+      "isAssigned": null,
+      "level": "Middle",
+      "link": "https://www.greatschools.org/massachusetts/boston/278-McCormack-Middle-School/",
+      "name": "McCormack Middle School",
+      "rating": null,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    },
+    {
+      "assigned": null,
+      "distance": 0.8,
+      "grades": "9-12",
+      "isAssigned": null,
+      "level": "High",
+      "link": "https://www.greatschools.org/massachusetts/boston/2998-Excel-High-School/",
+      "name": "Excel High School",
+      "rating": 1,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    }
+  ],
+  "sellingSoon": [],
+  "ssid": null,
+  "state": "MA",
+  "stateId": 26,
+  "stateSearchUrl": {
+    "path": "/ma/"
+  },
+  "staticMap": {
+    "sources": [
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33202,-71.029274&zoom=13&size=192x144&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=LtlX1E9XPTW5REgB8QTb45iSUDo=",
+        "width": 192
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33202,-71.029274&zoom=15&size=192x144&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=Cur7B1RL1DLLWfKT7tT_zooZmCM=",
+        "width": 192
+      },
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33202,-71.029274&zoom=14&size=384x288&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=2RunmyZifSR1QU_XCode32f5x1A=",
+        "width": 384
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33202,-71.029274&zoom=15&size=384x288&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=-PdEsKXenN3erdo-ucmpzvXnic4=",
+        "width": 384
+      },
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33202,-71.029274&zoom=15&size=768x576&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=ig_byn6TeKSamdjJOYN7uD5abQ8=",
+        "width": 768
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.33202,-71.029274&zoom=15&size=768x576&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=CVpMioXOXz8vvH0TM399ueip19Y=",
+        "width": 768
+      }
+    ]
+  },
+  "streetAddress": "1794 Columbia Rd #3",
+  "streetViewMetadataUrlMapLightboxAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=1794+Columbia+Rd%2C+South+Boston%2C+MA+02127&key=AIzaSyBV4lXhV-qzQOegyA3m0_AvGy9F21HIyOQ&source=outdoor&signature=6fu7Br8oCeF06bZYalEUVK19bws=",
+  "streetViewMetadataUrlMediaWallAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=1794+Columbia+Rd%2C+South+Boston%2C+MA+02127&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=UZKhZPhpNcdIV6WwYrUCuTdrFEs=",
+  "streetViewMetadataUrlMediaWallLatLong": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.332020,-71.029274&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=TseOenHKl-14y2snx0E-x_rsJjg=",
+  "streetViewServiceUrl": "https://street-view-url.prod.zgk-partner.zillowapi.com?zpid=120938184&address=1794%20Columbia%20Rd%2C%20South%20Boston%2C%20MA%2002127&width=512&height=234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&maxdistance=54&lat=42.33202&lon=-71.029274&ttloverrides=%7B%22yesAddressSeconds%22:604800%7D&signature=xo-axQNv7Iw6kxpvSEljVytpK-E=",
+  "streetViewTileImageUrlMediumAddress": "https://maps.googleapis.com/maps/api/streetview?location=1794+Columbia+Rd%2C+South+Boston%2C+MA+02127&size=400x250&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=QKfeMurMJCk0jHntbRXBi26OQEs=",
+  "streetViewTileImageUrlMediumLatLong": "https://maps.googleapis.com/maps/api/streetview?location=42.332020,-71.029274&size=400x250&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=5BFD88nABU2Pwqy6NpvyWWY6kN8=",
+  "submitFlow": [
+    {
+      "__typename": "PropertyLeadSubmitForm",
+      "buttonText": "Contact agent",
+      "checkboxes": [
+        {
+          "financingType": "ZGMI",
+          "initialClickstreamMetadata": {
+            "onPageView": {
+              "clickstream_trigger": {
+                "trigger_source_nm": "contact_form_with_zgmi",
+                "trigger_type_nm": "impression"
+              },
+              "envelope": {
+                "event_template_id": "374",
+                "event_template_version_id": "1",
+                "event_type_id": "5860",
+                "event_type_version_id": "7"
+              },
+              "semantic": {
+                "semantic_event_nm": "view_content",
+                "topic_tag_txt": []
+              }
+            }
+          },
+          "isCheckedInitialState": true,
+          "label": "I want financing information",
+          "leadFieldName": "wantsFinancing"
+        }
+      ],
+      "clickstreamMetadata": {
+        "onPageView": null
+      },
+      "componentPositionOrder": [
+        "InputFields",
+        "CTA",
+        "Checkboxes",
+        "TCPADisclosure"
+      ],
+      "cta": {
+        "action": null,
+        "clickstreamMetadata": {
+          "onClick": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_agent_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6152",
+              "event_type_version_id": "3"
+            },
+            "semantic": {
+              "semantic_event_nm": "request_contact_start",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          },
+          "onError": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6466",
+              "event_type_version_id": "3"
+            },
+            "semantic": {
+              "semantic_event_nm": "contact_request_error",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          },
+          "onSuccess": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "397",
+              "event_type_version_id": "6"
+            },
+            "semantic": {
+              "semantic_event_nm": "request_contact_complete",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          }
+        },
+        "helpText": null,
+        "isSticky": false,
+        "label": "Contact agent"
+      },
+      "disclosure": null,
+      "error": null,
+      "financingCheckbox": {
+        "financingType": "ZGMI",
+        "initialClickstreamMetadata": {
+          "onPageView": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "contact_form_with_zgmi",
+              "trigger_type_nm": "impression"
+            },
+            "envelope": {
+              "event_template_id": "374",
+              "event_template_version_id": "1",
+              "event_type_id": "5860",
+              "event_type_version_id": "7"
+            },
+            "semantic": {
+              "semantic_event_nm": "view_content",
+              "topic_tag_txt": []
+            }
+          }
+        },
+        "isCheckedInitialState": true,
+        "label": "I want financing information",
+        "leadFieldName": "wantsFinancing"
+      },
+      "heading": null,
+      "headingIcon": null,
+      "inputFields": [
+        {
+          "clientSideValidationErrorMessage": "Enter your name",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "name",
+          "inputType": "NAME",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Name",
+          "maxCharacters": null,
+          "placeholder": null,
+          "validationRegex": null,
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": "Enter a valid US or Canadian phone number",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "phoneNumber",
+          "inputType": "PHONE_NUMBER",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Phone",
+          "maxCharacters": null,
+          "placeholder": null,
+          "validationRegex": "/^\\(?([2-9][0-8][0-9])\\)?[\\-. ]?([2-9][0-9]{2})[\\-. ]?([0-9]{4})(?: x(\\d{1,4}))?$/",
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": "Enter a valid email address",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "emailAddress",
+          "inputType": "EMAIL",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Email",
+          "maxCharacters": 320,
+          "placeholder": null,
+          "validationRegex": "/^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-zA-Z]{2,63}$/i",
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": null,
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "message",
+          "inputType": "MESSAGE",
+          "isRequired": false,
+          "isUserInputDisabled": false,
+          "label": "Message",
+          "maxCharacters": null,
+          "placeholder": "Add details or questions about what you\u2019re looking for",
+          "validationRegex": null,
+          "value": "I would like advice about selling a home similar to 1794 Columbia Rd #3, South Boston, MA 02127."
+        }
+      ],
+      "subheading": null,
+      "tcpa": {
+        "clickstreamMetadata": {
+          "onPageView": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "scroll_contact_screen_disclaimer",
+              "trigger_type_nm": "impression"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6465",
+              "event_type_version_id": "4"
+            },
+            "semantic": {
+              "semantic_event_nm": "view_content",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          }
+        },
+        "telephoneConsumerProtectionActDisclaimer": {
+          "text": "By pressing Contact agent, you agree that Zillow Group and its affiliates, and real estate professionals may call/text you about your inquiry, which may involve use of automated means and prerecorded/artificial voices. You don\u2019t need to consent as a condition of buying any property, goods or services. Message/data rates may apply. You also agree to our Terms of Use. Zillow does not endorse any real estate professionals. We may share information about your recent and future site activity with your agent to help them understand what you\u2019re looking for in a home.",
+          "textAttributes": [
+            {
+              "__typename": "TourViewModuleTextTooltipAttribute",
+              "tokenEndIndex": 104,
+              "tokenStartIndex": 79,
+              "tooltipText": "\u201cReal estate professionals\u201d includes the real estate agents and brokers, mortgage lenders and loan officers, property managers, and other professionals you interact with through Zillow. Zillow Premier Agent is an advertising program that helps connect customers to local real estate professionals. Zillow Premier Agent partners are paid advertisers and are not affiliated with Zillow, Inc. brokerage or any of its affiliates."
+            },
+            {
+              "__typename": "TourViewModuleTextLinkAttribute",
+              "tokenEndIndex": 367,
+              "tokenStartIndex": 355,
+              "url": "https://www.zillow.com/z/corp/terms/"
+            }
+          ]
+        }
+      },
+      "telephoneConsumerProtectionActDisclaimer": {
+        "text": "By pressing Contact agent, you agree that Zillow Group and its affiliates, and real estate professionals may call/text you about your inquiry, which may involve use of automated means and prerecorded/artificial voices. You don\u2019t need to consent as a condition of buying any property, goods or services. Message/data rates may apply. You also agree to our Terms of Use. Zillow does not endorse any real estate professionals. We may share information about your recent and future site activity with your agent to help them understand what you\u2019re looking for in a home.",
+        "textAttributes": [
+          {
+            "__typename": "TourViewModuleTextTooltipAttribute",
+            "tokenEndIndex": 104,
+            "tokenStartIndex": 79,
+            "tooltipText": "\u201cReal estate professionals\u201d includes the real estate agents and brokers, mortgage lenders and loan officers, property managers, and other professionals you interact with through Zillow. Zillow Premier Agent is an advertising program that helps connect customers to local real estate professionals. Zillow Premier Agent partners are paid advertisers and are not affiliated with Zillow, Inc. brokerage or any of its affiliates."
+          },
+          {
+            "__typename": "TourViewModuleTextLinkAttribute",
+            "tokenEndIndex": 367,
+            "tokenStartIndex": 355,
+            "url": "https://www.zillow.com/z/corp/terms/"
+          }
+        ]
+      },
+      "title": "Contact agent"
+    },
+    {
+      "__typename": "AuthOTP",
+      "authStyle": "EMBEDDED",
+      "isInZIBSMarket": false
+    },
+    {
+      "__typename": "FormQuestionnaire"
+    }
+  ],
+  "taxHistory": [
+    {
+      "taxIncreaseRate": 0.03599108,
+      "taxPaid": 9758,
+      "time": 1726689903884,
+      "value": 895200,
+      "valueIncreaseRate": 0.020752566
+    },
+    {
+      "taxIncreaseRate": 0.026817836,
+      "taxPaid": 9419,
+      "time": 1695067503884,
+      "value": 877000,
+      "valueIncreaseRate": 0.040208753
+    },
+    {
+      "taxIncreaseRate": 0.040022675,
+      "taxPaid": 9173,
+      "time": 1663531503884,
+      "value": 843100,
+      "valueIncreaseRate": 0.019961286
+    },
+    {
+      "taxIncreaseRate": 0.052882895,
+      "taxPaid": 8820,
+      "time": 1631995503884,
+      "value": 826600,
+      "valueIncreaseRate": 0.041976552
+    },
+    {
+      "taxIncreaseRate": 0.071775846,
+      "taxPaid": 8377,
+      "time": 1600459503884,
+      "value": 793300,
+      "valueIncreaseRate": 0.06971413
+    },
+    {
+      "taxIncreaseRate": 0.24399172,
+      "taxPaid": 7816,
+      "time": 1568837103884,
+      "value": 741600,
+      "valueIncreaseRate": 0.23703086
+    },
+    {
+      "taxIncreaseRate": 0.058635216,
+      "taxPaid": 6283,
+      "time": 1537301103884,
+      "value": 599500,
+      "valueIncreaseRate": 0.069771595
+    },
+    {
+      "taxIncreaseRate": 0.020460797,
+      "taxPaid": 5935,
+      "time": 1505765103884,
+      "value": 560400,
+      "valueIncreaseRate": 0.059958387
+    },
+    {
+      "taxIncreaseRate": -0.01972021,
+      "taxPaid": 5816,
+      "time": 1474229103884,
+      "value": 528700,
+      "valueIncreaseRate": 0.079199836
+    },
+    {
+      "taxIncreaseRate": 0,
+      "taxPaid": 5933,
+      "time": 1442606703884,
+      "value": 489900,
+      "valueIncreaseRate": 0
+    }
+  ],
+  "thirdPartyVirtualTour": {
+    "approved": false,
+    "externalUrl": null,
+    "lightboxUrl": null,
+    "providerKey": null,
+    "staticUrl": null
+  },
+  "thumb": [
+    {
+      "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=46x46&zoom=17&center=42.3320198059082,-71.0292739868164&key=AIzaSyBWYJWCA8FNMQvSe_k3LKfDGJaEgdKwsco&&signature=C2nCK5V_VFNHZspvsmZPkdDUtX4="
+    }
+  ],
+  "timeOnZillow": "78 days",
+  "timeZone": "America/New_York",
+  "tourEligibility": {
+    "isPropertyTourEligible": false,
+    "propertyTourOptions": {
+      "isFinal": true,
+      "tourAvailability": [],
+      "tourType": "NONE"
+    }
+  },
+  "tourViewCount": 0,
+  "virtualTourUrl": null,
+  "whatILove": null,
+  "yearBuilt": 1905,
+  "zestimate": 1100100,
+  "zestimateHighPercent": "7",
+  "zestimateLowPercent": "7",
+  "zipcode": "02127",
+  "zipcodeId": 58641,
+  "zipcodeSearchUrl": {
+    "path": "/boston-ma-02127/"
+  },
+  "zpid": 120938184
+}

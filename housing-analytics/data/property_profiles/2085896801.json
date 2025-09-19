@@ -1,0 +1,3902 @@
+{
+  "abbreviatedAddress": "150 Seaport Blvd",
+  "address": {
+    "city": "Boston",
+    "community": null,
+    "neighborhood": null,
+    "state": "MA",
+    "streetAddress": "150 Seaport Blvd",
+    "subdivision": null,
+    "zipcode": "02210"
+  },
+  "apartmentsForRentInZipcodeSearchUrl": {
+    "path": "/boston-ma-02210/apartments/"
+  },
+  "attributionInfo": {
+    "agentEmail": null,
+    "agentLicenseNumber": null,
+    "agentName": "Michael T Moynihan",
+    "agentPhoneNumber": "617-966-1660",
+    "attributionTitle": null,
+    "brokerName": "The Collaborative Companies",
+    "brokerPhoneNumber": "617-236-0060",
+    "buyerAgentMemberStateLicense": null,
+    "buyerAgentName": null,
+    "buyerBrokerageName": null,
+    "coAgentLicenseNumber": null,
+    "coAgentName": null,
+    "coAgentNumber": null,
+    "infoString10": "All information provided is deemed reliable but is not guaranteed. Information being provided is for consumers' personal, non-commercial use and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing.\n",
+    "infoString16": null,
+    "infoString3": null,
+    "infoString5": "617-966-1660",
+    "lastChecked": "2025-09-18 12:33:20",
+    "lastUpdated": "2024-11-30 18:31:54",
+    "listingAgentAttributionContact": null,
+    "listingAgents": [
+      {
+        "associatedAgentType": "listAgent",
+        "memberFullName": "Michael T Moynihan",
+        "memberStateLicense": null
+      },
+      {
+        "associatedAgentType": "buyerAgent",
+        "memberFullName": null,
+        "memberStateLicense": null
+      }
+    ],
+    "listingAgreement": null,
+    "listingAttributionContact": null,
+    "listingOffices": [
+      {
+        "associatedOfficeType": "listOffice",
+        "officeName": "The Collaborative Companies"
+      }
+    ],
+    "mlsDisclaimer": "All information provided is deemed reliable but is not guaranteed. Information being provided is for consumers' personal, non-commercial use and may not be used for any purpose other than to identify prospective properties consumers may be interested in purchasing.\n",
+    "mlsId": "235902",
+    "mlsName": "LINK",
+    "providerLogo": null,
+    "trueStatus": null
+  },
+  "bathrooms": 10,
+  "bedrooms": 6,
+  "boroughId": null,
+  "boroughSearchUrl": null,
+  "brokerId": null,
+  "brokerIdDimension": "Unknown Listed By",
+  "brokerageName": "The Collaborative Companies",
+  "building": null,
+  "buildingId": null,
+  "buyAbilityData": {
+    "chipLabel": null,
+    "isEligibleProperty": true
+  },
+  "city": "Boston",
+  "cityId": 44269,
+  "citySearchUrl": {
+    "path": "/boston-ma/",
+    "text": "Homes in Boston"
+  },
+  "collections": {
+    "modules": [
+      {
+        "name": "Similar homes",
+        "placement": "NEIGHBORHOOD",
+        "propertyDetails": [
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "2 Commonwealth Ave #9-10A",
+              "zipcode": "02116"
+            },
+            "attributionInfo": {
+              "agentName": "Lili Banani",
+              "agentPhoneNumber": null,
+              "brokerName": "Coldwell Banker Realty - Boston",
+              "brokerPhoneNumber": null,
+              "mlsId": "73293884",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 6,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "Carlton House"
+                },
+                {
+                  "fullValue": "2 Commonwealth Ave #9-10A"
+                },
+                {
+                  "fullValue": "Boston, MA 02116"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/2-Commonwealth-Ave-9-10A-Boston-MA-02116/440739710_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.35315,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 5368,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 5368,
+            "longitude": -71.07177,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/0a4e2ac15f11e7f53051501d07b01f08-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Back Bay"
+            },
+            "price": 19500000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 440739710
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "6 Newbury St #501-502",
+              "zipcode": "02116"
+            },
+            "attributionInfo": {
+              "agentName": "Maggie Gold Seelig",
+              "agentPhoneNumber": null,
+              "brokerName": "MGS Group Real Estate LTD",
+              "brokerPhoneNumber": null,
+              "mlsId": "73353861",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 7,
+            "bedrooms": 5,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "6 Newbury St #501-502"
+                },
+                {
+                  "fullValue": "Boston, MA 02116"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/6-Newbury-St-501-502-Boston-MA-02116/440974751_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.352352,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 5992,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 5992,
+            "longitude": -71.07163,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/f3564855a6decc00d89877ac0cb3cd85-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Back Bay"
+            },
+            "price": 18485000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 440974751
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "285 Commonwealth Ave",
+              "zipcode": "02115"
+            },
+            "attributionInfo": {
+              "agentName": "Lili Banani",
+              "agentPhoneNumber": null,
+              "brokerName": "Coldwell Banker Realty - Boston",
+              "brokerPhoneNumber": null,
+              "mlsId": "73431102",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 9,
+            "bedrooms": 7,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "285 Commonwealth Ave"
+                },
+                {
+                  "fullValue": "Boston, MA 02115"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/285-Commonwealth-Ave-Boston-MA-02115/2106569456_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.35042,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 12004,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 12004,
+            "longitude": -71.085236,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 3237,
+            "lotSize": 3237,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/43936d2bc4fc7f419bdcf866541b9eaf-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Back Bay"
+            },
+            "price": 13000000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2106569456
+          },
+          {
+            "address": {
+              "city": "Brookline",
+              "state": "MA",
+              "streetAddress": "71 Sears Rd",
+              "zipcode": "02445"
+            },
+            "attributionInfo": {
+              "agentName": "Chamberlain Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Coldwell Banker Realty - Brookline",
+              "brokerPhoneNumber": null,
+              "mlsId": "73430923",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 6,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "71 Sears Rd"
+                },
+                {
+                  "fullValue": "Brookline, MA 02445"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/71-Sears-Rd-Brookline-MA-02445/56572511_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.317993,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 7502,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 7502,
+            "longitude": -71.137596,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 2.0329,
+            "lotSize": 88553,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/4c4dc8e1bbca619e38221d08d1388679-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "02445"
+            },
+            "price": 12500000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 56572511
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "94 Mount Vernon St",
+              "zipcode": "02108"
+            },
+            "attributionInfo": {
+              "agentName": "Beth Dickerson",
+              "agentPhoneNumber": null,
+              "brokerName": "Gibson Sothebys Boston Back Bay",
+              "brokerPhoneNumber": null,
+              "mlsId": "240552",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 8,
+            "bedrooms": 6,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "94 Mount Vernon St"
+                },
+                {
+                  "fullValue": "Boston, MA 02108"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/94-Mount-Vernon-St-Boston-MA-02108/2094810227_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.35785,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 7059,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 7059,
+            "longitude": -71.06888,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/f1055a4e16a613d48a421fd0cbaf65be-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Beacon Hill"
+            },
+            "price": 15500000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2094810227
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "1 Dalton St #5801/5802",
+              "zipcode": "02115"
+            },
+            "attributionInfo": {
+              "agentName": "Michael Harper",
+              "agentPhoneNumber": null,
+              "brokerName": "Coldwell Banker Realty - Boston",
+              "brokerPhoneNumber": null,
+              "mlsId": "73411842",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 8,
+            "bedrooms": 5,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "1 Dalton St #5801/5802"
+                },
+                {
+                  "fullValue": "Boston, MA 02115"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/1-Dalton-St-5801-5802-Boston-MA-02115/2061181865_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.345528,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 7848,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 7848,
+            "longitude": -71.08405,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/d8aa56a31f32c3673987267496b3b848-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Back Bay"
+            },
+            "price": 33000000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2061181865
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "4 Gloucester St",
+              "zipcode": "02115"
+            },
+            "attributionInfo": {
+              "agentName": "Maggie Gold Seelig",
+              "agentPhoneNumber": null,
+              "brokerName": "MGS Group Real Estate LTD",
+              "brokerPhoneNumber": null,
+              "mlsId": "73295924",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 8,
+            "bedrooms": 7,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "4 Gloucester St"
+                },
+                {
+                  "fullValue": "Boston, MA 02115"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/4-Gloucester-St-Boston-MA-02115/63711261_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.3514,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 9924,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 9924,
+            "longitude": -71.08547,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 2520,
+            "lotSize": 2520,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/f626b1e4d4e64cf93a17de0d1638b58d-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Back Bay"
+            },
+            "price": 18885000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 63711261
+          },
+          {
+            "address": {
+              "city": "Brookline",
+              "state": "MA",
+              "streetAddress": "63 Goddard Ave",
+              "zipcode": "02445"
+            },
+            "attributionInfo": {
+              "agentName": "Debby Belt",
+              "agentPhoneNumber": null,
+              "brokerName": "Hammond Residential Real Estate",
+              "brokerPhoneNumber": null,
+              "mlsId": "73384516",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 8,
+            "bedrooms": 6,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "63 Goddard Ave"
+                },
+                {
+                  "fullValue": "Brookline, MA 02445"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/63-Goddard-Ave-Brookline-MA-02445/56572557_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.318146,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 9411,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 9411,
+            "longitude": -71.13201,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 4.4984,
+            "lotSize": 195950,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/d4e5373e7e947e162825a087427d84e4-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "02445"
+            },
+            "price": 18000000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 56572557
+          },
+          {
+            "address": {
+              "city": "Brookline",
+              "state": "MA",
+              "streetAddress": "1014 Boylston St",
+              "zipcode": "02467"
+            },
+            "attributionInfo": {
+              "agentName": "Deborah M. Gordon",
+              "agentPhoneNumber": null,
+              "brokerName": "Coldwell Banker Realty - Brookline",
+              "brokerPhoneNumber": null,
+              "mlsId": "73384470",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 11,
+            "bedrooms": 7,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "1014 Boylston St"
+                },
+                {
+                  "fullValue": "Brookline, MA 02467"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/1014-Boylston-St-Brookline-MA-02467/56573960_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.324043,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 13343,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 13343,
+            "longitude": -71.15624,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 2.1132,
+            "lotSize": 92050,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/7eed61138eeb66efd6ba871bca04a127-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Chestnut Hill"
+            },
+            "price": 19000000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 56573960
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "240 Devonshire St #4901",
+              "zipcode": "02110"
+            },
+            "attributionInfo": {
+              "agentName": "MP Boston Marketing Team",
+              "agentPhoneNumber": null,
+              "brokerName": "MP Boston Marketing LLC",
+              "brokerPhoneNumber": null,
+              "mlsId": "73329749",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 4,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "Millennium Residences @ Winthrop Center"
+                },
+                {
+                  "fullValue": "240 Devonshire St #4901"
+                },
+                {
+                  "fullValue": "Boston, MA 02110"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/240-Devonshire-St-4901-Boston-MA-02110/446455403_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.35458,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 5897,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 5897,
+            "longitude": -71.05711,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/951423f2d5ccd74e0e356df6590e7862-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Downtown"
+            },
+            "price": 15950000,
+            "propertyTypeDimension": "Condo",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 446455403
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "125 Commonwealth Ave",
+              "zipcode": "02116"
+            },
+            "attributionInfo": {
+              "agentName": "Tracy Campion",
+              "agentPhoneNumber": null,
+              "brokerName": "Campion & Company Back Bay",
+              "brokerPhoneNumber": null,
+              "mlsId": "240193",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 6,
+            "bedrooms": 5,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "125 Commonwealth Ave"
+                },
+                {
+                  "fullValue": "Boston, MA 02116"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/125-Commonwealth-Ave-Boston-MA-02116/2118458662_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.352493,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 9000,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 9000,
+            "longitude": -71.077644,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/7b2a083c98d986fe19a3d57e293de281-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Back Bay"
+            },
+            "price": 14250000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 2118458662
+          },
+          {
+            "address": {
+              "city": "Newton",
+              "state": "MA",
+              "streetAddress": "9 The Ledges Rd",
+              "zipcode": "02459"
+            },
+            "attributionInfo": {
+              "agentName": "Chamberlain Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Coldwell Banker Realty - Brookline",
+              "brokerPhoneNumber": null,
+              "mlsId": "73289589",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 10,
+            "bedrooms": 6,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "9 The Ledges Rd"
+                },
+                {
+                  "fullValue": "Newton, MA 02459"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/9-The-Ledges-Rd-Newton-MA-02459/56315670_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.33218,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 12060,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 12060,
+            "longitude": -71.18414,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 0.9933425160697889,
+            "lotSize": 43270,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/f2920c7d0dd469830a3725f59442edc8-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Newton Centre"
+            },
+            "price": 18995000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 56315670
+          },
+          {
+            "address": {
+              "city": "Brookline",
+              "state": "MA",
+              "streetAddress": "280-280A Warren St",
+              "zipcode": "02445"
+            },
+            "attributionInfo": {
+              "agentName": "The Whitney Group",
+              "agentPhoneNumber": null,
+              "brokerName": "Hammond Residential Real Estate",
+              "brokerPhoneNumber": null,
+              "mlsId": "73322547",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 8,
+            "bedrooms": 6,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "280-280A Warren St"
+                },
+                {
+                  "fullValue": "Brookline, MA 02445"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/280-280A-Warren-St-Brookline-MA-02445/351985196_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.317673,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 9480,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 9480,
+            "longitude": -71.13263,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 3.6845,
+            "lotSize": 160496,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/b9b3b9eac755b5db8aec0b018238a829-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "02445"
+            },
+            "price": 16000000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 351985196
+          },
+          {
+            "address": {
+              "city": "Weston",
+              "state": "MA",
+              "streetAddress": "3 Idlewile Ln",
+              "zipcode": "02493"
+            },
+            "attributionInfo": {
+              "agentName": "Jamie Genser",
+              "agentPhoneNumber": null,
+              "brokerName": "Coldwell Banker Realty - Brookline",
+              "brokerPhoneNumber": null,
+              "mlsId": "73427072",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 11,
+            "bedrooms": 6,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "3 Idlewile Ln"
+                },
+                {
+                  "fullValue": "Weston, MA 02493"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/3-Idlewile-Ln-Weston-MA-02493/113215499_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.348225,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 14620,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 14620,
+            "longitude": -71.300575,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 8.27,
+            "lotSize": 360241,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/07cd4ffc2ab1c1fae2b146a453d19bf8-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "02493"
+            },
+            "price": 12500000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 113215499
+          },
+          {
+            "address": {
+              "city": "Cambridge",
+              "state": "MA",
+              "streetAddress": "55 Fayerweather St",
+              "zipcode": "02138"
+            },
+            "attributionInfo": {
+              "agentName": "Gail Roberts, Ed Feijo  & Team",
+              "agentPhoneNumber": null,
+              "brokerName": "Coldwell Banker Realty - Cambridge",
+              "brokerPhoneNumber": null,
+              "mlsId": "73359481",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 9,
+            "bedrooms": 7,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "55 Fayerweather St"
+                },
+                {
+                  "fullValue": "Cambridge, MA 02138"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/55-Fayerweather-St-Cambridge-MA-02138/56439921_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.379887,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 8728,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 8728,
+            "longitude": -71.13798,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 0.3773875114784206,
+            "lotSize": 16439,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/314c9250eb596c1239bdd3d908f1cf30-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "West Cambridge"
+            },
+            "price": 18000000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 56439921
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "57 Hancock St",
+              "zipcode": "02114"
+            },
+            "attributionInfo": {
+              "agentName": "Glenn Forger",
+              "agentPhoneNumber": null,
+              "brokerName": "Olde Forge Realty",
+              "brokerPhoneNumber": null,
+              "mlsId": "73340382",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 8,
+            "bedrooms": 5,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "57 Hancock St"
+                },
+                {
+                  "fullValue": "Boston, MA 02114"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/57-Hancock-St-Boston-MA-02114/59180641_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.359474,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 7777,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 7777,
+            "longitude": -71.06453,
+            "lotAreaUnits": "Square Feet",
+            "lotAreaValue": 1690,
+            "lotSize": 1690,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/8394e6cfe5c1a9ec0acfd5bb7c0ea85d-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Beacon Hill"
+            },
+            "price": 12900000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59180641
+          },
+          {
+            "address": {
+              "city": "Cambridge",
+              "state": "MA",
+              "streetAddress": "172 Brattle St",
+              "zipcode": "02138"
+            },
+            "attributionInfo": {
+              "agentName": "Maggie Gold Seelig",
+              "agentPhoneNumber": null,
+              "brokerName": "MGS Group Real Estate LTD",
+              "brokerPhoneNumber": null,
+              "mlsId": "73342079",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 10,
+            "bedrooms": 7,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "172 Brattle St"
+                },
+                {
+                  "fullValue": "Cambridge, MA 02138"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/172-Brattle-St-Cambridge-MA-02138/56440024_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.376892,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 7737,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 7737,
+            "longitude": -71.135544,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 0.3403581267217631,
+            "lotSize": 14826,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/6c9792d47a51c9f467fc1430f368f5d7-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "West Cambridge"
+            },
+            "price": 16800000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 56440024
+          },
+          {
+            "address": {
+              "city": "Milton",
+              "state": "MA",
+              "streetAddress": "610 Harland St",
+              "zipcode": "02186"
+            },
+            "attributionInfo": {
+              "agentName": "Maggie Gold Seelig",
+              "agentPhoneNumber": null,
+              "brokerName": "MGS Group Real Estate LTD",
+              "brokerPhoneNumber": null,
+              "mlsId": "73417949",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 8,
+            "bedrooms": 5,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "610 Harland St"
+                },
+                {
+                  "fullValue": "Milton, MA 02186"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/610-Harland-St-Milton-MA-02186/57472108_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.226376,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 11315,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 11315,
+            "longitude": -71.08199,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 5.98,
+            "lotSize": 260488,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/64e8b040d9915bf23090c69595af6a27-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "02186"
+            },
+            "price": 15000000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 57472108
+          },
+          {
+            "address": {
+              "city": "Boston",
+              "state": "MA",
+              "streetAddress": "22 Louisburg Sq",
+              "zipcode": "02108"
+            },
+            "attributionInfo": {
+              "agentName": "Tracy Campion",
+              "agentPhoneNumber": null,
+              "brokerName": "Campion & Company Back Bay",
+              "brokerPhoneNumber": null,
+              "mlsId": "236873",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 7,
+            "bedrooms": 4,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "22 Louisburg Sq"
+                },
+                {
+                  "fullValue": "Boston, MA 02108"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/22-Louisburg-Sq-Boston-MA-02108/59173480_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.358784,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 7424,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 7424,
+            "longitude": -71.06909,
+            "lotAreaUnits": "sqft",
+            "lotAreaValue": null,
+            "lotSize": null,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/d388a608d0d3f238ca206e5dc9503209-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "Beacon Hill"
+            },
+            "price": 16000000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 59173480
+          },
+          {
+            "address": {
+              "city": "Milton",
+              "state": "MA",
+              "streetAddress": "540 Harland St",
+              "zipcode": "02186"
+            },
+            "attributionInfo": {
+              "agentName": "Stephen Kraunelis",
+              "agentPhoneNumber": null,
+              "brokerName": "Gibson Sotheby's International Realty",
+              "brokerPhoneNumber": null,
+              "mlsId": "73396921",
+              "mlsName": null,
+              "providerLogo": null,
+              "trueStatus": null
+            },
+            "bathrooms": 7,
+            "bedrooms": 5,
+            "currency": "USD",
+            "formattedChip": {
+              "location": [
+                {
+                  "fullValue": "540 Harland St"
+                },
+                {
+                  "fullValue": "Milton, MA 02186"
+                }
+              ]
+            },
+            "hdpTypeDimension": "ForSale",
+            "hdpUrl": "/homedetails/540-Harland-St-Milton-MA-02186/57472101_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "SINGLE_FAMILY",
+            "isPremierBuilder": false,
+            "isShowcaseListing": false,
+            "latitude": 42.227306,
+            "listingMetadata": {
+              "comminglingCategoryIsRulesApplicable": true
+            },
+            "listingTypeDimension": "For Sale by Agent",
+            "listing_sub_type": {
+              "is_FSBA": true,
+              "is_FSBO": false,
+              "is_bankOwned": false,
+              "is_comingSoon": false,
+              "is_forAuction": false,
+              "is_foreclosure": false,
+              "is_newHome": false
+            },
+            "livingArea": 9300,
+            "livingAreaUnits": "Square Feet",
+            "livingAreaUnitsShort": "sqft",
+            "livingAreaValue": 9300,
+            "longitude": -71.084785,
+            "lotAreaUnits": "Acres",
+            "lotAreaValue": 8.2,
+            "lotSize": 357191,
+            "miniCardPhotos": [
+              {
+                "url": "https://photos.zillowstatic.com/fp/b0e3e649591da03e9e249cbf729dc5ae-p_c.jpg"
+              }
+            ],
+            "newConstructionType": null,
+            "parentRegion": {
+              "name": "02186"
+            },
+            "price": 11900000,
+            "propertyTypeDimension": "Single Family",
+            "providerListingID": null,
+            "state": "MA",
+            "zpid": 57472101
+          }
+        ]
+      }
+    ],
+    "trackingTags": [
+      {
+        "value": "d0ccf724dc9b72b9d7a7b4730038e9b4"
+      }
+    ]
+  },
+  "comingSoonOnMarketDate": null,
+  "communityUrl": null,
+  "contingentListingType": null,
+  "country": "USA",
+  "county": "Suffolk County",
+  "countyFIPS": null,
+  "countyId": 2045,
+  "countySearchUrl": {
+    "path": "/suffolk-county-ma/",
+    "text": "Homes in Suffolk County"
+  },
+  "currency": "USD",
+  "datePostedString": "2025-04-25",
+  "daysOnZillow": 349,
+  "description": null,
+  "desktopWebHdpImageLink": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-p_h.jpg",
+  "downPaymentAssistance": {
+    "eligibility": {
+      "dpa": false
+    }
+  },
+  "editPropertyHistorylink": null,
+  "favoriteCount": 0,
+  "featuredListingTypeDimension": "organic",
+  "foreclosingBank": null,
+  "foreclosureAmount": null,
+  "foreclosureAuctionCity": null,
+  "foreclosureAuctionDescription": null,
+  "foreclosureAuctionFilingDate": null,
+  "foreclosureAuctionLocation": null,
+  "foreclosureAuctionTime": null,
+  "foreclosureBalanceReportingDate": null,
+  "foreclosureDate": null,
+  "foreclosureDefaultDescription": null,
+  "foreclosureDefaultFilingDate": null,
+  "foreclosureJudicialType": "Non-Judicial",
+  "foreclosureLoanAmount": null,
+  "foreclosureLoanDate": null,
+  "foreclosureLoanOriginator": null,
+  "foreclosureMoreInfo": null,
+  "foreclosurePastDueBalance": null,
+  "foreclosurePriorSaleAmount": null,
+  "foreclosurePriorSaleDate": null,
+  "foreclosureTypes": {
+    "isAnyForeclosure": false,
+    "isBankOwned": false,
+    "isForeclosedNFS": false,
+    "isPreforeclosure": false,
+    "wasDefault": null,
+    "wasForeclosed": false,
+    "wasNonRetailAuction": false,
+    "wasREO": null
+  },
+  "foreclosureUnpaidBalance": null,
+  "formattedChip": {
+    "location": [
+      {
+        "fullValue": "150 Seaport Blvd"
+      },
+      {
+        "fullValue": "Boston, MA 02210"
+      }
+    ]
+  },
+  "hasApprovedThirdPartyVirtualTourUrl": false,
+  "hasBadGeocode": false,
+  "hasPublicVideo": false,
+  "hdpTypeDimension": "RecentlySold",
+  "hdpUrl": "/homedetails/150-Seaport-Blvd-Boston-MA-02210/2085896801_zpid/",
+  "hiResImageLink": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-p_f.jpg",
+  "homeInsights": [],
+  "homeStatus": "RECENTLY_SOLD",
+  "homeType": "CONDO",
+  "homeValues": null,
+  "housesForRentInZipcodeSearchUrl": {
+    "path": "/boston-ma-02210/rent-houses/"
+  },
+  "interactiveFloorPlanUrl": "",
+  "isCurrentSignedInAgentResponsible": false,
+  "isCurrentSignedInUserVerifiedOwner": false,
+  "isFeatured": false,
+  "isHousingConnector": false,
+  "isIncomeRestricted": null,
+  "isListingClaimedByCurrentSignedInUser": false,
+  "isNonOwnerOccupied": false,
+  "isPaidMultiFamilyBrokerId": false,
+  "isPreforeclosureAuction": false,
+  "isPremierBuilder": false,
+  "isRecentStatusChange": false,
+  "isRentalListingOffMarket": false,
+  "isRentalsLeadCapMet": false,
+  "isShowcaseListing": false,
+  "isUndisclosedAddress": false,
+  "isZillowOwned": false,
+  "keystoneHomeStatus": "RecentlySold",
+  "lastSoldPrice": 23512500,
+  "latitude": 42.350754,
+  "listPriceLow": null,
+  "listedBy": [
+    {
+      "elements": [
+        {
+          "action": null,
+          "id": "NAME",
+          "text": "Michael T Moynihan"
+        }
+      ],
+      "id": "LISTING_AGENT",
+      "textStyle": null
+    },
+    {
+      "elements": [
+        {
+          "action": null,
+          "id": "NAME",
+          "text": "The Collaborative Companies"
+        }
+      ],
+      "id": "BROKER",
+      "textStyle": null
+    }
+  ],
+  "listingAccount": null,
+  "listingAccountUserId": "X1-ZUz01ghzxbizux_90hcs",
+  "listingDataSource": "Phoenix",
+  "listingFeedID": null,
+  "listingMetadata": {
+    "FlexibleLayoutAA": true,
+    "FlexibleLayoutAB": true,
+    "FlexibleLayoutB": true,
+    "FlexibleLayoutC": true,
+    "FlexibleLayoutD": true,
+    "FlexibleLayoutE": true,
+    "FlexibleLayoutF": false,
+    "FlexibleLayoutG": false,
+    "FlexibleLayoutH": true,
+    "FlexibleLayoutI": true,
+    "FlexibleLayoutJ": false,
+    "FlexibleLayoutK": false,
+    "FlexibleLayoutL": false,
+    "FlexibleLayoutM": true,
+    "FlexibleLayoutN": true,
+    "FlexibleLayoutO": true,
+    "FlexibleLayoutP": true,
+    "FlexibleLayoutQ": false,
+    "FlexibleLayoutR": false,
+    "FlexibleLayoutS": false,
+    "FlexibleLayoutT": false,
+    "FlexibleLayoutU": false,
+    "FlexibleLayoutV": false,
+    "FlexibleLayoutW": false,
+    "FlexibleLayoutX": false,
+    "FlexibleLayoutY": false,
+    "FlexibleLayoutZ": false,
+    "canCommingleComparables": true,
+    "canShowAutomatedValuationDisplay": true,
+    "canShowComparables": true,
+    "canShowCroppedPhotos": true,
+    "canShowNonIDXMedia": true,
+    "canShowOnMap": true,
+    "canShowPrequalifiedLinkInChip": true,
+    "canShowPriceHistory": true,
+    "canShowTaxHistory": true,
+    "canShowUserGeneratedContent": true,
+    "canShowZillowLogoInHeader": true,
+    "comminglingCategory": true,
+    "comminglingCategoryIsRulesApplicable": true,
+    "hidePriceAdjustmentFlexField": false,
+    "isAdsRestricted": false,
+    "isSuperTrafficOptimized": false,
+    "mustAttributeOfficeNameBeforeAgentName": false,
+    "mustDisplayAttributionAboveLocalFacts": false,
+    "mustDisplayAttributionListAgentEmail": false,
+    "mustDisplayAttributionListAgentPhone": false,
+    "mustDisplayAttributionListingOfficePhone": false,
+    "mustDisplayAuctionStatusAsSold": false,
+    "mustDisplayDisclaimerBelowAttribution": false,
+    "mustDisplayFeedLogoInContactBox": false,
+    "mustHighlightAgentName": null,
+    "mustHighlightListOfficeName": false,
+    "mustHighlightMarketingType": false,
+    "mustHighlightMlsId": null,
+    "mustHighlightMlsStatus": false,
+    "mustMakeListingAgentContactable": false,
+    "mustPreferMlsPhotos": false,
+    "passwordRequiredForZestimateMarketAnalysis": false
+  },
+  "listingProvider": null,
+  "listingSubType": {
+    "isBankOwned": false,
+    "isComingSoon": false,
+    "isFSBA": false,
+    "isFSBO": false,
+    "isForAuction": false,
+    "isForeclosure": false,
+    "isNewHome": false,
+    "isOpenHouse": false,
+    "isPending": false
+  },
+  "listingTypeDimension": "Unknown Listed By",
+  "listing_agent": {
+    "agent_reason": 3,
+    "badge_type": "Listing Agent",
+    "business_name": "The Collaborative Companies",
+    "display_name": "Michael T. Moynihan",
+    "encoded_zuid": "X1-ZUz01ghzxbizux_90hcs",
+    "first_name": "Michael T.",
+    "image_data": {
+      "height": 60,
+      "url": "https://photos.zillowstatic.com/fp/b3498e06f24b663f4a82f64bf2179073-h_n.jpg",
+      "width": 60
+    },
+    "phone": {
+      "areacode": "617",
+      "number": "1660",
+      "prefix": "966"
+    },
+    "profile_url": "/profile/MTMoynihan/",
+    "rating_average": 5,
+    "recent_sales": 0,
+    "review_count": 8,
+    "reviews_url": "/profile/MTMoynihan/#reviews",
+    "services_offered": [
+      2,
+      6,
+      7,
+      73,
+      75,
+      76
+    ],
+    "username": "MTMoynihan",
+    "write_review_url": "/reviews/write/?s=X1-ZUz01ghzxbizux_90hcs",
+    "zpro": false
+  },
+  "listing_sub_type": {
+    "is_FSBA": false,
+    "is_FSBO": false,
+    "is_bankOwned": false,
+    "is_comingSoon": false,
+    "is_forAuction": false,
+    "is_foreclosure": false,
+    "is_newHome": false,
+    "is_pending": false
+  },
+  "livingArea": 10005,
+  "livingAreaUnits": "Square Feet",
+  "livingAreaUnitsShort": "sqft",
+  "livingAreaValue": 10005,
+  "longitude": -71.04276,
+  "lotAreaUnits": "sqft",
+  "lotAreaValue": null,
+  "lotPremium": null,
+  "lotSize": null,
+  "marketingName": null,
+  "mlsid": "235902",
+  "monthlyHoaFee": 23204,
+  "mortgageZHLRates": {
+    "arm5Bucket": {
+      "lastUpdated": 1758225463958,
+      "rate": 6.908,
+      "rateSource": "ZGMI"
+    },
+    "fifteenYearFixedBucket": {
+      "lastUpdated": 1758225463958,
+      "rate": 6.416,
+      "rateSource": "ZGMI"
+    },
+    "thirtyYearFixedBucket": {
+      "lastUpdated": 1758225463958,
+      "rate": 6.5,
+      "rateSource": "ZGMI"
+    }
+  },
+  "moveHomeMapLocationLink": null,
+  "nearbyCities": [
+    {
+      "body": null,
+      "name": "Boston",
+      "regionUrl": {
+        "path": "/boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Chelsea",
+      "regionUrl": {
+        "path": "/chelsea-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Revere",
+      "regionUrl": {
+        "path": "/revere-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Winthrop",
+      "regionUrl": {
+        "path": "/winthrop-ma/"
+      }
+    }
+  ],
+  "nearbyHomes": [
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "150 Seaport Blvd #6B",
+        "zipcode": "02210"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": "233584",
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 3,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "150 Seaport Blvd #6B"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "RecentlySold",
+      "hdpUrl": "/homedetails/150-Seaport-Blvd-6B-Boston-MA-02210/344145326_zpid/",
+      "homeStatus": "SOLD",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.350754,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 1485,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 1485,
+      "longitude": -71.04276,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 2491500,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 344145326
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "150 Seaport Blvd UNIT 10C",
+        "zipcode": "02210"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": "236438",
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 3,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "150 Seaport Blvd UNIT 10C"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "RecentlySold",
+      "hdpUrl": "/homedetails/150-Seaport-Blvd-UNIT-10C-Boston-MA-02210/345464122_zpid/",
+      "homeStatus": "RECENTLY_SOLD",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.350754,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 1338,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 1338,
+      "longitude": -71.04276,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 3049000,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 345464122
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "150 Seaport Blvd UNIT 17D",
+        "zipcode": "02210"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": "233942",
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 3,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "150 Seaport Blvd UNIT 17D"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "RecentlySold",
+      "hdpUrl": "/homedetails/150-Seaport-Blvd-UNIT-17D-Boston-MA-02210/346987208_zpid/",
+      "homeStatus": "SOLD",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.350754,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 1751,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 1751,
+      "longitude": -71.04276,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 4612500,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 346987208
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "150 Seaport Blvd #9F",
+        "zipcode": "02210"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": "73404218",
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 1,
+      "bedrooms": 1,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "150 Seaport Blvd #9F"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "ForSale",
+      "hdpUrl": "/homedetails/150-Seaport-Blvd-9F-Boston-MA-02210/350139048_zpid/",
+      "homeStatus": "FOR_SALE",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.350754,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "For Sale by Agent",
+      "listing_sub_type": {
+        "is_FSBA": true,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 895,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 895,
+      "longitude": -71.04276,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/7fcb37df10f8b71d412712a1d648da16-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 1850000,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 350139048
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "150 Seaport Blvd UNIT 16E",
+        "zipcode": "02210"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": "73326792",
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 4,
+      "bedrooms": 3,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "150 Seaport Blvd UNIT 16E"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "RecentlySold",
+      "hdpUrl": "/homedetails/150-Seaport-Blvd-UNIT-16E-Boston-MA-02210/351418921_zpid/",
+      "homeStatus": "RECENTLY_SOLD",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.350754,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 2553,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 2553,
+      "longitude": -71.04276,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/84524527118e48f934370777f0fb2669-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 7250000,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 351418921
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "150 Seaport Blvd UNIT 11E",
+        "zipcode": "02210"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": "73346781",
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 4,
+      "bedrooms": 3,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "150 Seaport Blvd UNIT 11E"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "ForSale",
+      "hdpUrl": "/homedetails/150-Seaport-Blvd-UNIT-11E-Boston-MA-02210/351629021_zpid/",
+      "homeStatus": "FOR_SALE",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.350754,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "For Sale by Agent",
+      "listing_sub_type": {
+        "is_FSBA": true,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 2336,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 2336,
+      "longitude": -71.04276,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/f57cc1c2c83c6e750c8777d6a1de9535-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 7399000,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 351629021
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "150 Seaport Blvd #19C-19E",
+        "zipcode": "02210"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": "234984",
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 10,
+      "bedrooms": 7,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "150 Seaport Blvd #19C-19E"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "RecentlySold",
+      "hdpUrl": "/homedetails/150-Seaport-Blvd-19C-19E-Boston-MA-02210/401795006_zpid/",
+      "homeStatus": "SOLD",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.350754,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 5525,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 5525,
+      "longitude": -71.04276,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 20348000,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 401795006
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "150 Seaport Blvd #19F",
+        "zipcode": "02210"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": "236531",
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 3,
+      "bedrooms": 2,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "150 Seaport Blvd #19F"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "RecentlySold",
+      "hdpUrl": "/homedetails/150-Seaport-Blvd-19F-Boston-MA-02210/440971177_zpid/",
+      "homeStatus": "RECENTLY_SOLD",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.350754,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "Unknown Listed By",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 1887,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 1887,
+      "longitude": -71.04276,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 4632000,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": null,
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 440971177
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "MA",
+        "streetAddress": "150 Seaport Blvd #5G",
+        "zipcode": "02210"
+      },
+      "attributionInfo": {
+        "agentName": null,
+        "agentPhoneNumber": null,
+        "brokerName": null,
+        "brokerPhoneNumber": null,
+        "mlsId": "73419205",
+        "mlsName": null,
+        "providerLogo": null,
+        "trueStatus": null
+      },
+      "bathrooms": 2,
+      "bedrooms": 1,
+      "currency": "USD",
+      "formattedChip": {
+        "location": [
+          {
+            "fullValue": "150 Seaport Blvd #5G"
+          },
+          {
+            "fullValue": null
+          }
+        ]
+      },
+      "hdpTypeDimension": "ForRent",
+      "hdpUrl": "/homedetails/150-Seaport-Blvd-5G-Boston-MA-02210/441825796_zpid/",
+      "homeStatus": "FOR_RENT",
+      "homeType": "CONDO",
+      "isPremierBuilder": false,
+      "isShowcaseListing": false,
+      "latitude": 42.350754,
+      "listingMetadata": {
+        "comminglingCategoryIsRulesApplicable": false
+      },
+      "listingTypeDimension": "For Rent",
+      "listing_sub_type": {
+        "is_FSBA": false,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+      },
+      "livingArea": 1104,
+      "livingAreaUnits": "Square Feet",
+      "livingAreaUnitsShort": "sqft",
+      "livingAreaValue": 1104,
+      "longitude": -71.04276,
+      "lotAreaUnits": "sqft",
+      "lotAreaValue": null,
+      "lotSize": null,
+      "miniCardPhotos": [
+        {
+          "url": "https://photos.zillowstatic.com/fp/4f17de18dbc14968c75cc18ab4e5ee52-p_c.jpg"
+        }
+      ],
+      "newConstructionType": null,
+      "parentRegion": null,
+      "price": 9500,
+      "propertyTypeDimension": "Condo",
+      "providerListingID": "3je7pfq8qnbax",
+      "resoFacts": {
+        "bathroomsFull": null,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsThreeQuarter": null
+      },
+      "state": "MA",
+      "zpid": 441825796
+    }
+  ],
+  "nearbyNeighborhoods": [
+    {
+      "body": null,
+      "name": "Brighton",
+      "regionUrl": {
+        "path": "/brighton-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "East Boston",
+      "regionUrl": {
+        "path": "/east-boston-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Hyde Park",
+      "regionUrl": {
+        "path": "/hyde-park-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Jamaica Plain",
+      "regionUrl": {
+        "path": "/jamaica-plain-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Roslindale",
+      "regionUrl": {
+        "path": "/roslindale-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "Roxbury",
+      "regionUrl": {
+        "path": "/roxbury-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South Boston",
+      "regionUrl": {
+        "path": "/south-boston-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South Dorchester",
+      "regionUrl": {
+        "path": "/south-dorchester-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "South End",
+      "regionUrl": {
+        "path": "/south-end-boston-ma/"
+      }
+    },
+    {
+      "body": null,
+      "name": "West Roxbury",
+      "regionUrl": {
+        "path": "/west-roxbury-boston-ma/"
+      }
+    }
+  ],
+  "nearbyZipcodes": [
+    {
+      "body": null,
+      "name": "02115",
+      "regionUrl": {
+        "path": "/boston-ma-02115/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02121",
+      "regionUrl": {
+        "path": "/boston-ma-02121/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02124",
+      "regionUrl": {
+        "path": "/boston-ma-02124/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02125",
+      "regionUrl": {
+        "path": "/boston-ma-02125/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02127",
+      "regionUrl": {
+        "path": "/boston-ma-02127/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02128",
+      "regionUrl": {
+        "path": "/boston-ma-02128/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02130",
+      "regionUrl": {
+        "path": "/boston-ma-02130/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02131",
+      "regionUrl": {
+        "path": "/boston-ma-02131/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02135",
+      "regionUrl": {
+        "path": "/boston-ma-02135/"
+      }
+    },
+    {
+      "body": null,
+      "name": "02136",
+      "regionUrl": {
+        "path": "/boston-ma-02136/"
+      }
+    }
+  ],
+  "neighborhoodId": 155633,
+  "neighborhoodMapThumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-p_c.jpg"
+    }
+  ],
+  "neighborhoodRegion": {
+    "name": "South Boston"
+  },
+  "neighborhoodSearchUrl": {
+    "path": "/south-boston-boston-ma/"
+  },
+  "newConstructionType": null,
+  "openHouseSchedule": [],
+  "originalPhotos": [
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    }
+  ],
+  "ouid": "M00000201",
+  "pageUrlFragment": "RecentlySold",
+  "pageViewCount": 62,
+  "pals": [],
+  "parcelId": "5233726",
+  "parentRegion": {
+    "name": "South Boston",
+    "regionId": 155633
+  },
+  "photoCount": 1,
+  "postingProductType": "Standard",
+  "postingUrl": null,
+  "price": 23512500,
+  "priceChange": null,
+  "priceChangeDate": null,
+  "priceChangeDateString": null,
+  "priceHistory": [
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-10-25",
+      "event": "Listing removed",
+      "postingIsRental": true,
+      "price": 16500,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 2,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1729814400000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "235902",
+        "infoString2": "LINK",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-10-03",
+      "event": "Sold",
+      "postingIsRental": false,
+      "price": 23512500,
+      "priceChangeRate": 0.155518969923334,
+      "pricePerSquareFoot": 2350,
+      "sellerAgent": {
+        "name": "Michael T. Moynihan",
+        "photo": null,
+        "profileUrl": "/profile/MTMoynihan/"
+      },
+      "showCountyLink": false,
+      "source": "LINK",
+      "time": 1727913600000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-08-01",
+      "event": "Listed for rent",
+      "postingIsRental": true,
+      "price": 16500,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 2,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1722470400000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "73260635",
+        "infoString2": "MLS PIN",
+        "infoString3": null
+      },
+      "buyerAgent": {
+        "name": "Peter Skambas",
+        "photo": null,
+        "profileUrl": "/profile/peterskambas/"
+      },
+      "date": "2024-07-17",
+      "event": "Sold",
+      "postingIsRental": false,
+      "price": 20348000,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 2034,
+      "sellerAgent": {
+        "name": "Michael T. Moynihan",
+        "photo": null,
+        "profileUrl": "/profile/MTMoynihan/"
+      },
+      "showCountyLink": false,
+      "source": "MLS PIN",
+      "time": 1721174400000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "73260635",
+        "infoString2": "MLS PIN",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-07-10",
+      "event": "Contingent",
+      "postingIsRental": false,
+      "price": 20348000,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 2034,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "MLS PIN",
+      "time": 1720569600000
+    },
+    {
+      "attributeSource": {
+        "infoString1": "73260635",
+        "infoString2": "MLS PIN",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-07-06",
+      "event": "Listed for sale",
+      "postingIsRental": false,
+      "price": 20348000,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 2034,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "MLS PIN",
+      "time": 1720224000000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-06-13",
+      "event": "Listing removed",
+      "postingIsRental": true,
+      "price": null,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": null,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1718236800000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-06-01",
+      "event": "Listed for rent",
+      "postingIsRental": true,
+      "price": 16500,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 2,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1717200000000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-05-24",
+      "event": "Listing removed",
+      "postingIsRental": true,
+      "price": null,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": null,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1716508800000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-05-15",
+      "event": "Listed for rent",
+      "postingIsRental": true,
+      "price": 16500,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 2,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1715731200000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2024-02-06",
+      "event": "Listing removed",
+      "postingIsRental": true,
+      "price": null,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": null,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1707177600000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2023-12-18",
+      "event": "Listed for rent",
+      "postingIsRental": true,
+      "price": 16500,
+      "priceChangeRate": -0.02654867256637168,
+      "pricePerSquareFoot": 2,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1702857600000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2023-11-30",
+      "event": "Listing removed",
+      "postingIsRental": true,
+      "price": null,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": null,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1701302400000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2023-09-20",
+      "event": "Listed for rent",
+      "postingIsRental": true,
+      "price": 16950,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 2,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1695168000000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2023-09-01",
+      "event": "Listing removed",
+      "postingIsRental": true,
+      "price": null,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": null,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1693526400000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2023-07-12",
+      "event": "Listed for rent",
+      "postingIsRental": true,
+      "price": 16950,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 2,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1689120000000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2023-03-25",
+      "event": "Listing removed",
+      "postingIsRental": true,
+      "price": null,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": null,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1679702400000
+    },
+    {
+      "attributeSource": {
+        "infoString1": null,
+        "infoString2": "Zillow Rentals",
+        "infoString3": null
+      },
+      "buyerAgent": null,
+      "date": "2023-02-10",
+      "event": "Listed for rent",
+      "postingIsRental": true,
+      "price": 16950,
+      "priceChangeRate": 0,
+      "pricePerSquareFoot": 2,
+      "sellerAgent": null,
+      "showCountyLink": false,
+      "source": "Zillow Rentals",
+      "time": 1675987200000
+    }
+  ],
+  "primaryPublicVideo": null,
+  "propertyEventLogLink": null,
+  "propertyTaxRate": 0.67,
+  "propertyTypeDimension": "Condo",
+  "propertyUpdatePageLink": null,
+  "providerListingID": null,
+  "rentZestimate": 8228,
+  "rentalApplicationsAcceptedType": "REQUEST_TO_APPLY",
+  "resoFacts": {
+    "aboveGradeFinishedArea": null,
+    "accessibilityFeatures": null,
+    "additionalFeeInfo": null,
+    "additionalParcelsDescription": null,
+    "appliances": null,
+    "architecturalStyle": null,
+    "associationAmenities": null,
+    "associationFee": "$23,204 monthly",
+    "associationFee2": null,
+    "associationFeeIncludes": null,
+    "associationName": null,
+    "associationName2": null,
+    "associationPhone": null,
+    "associationPhone2": null,
+    "associations": [
+      {
+        "feeFrequency": "$23,204 monthly",
+        "name": null,
+        "phone": null
+      }
+    ],
+    "atAGlanceFacts": [
+      {
+        "factLabel": "Type",
+        "factValue": "Condominium"
+      },
+      {
+        "factLabel": "Year Built",
+        "factValue": "2022"
+      },
+      {
+        "factLabel": "Heating",
+        "factValue": "Electric"
+      },
+      {
+        "factLabel": "Cooling",
+        "factValue": null
+      },
+      {
+        "factLabel": "Parking",
+        "factValue": "4 Parking spaces"
+      },
+      {
+        "factLabel": "HOA",
+        "factValue": "$23,204 monthly"
+      },
+      {
+        "factLabel": "Offer Review Date",
+        "factValue": null
+      }
+    ],
+    "attic": null,
+    "availabilityDate": null,
+    "basement": null,
+    "basementYN": null,
+    "bathrooms": 10,
+    "bathroomsFloat": 10,
+    "bathroomsFull": 8,
+    "bathroomsHalf": 2,
+    "bathroomsOneQuarter": null,
+    "bathroomsPartial": null,
+    "bathroomsThreeQuarter": null,
+    "bedrooms": 6,
+    "belowGradeFinishedArea": null,
+    "bodyType": null,
+    "builderModel": null,
+    "builderName": null,
+    "buildingArea": "10,005",
+    "buildingAreaSource": null,
+    "buildingFeatures": null,
+    "buildingName": null,
+    "canRaiseHorses": false,
+    "carportParkingCapacity": null,
+    "cityRegion": "Boston",
+    "commonWalls": null,
+    "communityFeatures": null,
+    "compensationBasedOn": null,
+    "constructionMaterials": [],
+    "contingency": null,
+    "cooling": null,
+    "coveredParkingCapacity": null,
+    "cropsIncludedYN": null,
+    "cumulativeDaysOnMarket": null,
+    "developmentStatus": null,
+    "doorFeatures": null,
+    "electric": null,
+    "elementarySchool": null,
+    "elementarySchoolDistrict": null,
+    "elevation": null,
+    "elevationUnits": null,
+    "entryLevel": null,
+    "entryLocation": null,
+    "exclusions": null,
+    "exteriorFeatures": [
+      "Balc"
+    ],
+    "feesAndDues": [
+      {
+        "fee": "$23,204 monthly",
+        "name": null,
+        "phone": null,
+        "type": "HOA"
+      }
+    ],
+    "fencing": null,
+    "fireplaceFeatures": null,
+    "fireplaces": null,
+    "flooring": null,
+    "foundationArea": null,
+    "foundationDetails": [],
+    "frontageLength": null,
+    "frontageType": null,
+    "furnished": false,
+    "garageParkingCapacity": null,
+    "gas": null,
+    "greenBuildingVerificationType": null,
+    "greenEnergyEfficient": null,
+    "greenEnergyGeneration": null,
+    "greenIndoorAirQuality": null,
+    "greenSustainability": null,
+    "greenWaterConservation": null,
+    "hasAdditionalParcels": false,
+    "hasAssociation": null,
+    "hasAttachedGarage": null,
+    "hasAttachedProperty": false,
+    "hasCarport": null,
+    "hasCooling": null,
+    "hasElectricOnProperty": null,
+    "hasFireplace": false,
+    "hasGarage": false,
+    "hasHeating": true,
+    "hasHomeWarranty": false,
+    "hasLandLease": false,
+    "hasOpenParking": null,
+    "hasPetsAllowed": null,
+    "hasPrivatePool": true,
+    "hasRentControl": null,
+    "hasSpa": false,
+    "hasView": false,
+    "hasWaterfrontView": null,
+    "heating": [
+      "Electric"
+    ],
+    "highSchool": null,
+    "highSchoolDistrict": null,
+    "hoaFee": "$23,204 monthly",
+    "hoaFeeTotal": "$23,204 monthly",
+    "homeType": "Condo",
+    "horseAmenities": null,
+    "horseYN": null,
+    "inclusions": null,
+    "incomeIncludes": null,
+    "interiorFeatures": [
+      "AC",
+      "C",
+      "D",
+      "D/D",
+      "HW",
+      "Pool",
+      "ValPk",
+      "Vws"
+    ],
+    "irrigationWaterRightsAcres": null,
+    "irrigationWaterRightsYN": null,
+    "isNewConstruction": null,
+    "isSeniorCommunity": null,
+    "landLeaseAmount": null,
+    "landLeaseExpirationDate": null,
+    "laundryFeatures": null,
+    "leaseTerm": null,
+    "levels": null,
+    "listAOR": null,
+    "listingId": null,
+    "listingTerms": null,
+    "livingArea": "10,005 sqft",
+    "livingAreaRange": null,
+    "livingAreaRangeUnits": null,
+    "livingQuarters": [],
+    "lotFeatures": null,
+    "lotSize": null,
+    "lotSizeDimensions": null,
+    "mainLevelBathrooms": null,
+    "mainLevelBedrooms": 0,
+    "marketingType": null,
+    "media": [],
+    "middleOrJuniorSchool": null,
+    "middleOrJuniorSchoolDistrict": null,
+    "municipality": null,
+    "numberOfUnitsInCommunity": null,
+    "numberOfUnitsVacant": null,
+    "offerReviewDate": null,
+    "onMarketDate": 1745539200000,
+    "openParkingCapacity": null,
+    "otherEquipment": null,
+    "otherFacts": [],
+    "otherParking": null,
+    "otherStructures": null,
+    "ownership": null,
+    "ownershipType": null,
+    "parcelNumber": "5233726",
+    "parkName": null,
+    "parkingCapacity": 4,
+    "parkingFeatures": [
+      "Valet"
+    ],
+    "patioAndPorchFeatures": null,
+    "petsMaxWeight": null,
+    "poolFeatures": null,
+    "pricePerSquareFoot": 2350,
+    "propertyCondition": null,
+    "propertySubType": [
+      "Condominium"
+    ],
+    "roadSurfaceType": null,
+    "roofType": null,
+    "roomTypes": null,
+    "rooms": [
+      {
+        "area": null,
+        "description": null,
+        "dimensions": null,
+        "features": null,
+        "level": null,
+        "roomArea": null,
+        "roomAreaSource": null,
+        "roomAreaUnits": null,
+        "roomDescription": null,
+        "roomDimensions": null,
+        "roomFeatures": [
+          "O"
+        ],
+        "roomLength": null,
+        "roomLengthWidthSource": null,
+        "roomLengthWidthUnits": null,
+        "roomLevel": null,
+        "roomType": "Kitchen",
+        "roomWidth": null
+      }
+    ],
+    "securityFeatures": null,
+    "sewer": null,
+    "spaFeatures": null,
+    "specialListingConditions": null,
+    "stories": null,
+    "storiesDecimal": null,
+    "storiesTotal": null,
+    "structureType": null,
+    "subdivisionName": null,
+    "taxAnnualAmount": 400000,
+    "taxAssessedValue": 35906000,
+    "tenantPays": null,
+    "topography": null,
+    "totalActualRent": null,
+    "utilities": null,
+    "vegetation": null,
+    "view": [],
+    "virtualTour": null,
+    "waterBodyName": null,
+    "waterSource": null,
+    "waterView": null,
+    "waterViewYN": null,
+    "waterfrontFeatures": null,
+    "windowFeatures": null,
+    "woodedArea": null,
+    "yearBuilt": 2022,
+    "yearBuiltEffective": null,
+    "zoning": null,
+    "zoningDescription": null
+  },
+  "responsivePhotos": [
+    {
+      "caption": "",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_192.jpg",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_384.jpg",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_576.jpg",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_768.jpg",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_1152.jpg",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_1344.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_1536.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_192.webp",
+            "width": 192
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_384.webp",
+            "width": 384
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_576.webp",
+            "width": 576
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_768.webp",
+            "width": 768
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_960.webp",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_1152.webp",
+            "width": 1152
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_1344.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-cc_ft_1536.webp",
+            "width": 1536
+          }
+        ]
+      },
+      "subjectType": null,
+      "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-p_d.jpg"
+    }
+  ],
+  "responsivePhotosOriginalRatio": [
+    {
+      "caption": "",
+      "key": "76a0065509fa379695ce7c7c0b8ad4e3",
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-d_d.jpg",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-o_a.jpg",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-uncropped_scaled_within_1344_1008.jpg",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-uncropped_scaled_within_1536_1152.jpg",
+            "width": 1536
+          }
+        ],
+        "webp": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-d_d.webp",
+            "width": 800
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-o_a.webp",
+            "width": 1024
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-uncropped_scaled_within_1344_1008.webp",
+            "width": 1344
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-uncropped_scaled_within_1536_1152.webp",
+            "width": 1536
+          }
+        ]
+      }
+    }
+  ],
+  "restimateHighPercent": null,
+  "restimateLowPercent": null,
+  "richMedia": null,
+  "richMediaVideos": null,
+  "schools": [
+    {
+      "assigned": null,
+      "distance": 1,
+      "grades": "PK-8",
+      "isAssigned": null,
+      "level": "Primary",
+      "link": "https://www.greatschools.org/massachusetts/boston/267-James-Condon-Elementary-School/",
+      "name": "James F. Condon School",
+      "rating": 3,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    },
+    {
+      "assigned": null,
+      "distance": 1.2,
+      "grades": "9-12",
+      "isAssigned": null,
+      "level": "High",
+      "link": "https://www.greatschools.org/massachusetts/boston/2998-Excel-High-School/",
+      "name": "Excel High School",
+      "rating": 1,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    },
+    {
+      "assigned": null,
+      "distance": 1.1,
+      "grades": "PK-6",
+      "isAssigned": null,
+      "level": "Primary",
+      "link": "https://www.greatschools.org/massachusetts/boston/314-Adams-Elementary-School/",
+      "name": "Adams Elementary School",
+      "rating": 4,
+      "size": null,
+      "studentsPerTeacher": null,
+      "totalCount": null,
+      "type": "Public"
+    }
+  ],
+  "sellingSoon": [],
+  "ssid": 18162,
+  "state": "MA",
+  "stateId": 26,
+  "stateSearchUrl": {
+    "path": "/ma/"
+  },
+  "staticMap": {
+    "sources": [
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.350754,-71.04276&zoom=13&size=192x144&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=l-GTNDmXk5o14wAyiahfo26hGLc=",
+        "width": 192
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.350754,-71.04276&zoom=15&size=192x144&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=cFU3YnPWszTzQe1g4_npgKX5izw=",
+        "width": 192
+      },
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.350754,-71.04276&zoom=14&size=384x288&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=4a5fgXQqoC6i_rxw24tyhYfEFog=",
+        "width": 384
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.350754,-71.04276&zoom=15&size=384x288&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=-kNlkjitGNm_BUcgrNsgFjZINiE=",
+        "width": 384
+      },
+      {
+        "isHighResolutionStaticMap": null,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.350754,-71.04276&zoom=15&size=768x576&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=eFtvbnMfQtSC1KKefr9qsSNJWpI=",
+        "width": 768
+      },
+      {
+        "isHighResolutionStaticMap": true,
+        "url": "https://maps.googleapis.com/maps/api/staticmap?center=42.350754,-71.04276&zoom=15&size=768x576&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&scale=2&signature=HDLQ13zPNDALd7CV4dh68zZEQTE=",
+        "width": 768
+      }
+    ]
+  },
+  "streetAddress": "150 Seaport Blvd",
+  "streetViewMetadataUrlMapLightboxAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=150+Seaport+Blvd%2C+Boston%2C+MA+02210&key=AIzaSyBV4lXhV-qzQOegyA3m0_AvGy9F21HIyOQ&source=outdoor&signature=Ag7c1FtZ6933uLTYQrzshC5ZFSY=",
+  "streetViewMetadataUrlMediaWallAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=150+Seaport+Blvd%2C+Boston%2C+MA+02210&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=VTmuLO1loEn_f47xywUMRWQCQr4=",
+  "streetViewMetadataUrlMediaWallLatLong": "https://maps.googleapis.com/maps/api/streetview/metadata?location=42.350754,-71.042760&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=9fWshQbNzGgcSo9VEPZVourHSSc=",
+  "streetViewServiceUrl": "https://street-view-url.prod.zgk-partner.zillowapi.com?zpid=2085896801&address=150%20Seaport%20Blvd%2C%20Boston%2C%20MA%2002210&width=512&height=234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&maxdistance=5280&lat=42.350754&lon=-71.04276&ttloverrides=%7B%22yesAddressSeconds%22:604800%7D&signature=M-ZJQZWFO4tBGMq1B42vwKY2O8k=",
+  "streetViewTileImageUrlMediumAddress": "https://maps.googleapis.com/maps/api/streetview?location=150+Seaport+Blvd%2C+Boston%2C+MA+02210&size=400x250&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=Ng-DFyqDEPOau6K2r5Lnm0hZmWM=",
+  "streetViewTileImageUrlMediumLatLong": "https://maps.googleapis.com/maps/api/streetview?location=42.350754,-71.042760&size=400x250&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=-U3lsd6-7bxNpWMue06opFzDp9U=",
+  "submitFlow": [
+    {
+      "__typename": "PropertyLeadSubmitForm",
+      "buttonText": "Contact agent",
+      "checkboxes": [
+        {
+          "financingType": "ZGMI",
+          "initialClickstreamMetadata": {
+            "onPageView": {
+              "clickstream_trigger": {
+                "trigger_source_nm": "contact_form_with_zgmi",
+                "trigger_type_nm": "impression"
+              },
+              "envelope": {
+                "event_template_id": "374",
+                "event_template_version_id": "1",
+                "event_type_id": "5860",
+                "event_type_version_id": "7"
+              },
+              "semantic": {
+                "semantic_event_nm": "view_content",
+                "topic_tag_txt": []
+              }
+            }
+          },
+          "isCheckedInitialState": true,
+          "label": "I want financing information",
+          "leadFieldName": "wantsFinancing"
+        }
+      ],
+      "clickstreamMetadata": {
+        "onPageView": null
+      },
+      "componentPositionOrder": [
+        "InputFields",
+        "CTA",
+        "Checkboxes",
+        "TCPADisclosure"
+      ],
+      "cta": {
+        "action": null,
+        "clickstreamMetadata": {
+          "onClick": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_agent_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6152",
+              "event_type_version_id": "3"
+            },
+            "semantic": {
+              "semantic_event_nm": "request_contact_start",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          },
+          "onError": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6466",
+              "event_type_version_id": "3"
+            },
+            "semantic": {
+              "semantic_event_nm": "contact_request_error",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          },
+          "onSuccess": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "button_to_complete_contact_form",
+              "trigger_type_nm": "interaction"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "397",
+              "event_type_version_id": "6"
+            },
+            "semantic": {
+              "semantic_event_nm": "request_contact_complete",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          }
+        },
+        "helpText": null,
+        "isSticky": false,
+        "label": "Contact agent"
+      },
+      "disclosure": null,
+      "error": null,
+      "financingCheckbox": {
+        "financingType": "ZGMI",
+        "initialClickstreamMetadata": {
+          "onPageView": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "contact_form_with_zgmi",
+              "trigger_type_nm": "impression"
+            },
+            "envelope": {
+              "event_template_id": "374",
+              "event_template_version_id": "1",
+              "event_type_id": "5860",
+              "event_type_version_id": "7"
+            },
+            "semantic": {
+              "semantic_event_nm": "view_content",
+              "topic_tag_txt": []
+            }
+          }
+        },
+        "isCheckedInitialState": true,
+        "label": "I want financing information",
+        "leadFieldName": "wantsFinancing"
+      },
+      "heading": null,
+      "headingIcon": null,
+      "inputFields": [
+        {
+          "clientSideValidationErrorMessage": "Enter your name",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "name",
+          "inputType": "NAME",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Name",
+          "maxCharacters": null,
+          "placeholder": null,
+          "validationRegex": null,
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": "Enter a valid US or Canadian phone number",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "phoneNumber",
+          "inputType": "PHONE_NUMBER",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Phone",
+          "maxCharacters": null,
+          "placeholder": null,
+          "validationRegex": "/^\\(?([2-9][0-8][0-9])\\)?[\\-. ]?([2-9][0-9]{2})[\\-. ]?([0-9]{4})(?: x(\\d{1,4}))?$/",
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": "Enter a valid email address",
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "emailAddress",
+          "inputType": "EMAIL",
+          "isRequired": true,
+          "isUserInputDisabled": false,
+          "label": "Email",
+          "maxCharacters": 320,
+          "placeholder": null,
+          "validationRegex": "/^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-zA-Z]{2,63}$/i",
+          "value": null
+        },
+        {
+          "clientSideValidationErrorMessage": null,
+          "defaultSubmitValue": null,
+          "error": null,
+          "inputName": "message",
+          "inputType": "MESSAGE",
+          "isRequired": false,
+          "isUserInputDisabled": false,
+          "label": "Message",
+          "maxCharacters": null,
+          "placeholder": "Add details or questions about what you\u2019re looking for",
+          "validationRegex": null,
+          "value": "I would like advice about selling a home similar to 150 Seaport Blvd, Boston, MA 02210."
+        }
+      ],
+      "subheading": null,
+      "tcpa": {
+        "clickstreamMetadata": {
+          "onPageView": {
+            "clickstream_trigger": {
+              "trigger_source_nm": "scroll_contact_screen_disclaimer",
+              "trigger_type_nm": "impression"
+            },
+            "envelope": {
+              "event_template_id": "68",
+              "event_template_version_id": "1",
+              "event_type_id": "6465",
+              "event_type_version_id": "4"
+            },
+            "semantic": {
+              "semantic_event_nm": "view_content",
+              "topic_tag_txt": [
+                "contact_request"
+              ]
+            }
+          }
+        },
+        "telephoneConsumerProtectionActDisclaimer": {
+          "text": "By pressing Contact agent, you agree that Zillow Group and its affiliates, and real estate professionals may call/text you about your inquiry, which may involve use of automated means and prerecorded/artificial voices. You don\u2019t need to consent as a condition of buying any property, goods or services. Message/data rates may apply. You also agree to our Terms of Use. Zillow does not endorse any real estate professionals. We may share information about your recent and future site activity with your agent to help them understand what you\u2019re looking for in a home.",
+          "textAttributes": [
+            {
+              "__typename": "TourViewModuleTextTooltipAttribute",
+              "tokenEndIndex": 104,
+              "tokenStartIndex": 79,
+              "tooltipText": "\u201cReal estate professionals\u201d includes the real estate agents and brokers, mortgage lenders and loan officers, property managers, and other professionals you interact with through Zillow. Zillow Premier Agent is an advertising program that helps connect customers to local real estate professionals. Zillow Premier Agent partners are paid advertisers and are not affiliated with Zillow, Inc. brokerage or any of its affiliates."
+            },
+            {
+              "__typename": "TourViewModuleTextLinkAttribute",
+              "tokenEndIndex": 367,
+              "tokenStartIndex": 355,
+              "url": "https://www.zillow.com/z/corp/terms/"
+            }
+          ]
+        }
+      },
+      "telephoneConsumerProtectionActDisclaimer": {
+        "text": "By pressing Contact agent, you agree that Zillow Group and its affiliates, and real estate professionals may call/text you about your inquiry, which may involve use of automated means and prerecorded/artificial voices. You don\u2019t need to consent as a condition of buying any property, goods or services. Message/data rates may apply. You also agree to our Terms of Use. Zillow does not endorse any real estate professionals. We may share information about your recent and future site activity with your agent to help them understand what you\u2019re looking for in a home.",
+        "textAttributes": [
+          {
+            "__typename": "TourViewModuleTextTooltipAttribute",
+            "tokenEndIndex": 104,
+            "tokenStartIndex": 79,
+            "tooltipText": "\u201cReal estate professionals\u201d includes the real estate agents and brokers, mortgage lenders and loan officers, property managers, and other professionals you interact with through Zillow. Zillow Premier Agent is an advertising program that helps connect customers to local real estate professionals. Zillow Premier Agent partners are paid advertisers and are not affiliated with Zillow, Inc. brokerage or any of its affiliates."
+          },
+          {
+            "__typename": "TourViewModuleTextLinkAttribute",
+            "tokenEndIndex": 367,
+            "tokenStartIndex": 355,
+            "url": "https://www.zillow.com/z/corp/terms/"
+          }
+        ]
+      },
+      "title": "Contact agent"
+    },
+    {
+      "__typename": "AuthOTP",
+      "authStyle": "EMBEDDED",
+      "isInZIBSMarket": false
+    },
+    {
+      "__typename": "FormQuestionnaire"
+    }
+  ],
+  "taxHistory": [],
+  "thirdPartyVirtualTour": {
+    "approved": false,
+    "externalUrl": null,
+    "lightboxUrl": null,
+    "providerKey": null,
+    "staticUrl": null
+  },
+  "thumb": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/76a0065509fa379695ce7c7c0b8ad4e3-p_a.jpg"
+    }
+  ],
+  "timeOnZillow": "349 days",
+  "timeZone": "America/New_York",
+  "tourEligibility": {
+    "isPropertyTourEligible": false,
+    "propertyTourOptions": {
+      "isFinal": true,
+      "tourAvailability": [],
+      "tourType": "NONE"
+    }
+  },
+  "tourViewCount": 0,
+  "virtualTourUrl": null,
+  "whatILove": null,
+  "yearBuilt": 2022,
+  "zestimate": 4650700,
+  "zestimateHighPercent": "7",
+  "zestimateLowPercent": "7",
+  "zipcode": "02210",
+  "zipcodeId": 58692,
+  "zipcodeSearchUrl": {
+    "path": "/boston-ma-02210/"
+  },
+  "zpid": 2085896801
+}
