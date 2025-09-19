@@ -20,3 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Ignore local Chome automation profile dir
+profile/
+# Ignore zillow api key
+zillow_api.key
