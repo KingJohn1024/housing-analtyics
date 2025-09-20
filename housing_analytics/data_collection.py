@@ -203,7 +203,7 @@ class DataCollection(object):
             # Click via JavaScript to avoid interception issues
             driver.execute_script('arguments[0].click();', show_more_button)
             self.logger.info("Clicked 'Show more' button.")
-        except:
+        except Exception as _:
             self.logger.info("No 'Show more' button found. Proceeding...")
 
         try:
@@ -217,7 +217,7 @@ class DataCollection(object):
             )
             driver.execute_script('arguments[0].click();', show_more_button)
             self.logger.info("Clicked 'Show more' button 2.")
-        except:
+        except Exception as _:
             self.logger.info("No 'Show more' button 2 found. Proceeding...")
 
         try:
