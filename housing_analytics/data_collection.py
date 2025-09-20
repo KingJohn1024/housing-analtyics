@@ -16,20 +16,16 @@ from selenium.webdriver.support import expected_conditions as EC
 
 class DataCollection(object):
     def __init__(self, verbose=False):
-        # zillow_api_key = '9202cb6d35msh267f818513d4c85p1364fdjsn3cbef17f0867'
-        # zillow_api_key = '77b988d7b0mshe29695b4b1b70e4p143e3cjsnf8aebb0e1e9d'
-        # zillow_api_key = 'fcceabeb9amshbf564b56f3106afp1ed137jsn86bb664919c2'
-        # zillow_api_key = '322d8225bfmsh27bf206ed5a9ac1p16fceejsn20980c1afc0b'
-        # b183b26252msh3407ce7bff0814fp117a74jsn890671917ddc
-        # 7044be31eemsh278b3d382abfd55p1a1fbcjsn24044b859476
-        # e2168eb707msh4b307843c2da548p17279ejsn291624712ef8
-        # 91f66d2f09msh8dc35b159089680p104960jsn5d64660af0fb
-        # 99b0909d72mshbd9ab77a45a3866p11e957jsn1a39b88f6308
-        # d9725d8ae0msh9cc08f8d952a3c4p1ef844jsn4f55ced906d0
-        # ea0c6df2d1mshccd1bb367b4a2bap1b7ecbjsn44477cc7dbed
-        # d85572692bmshafabd3e3490a627p199f7djsn413da74bd549
-        self.zillow_api_key = 'd85572692bmshafabd3e3490a627p199f7djsn413da74bd549'
+        # Read the Zillow API key
+        self.project_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        zillow_api_key_file = f'{self.project_path}/zillow_api.key'
+        if os.path.exists(zillow_api_key_file):
+            with open(zillow_api_key_file) as f:
+                self.zillow_api_key = f.read()
+        else:
+            raise Exception(f'Zillow API key filling missing: {zillow_api_key_file}')
 
+        # Shared API configuration
         self.url = 'https://zillow56.p.rapidapi.com'
         self.search_url = f'{self.url}/search'
         self.headers = {
