@@ -2,22 +2,22 @@ import os
 import json
 import time
 import signal
-import logging
 import requests
 import numpy as np
 import pandas as pd
 import undetected_chromedriver as uc
-from datetime import date
 from lxml.html import fromstring  # Replace this call?
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from housing_analytics.base import Base
 
 
-class DataCollection(object):
+class DataCollection(Base):
     def __init__(self, verbose=False):
+        super().__init__(verbose=verbose)
+
         # Read the Zillow API key
-        self.project_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         zillow_api_key_file = f'{self.project_path}/zillow_api.key'
         if os.path.exists(zillow_api_key_file):
             with open(zillow_api_key_file) as f:
@@ -35,10 +35,6 @@ class DataCollection(object):
         self.rate_limit_error = {
             'message': 'You have exceeded the rate limit per second for your plan, BASIC, by the API provider'
         }
-
-        # Set the logging level based on the verbose parameter
-        self.logger = logging.getLogger(__name__)
-        self.logger.setLevel(logging.DEBUG if verbose else logging.CRITICAL)
 
     def get_proxy_server(self, require_ssl=False):
         """
@@ -118,7 +114,7 @@ class DataCollection(object):
         return df
 
     def upsert_frame(self, df: pd.DataFrame, frame_name: str, key: str):
-        fpath = f'./data/{frame_name}.pq'
+        fpath = f'{self.root_path}/data/{frame_name}.pq'
         if os.path.exists(fpath):
             existing = pd.read_parquet(fpath)
             combined = pd.concat(
@@ -150,7 +146,7 @@ class DataCollection(object):
             # raise Exception('Rate limit hit, json return is warning only')
             self.logger('Hit rate limit, sleeping for 10 seconds')
             time.sleep(10)
-        fpath = f'./data/property_profiles/{zpid}.json'
+        fpath = f'{self.root_path}/data/property_profiles/{zpid}.json'
         with open(fpath, 'w') as f:
             json.dump(data, f, indent=2)
 
@@ -311,7 +307,7 @@ class DataCollection(object):
             )
             self.logger.info(f'ZPID: {zpid} - Listing Date: {listing_date}')
             df.loc[df.zpid == int(zpid), 'ListingDate'] = listing_date
-            df.to_parquet(f'./data/{frame_name}.pq')  # Refresh the data
+            df.to_parquet(f'{self.root_path}/data/{frame_name}.pq')  # Refresh the data
 
         # The driver could be in a failed state, in which case calling close will throw an exception
         try:
@@ -320,14 +316,6 @@ class DataCollection(object):
             pass
         shared_driver.quit()
         os.kill(shared_driver.service.process.pid, signal.SIGTERM)
-
-    def load_property_profile(self, zpid):
-        fpath = f'./data/property_profiles/{zpid}.json'
-        if not os.path.exists(fpath):
-            self.get_property_profile(zpid=zpid)
-        with open(fpath, 'r') as f:
-            pp = json.load(f)
-        return pp
 
     def run_data_collection(self):
         # zero - init the storage location
@@ -350,7 +338,8 @@ class DataCollection(object):
         # Step 3 - Collect property profile data for all zpids
         all_zpids = list(set(df_sold.zpid.to_list() + df_listing.zpid.to_list()))
         existing_zpids = [
-            int(f.split('.')[0]) for f in os.listdir('./data/property_profiles')
+            int(f.split('.')[0])
+            for f in os.listdir(f'{self.root_path}data/property_profiles')
         ]
         process_zpids = list(set(all_zpids) - set(existing_zpids))
         for zpid in process_zpids:
